@@ -2,47 +2,49 @@
 
 # Viagem de bicicleta à Patagônia
 
+por daniel werle arenhart
 
+Por volta de dois anos e meio depois de ter voltado, decidi passar a limpo e reviver os manoescritos da caderneta de viagem.
+
+São relatos de uma viagem de bicicleta saindo de Estrela - Brasil até a Patagônia no verão de 2017-2018.
 
 
 
 ## Sumário
 
+- [Pré Viagem](#pre-viagem)
 
+  - [Motivação](#motivacao)
+  - [Quando](#quando)
 
+  - [Equipamento](#equipamento)
+  - [Riscos](#riscos)
 
+- [A Viagem](#a-viagem)
 
+  - [Rio Grande do Sul](#rio-grande-do-sul)
+    - [Dia 1](#dia-1) ... [Dia 6](#dia-6)
+  - [Uruguai](#uruguai)
+    - [Dia 7](#dia-7) ... [Dia 20](#dia-20)
 
-
-[Pré Viagem](pre-viagem)
-
-​	[Motivação](motivacao)
-
-​	[Quando](quando)
-
-​	[Equipamento](equipamento)
-
-​	[Riscos](riscos)
-
-[A Viagem](a-viagem)
-
-​	[Rio Grande do Sul](rio-grande-do-sul)
-
-​		[Dia 1](#dia-1) ... [Dia 6](#dia-6)
-
-​	[Uruguai](#uruguai)
-
-​		[Dia 7](#dia-7) ... [Dia 20](#dia-20)
-
-​	[Argentina](#argentina)
-
-​		[Dia 7](#dia-7) ... [Dia 20](#dia-20)
+  - [Argentina](#argentina)
+    - [Dia 7](#dia-7) ... [Dia 20](#dia-20)
 
 
 
 ## Pré Viagem
 
+
+
+### Objetivo
+
+Viajar de Bike
+
+
+
 ### Motivação
+
+A motivação surgiu de viagens menores feitas anteriormente.
 
 > “Todo sonho é uma derrota em potencial. Para não o realizar, basta manter-se parado” Argus Saturnino
 
@@ -52,47 +54,29 @@
 
 
 
-anciedade diminui com mais incertezas
-
 ### Quando
 
-
-
-A decisão foi um processo lento.
-
-
-
-1 ano e 5 meses antes, decidi que iria algum momento fazer uma viagem grande pela america do sul.
-
-
-
-1 ano e 4 meses antes, comecei a contar para as pessoas próximas mas sem certeza.
-
-
-
-1 ano e 3 meses antes, decidi que sairia do trabalho em +- 1 ano e viajaria por +- 1 ano.
+Decidi que iria algum momento fazer uma grande viagem pela américa do sul 1 ano e 5 meses antes de ter saído. Dois meses depois, decidi que em mais ou menos um ano sairia e comecei a contar para as pessoas.  O objetivo era sair antes do inicio do verão para pegar um clima mais confortável na Patagônia. Ainda não sabia o tempo que levaria, mas seria menos de 1 ano (foram 4 meses). 
 
 
 
 ### Equipamento
 
-1 ano antes comprei o quadro Trek 930 da bicicleta que eu iria montar para a viagem. Escolhi e montei peça por peça para entender bem a mecânica, mal eu sabia que na viagem não iria precisar nada mais que passar oleo na correia, remendar camara e trocar cabos.
+Comprei o quadro para a bicicleta que eu iria montar para a viagem um ano antes. Escolhi e montei peça por peça para entender bem a mecânica, mas mal eu sabia que na viagem não precisaria nada mais além de passar oleo na correia, remendar câmara e trocar cabos. Para começar a viajar de bicicleta não é preciso se preparar muito nem ter o melhor equipamento, mas me diverti escolhendo cuidadosamente cada um dos itens que levaria buscando leveza, conforto e independência. 
 
 
 
 ### Riscos
 
-roubo
+Identifiquei alguns riscos e refleti sobre como evitá-los:
 
-ficar sem água:  Ver no mapa uma cidade a 100 km, e depois descobrir que são 100km de areia fofa.
+Roubo: Não é um risco vital, não dei muita importância, mas evitar capitais já é suficiente.
 
-perder cartão e dinheiro
+Ficar sem água: Sempre levei água extra para cozinhar, cuidar da higiene e lavar louça portanto caso faltasse, abriria mão destes luxos. Tiveram poucos trajetos longos onde não houvesse motoristas para quem poderia pedir ajuda.
 
-ser atropelado
+Perder cartão e dinheiro: Não é um risco vital, não dei muita importância, mas tentei separar as coisas em mais de um lugar.
 
-se acidentar e perder a locomoção longe de uma cidade
-
-qual a fração de dias que passaria por uma estrada não movimentada?
+Ser atropelado: Evitar todas capitais e estradas mais movimentadas.
 
 
 
@@ -100,15 +84,15 @@ qual a fração de dias que passaria por uma estrada não movimentada?
 
 ### Rio Grande do Sul
 
-Dia 0
-
 #### Dia 1 - 13/10/2017
 
-Família Arenhart toda chegou na despedida.
+A presença, o bom humor e o apoio das pessoas foi muito importante para dar inicio à viagem.
+
+Meu irmão Fafa, o Matheus Bechert e o Adriano (Tinanço) me acompanharam.
 
 Quebrou bagageiro do fafa. Concertamos em um mecânico. Ele não queria cobrar nada mas demos 10 reais.
 
-Fafa Bechert e Tinanço acompanharam
+
 
 Choveu durante a saída e um pouco no resto do dia.
 
@@ -250,7 +234,7 @@ Colonia Cello
 
 Esperei nos bombeiros até parar a chuva. Estrada boa, vento favorável. Cheguei na policia, não tinha ninguém, o visinho começou a conversar e logo já ofereceu a casa. Gaston, Sofia e a filha Anita. Sofia Tocou umas músicas argentinas - zamba carpera, chamamé, carnavalito, Gato, chacarera. A praça é quase maior que a cidade. Tinha gravado as músicas que ela tocou, mas perdi.
 
-![](./img/FB_IMG_15097999207876126.jpg)
+![A familia que me recebeu em Colonia Cello](./img/FB_IMG_15097999207876126.jpg)
 
 #### Dia 22
 
@@ -273,4 +257,22 @@ Vejo muitos pássaros atravessando a rua voando toda a manhã. Chegando em Miram
 La Para
 
 Vou até outro ponto próximo da laguna em um camping. Um grupo de homens argentinos me convidam para se juntar e oferecem assado.
+
+![](./img/20171104_151600.jpg)
+
+
+
+
+
+
+
+----------
+
+Echi o saco de ficar se preocupando no que postar nas redes e decidi aproveitar o agora 
+
+Dica preciosa: Cagar de manha
+
+Foto de flor com andes no fundo
+
+Estar fazendo algo muito diferente fez acessar memórias do subconciente
 

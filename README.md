@@ -4,7 +4,7 @@
 
 por daniel werle arenhart
 
-Por volta de dois anos e meio depois de ter voltado, decidi passar a limpo e reviver os manoescritos da caderneta de viagem.
+Por volta de dois anos e meio depois de ter voltado, decidi passar a limpo e reviver os manuscritos da caderneta de viagem.
 
 São relatos de uma viagem de bicicleta saindo de Estrela - Brasil até a Patagônia no verão de 2017-2018.
 
@@ -56,13 +56,13 @@ A motivação surgiu de viagens menores feitas anteriormente.
 
 ### Quando
 
-Decidi que iria algum momento fazer uma grande viagem pela américa do sul 1 ano e 5 meses antes de ter saído. Dois meses depois, decidi que em mais ou menos um ano sairia e comecei a contar para as pessoas.  O objetivo era sair antes do inicio do verão para pegar um clima mais confortável na Patagônia. Ainda não sabia o tempo que levaria, mas seria menos de 1 ano (foram 4 meses). 
+Decidi que iria algum momento fazer uma grande viagem pela América do sul, 1 ano e 5 meses antes de ter saído. Dois meses depois, decidi que em mais ou menos um ano sairia e comecei a contar para as pessoas.  O objetivo era sair antes do inicio do verão para pegar um clima mais confortável na Patagônia. Ainda não sabia o tempo que levaria, mas seria menos de 1 ano (foram 4 meses). 
 
 
 
 ### Equipamento
 
-Comprei o quadro para a bicicleta que eu iria montar para a viagem um ano antes. Escolhi e montei peça por peça para entender bem a mecânica, mas mal eu sabia que na viagem não precisaria nada mais além de passar oleo na correia, remendar câmara e trocar cabos. Para começar a viajar de bicicleta não é preciso se preparar muito nem ter o melhor equipamento, mas me diverti escolhendo cuidadosamente cada um dos itens que levaria buscando leveza, conforto e independência. 
+Comprei o quadro para a bicicleta que eu iria montar para a viagem um ano antes. Escolhi e montei peça por peça para entender bem a mecânica, mas mal eu sabia que na viagem não precisaria nada mais além de passar óleo na correia, remendar câmara e trocar cabos. Para começar a viajar de bicicleta não é preciso se preparar muito nem ter o melhor equipamento, mas me diverti escolhendo cuidadosamente cada um dos itens que levaria buscando leveza, conforto e independência. 
 
 
 
@@ -74,9 +74,9 @@ Roubo: Não é um risco vital, não dei muita importância, mas evitar capitais 
 
 Ficar sem água: Sempre levei água extra para cozinhar, cuidar da higiene e lavar louça portanto caso faltasse, abriria mão destes luxos. Tiveram poucos trajetos longos onde não houvesse motoristas para quem poderia pedir ajuda.
 
-Perder cartão e dinheiro: Não é um risco vital, não dei muita importância, mas tentei separar as coisas em mais de um lugar.
+Ser atropelado: Evitar capitais e estradas mais movimentadas. A Argentina e Chile no geral tem menos trânsito que no Brasil.
 
-Ser atropelado: Evitar todas capitais e estradas mais movimentadas.
+Perder cartão e dinheiro: Não é um risco vital, não dei muita importância, mas tentei separar as coisas em mais de um lugar.
 
 
 
@@ -86,98 +86,89 @@ Ser atropelado: Evitar todas capitais e estradas mais movimentadas.
 
 #### Dia 1 - 13/10/2017
 
-A presença, o bom humor e o apoio das pessoas foi muito importante para dar inicio à viagem.
+A presença, o bom humor e o apoio das pessoas foi muito importante no dia da saída para começar a viagem. Meu irmão Fafa, o Matheus Bechert e o Adriano (Tinanço) me acompanharam.
 
-Meu irmão Fafa, o Matheus Bechert e o Adriano (Tinanço) me acompanharam.
+Quebrou bagageiro do Fafa e concertamos em um mecânico que encontramos logo em seguida. Ele não queria cobrar nada mas demos 10 reais. Choveu durante a saída e um pouco no resto do dia. Ficamos num camping no interior do município de Sério.
 
-Quebrou bagageiro do fafa. Concertamos em um mecânico. Ele não queria cobrar nada mas demos 10 reais.
+Apesar de todo peso sendo carregado (uns 32 quilos com a bike), a sensação ao iniciar uma viagem de bike é de extrema leveza ao deslizar suavemente sobre o chão levando tudo que se precisa para viver com independência em condições diversas.
 
-
-
-Choveu durante a saída e um pouco no resto do dia.
-
-Fazem 3 semanas que saí para uma viagem rumo à patagônia em bicicleta. Ainda estou absorvendo o que vem acontecendo.
-Apesar de todo peso sendo carregado (uns 32 kilos com a bike), a sensação ao iniciar uma viagem de bike é de extrema leveza ao deslizar suavemente sobre o chão levando tudo que se precisa para viver com independência em condições diversas.
-Valeu Fafa, Bechert e Tinanço por me acompanharem uns dias!
-Farei alguns relatos para quem tem interesse em acompanhar, mas nem sempre serão do local que estou no momento devido a tempo e sinal de internet.
+![despedida](./img/saida.jpg)
 
 #### Dia 2
 
-Visitamos o paredão
+Visitamos um paredão em uma propriedade particular no arroio Sampaio. 
 
-Despedimos do Bechert e Tinanço. Dormimos no Zehn. Fomos no niver do tio dele. Um pouco desmotivado por não ter decidido o caminho nos próximos dias.
+O Bechert e o Tinanço retornaram para suas casas. Fiquei feliz por eles terem proposto sair junto. Continuamos o Fafa e eu sem muita certeza de qual caminho seguir nos próximos dias. Além disso ainda não tínhamos onde pernoitar, então o Fafa fez uma ligação para o nosso amigo Matheus (Zhen) de Venâncio Aires que nos recebeu super bem. Fomos junto no aniversário do tio dele.
 
 #### Dia 3
 
-Candelária
-
-Sol :) Encontramos o Rainão. Domingo tudo fechado. Nos recomendaram um parque de exposições onde tem energia, chuveiro e guardinha. Percebendo como é pedalar em dupla com o Fafa.
+O sol começa a aparecer. Casualmente encontramos o Rainão, o tio de um amigo nosso, que nos convidou para almoçar em sua casa e bater um papo. Eu nem sabia que ele morava em Candelária, então foi uma surpresa. Nos recomendaram pernoitar num parque de exposições onde tem água, luz e chuveiro. Estamos começando a nos adaptar melhor ao ritmo da nossa pedalada em dupla.
 
 #### Dia 4 
 
-Agudo. Ficamos num balneário inativo. Não tinha ninguém. Bugios
+Em Agudo. Ficamos num balneário inativo com acesso a uma cachoeira. Não tinha ninguém. Vimos Bugios
 
 #### Dia 5
 
-Santa Maria
+Em Santa Maria
 
-Não tinha tanto movimento para entrar na cidade. Encontramos o Ique na UFSM depois na casa dele.
+Não tinha tanto movimento para entrar na cidade. Combinamos com nosso amigo Ique de nos encontrar na UFSM. Ficamos no seu quarto numa casa de estudante. Um alívio ter onde ficar numa cidade grande sem precisar ir atras de hotel ou *Warmshower* (rede solidária de hospedagem).
 
 #### Dia 6
 
-Cochilha do Pau Fincado
-
-No final do dia entre Santa Maria e Rosário do Sul, conversamos com uns homens, em uma mecânica de ônibus, que nos cederam uma cabana onde pudemos passar a noite. Nos convidaram para um mate e mais tarde eles nos ofereceram a janta. Na madrugada foi difícil dormir pois começou uma tempestade que fazia o chão tremer. No dia seguinte, chegando em Rosário faltava luz e água em vários estabelecimentos, o que dificultou para nos reabastecer.
+No final do dia entre Santa Maria e Rosário do Sul, conversamos com uns homens, em uma mecânica de ônibus, que nos cederam uma cabana onde pudemos passar a noite. Nos convidaram para um mate e mais tarde eles nos ofereceram a janta. Na madrugada foi difícil dormir pois começou uma tempestade que fazia o chão tremer. A localidade se chamava "Cochilha do Pau Fincado"
 
 #### Dia 7
 
 Rosário do sul
 
-Vento contra. Ficamos em uma cabana. 45 reais por pessoa. Não tinha luz nem água em vários lugares devido ao temporal.
+Vento contra. Ficamos em uma cabana. Devido ao temporal no dia anterior, não tinha luz nem água em vários estabelecimentos, o que dificultou para nos reabastecer.
 
 #### Dia 8
 
-Santana do Livramento 110km
+Santana do Livramento
 
-Chegamos escurecendo. Hotel estrela palace. Estragou a rosca da abraçadeira do canote.
+Estragou a rosca do parafuso que segura o canote do banco. Para poder seguir viagem peguei uma abraçadeira que tinha no meu kit macgyver e fixei a altura dele, porém ainda ficava girando, mas já era melhor que pedalar em pé. Estava escurecendo quando chegamos. Ficamos no Hotel Estrela palace. 
 
 #### Dia 9
 
-Descanso
+Rivera - Dia de Descanso. 
 
-Fomos nos free shops.
-
-Acabamos conversando com muitos no caminho. Um cara que gritava "Imprensa!" veio fazer uma entrevista para o jornal dele. Um uruguaio convidou para ficarmos na casa dele. Anotamos o endereço depois encontramos ele em casa. Ele conversava muito e perguntava se não faltava nada. Furou o pneu. Um furo minúsculo que só descobrimos no dia seguinte quando o fafa levou a camara numa pia no banheiro da rodoviária. Arrumamos o suporte de do canote provisoriamente. Na biciclo. Não cobraram nada.
+Fomos nos free shops e no caminho muitas pessoas vinham conversar com a gente. Um cara que gritava "Imprensa!" veio fazer uma entrevista para o jornal dele. Arrumamos o canote numa loja de bicicleta, não cobraram nada. Um uruguaio nos convidou para ficarmos na sua casa. Anotamos o endereço depois o encontramos em casa. O Yony, como se chamava, conversava muito e se mostrava preocupado perguntando se não faltava nada. Fomos muito bem acolhidos. 
 
 #### Dia 10
 
-Despedida do Fafa. Acampei 50km antes de quaraí - selvagem
+Minha bike tava com furo minúsculo que só conseguimos encontrar quando o Fafa afundou a câmara numa pia na rodoviária. Me despedi do Fafa que acompanhou toda travessia do pampa gaúcho.
 
-Depois de ter sido muito bem acolido pelo uruguaio Yony que nos convidou para ficar em seu quiosque em Rivera, me despedi do Fafa que acompanhou toda travessia do pampa gaúcho. Sigo a viagem solo até que encontre no caminho alguém fazendo um trajeto próximo ao meu.
-
-Dia ótimo, clima bom, estrada pouco movimentada, acostamento bom, núvens bonitas.
-
-As cochilhas do pampa gaúcho vão ficando mais longas e menos íngremes até se tornarem planície na Argentina. Árvores passam a ser menos frequêntes. Essas mudanças são observadas muito lentamente ao longo de uns 900km e vários dias.
-
-Este paralama transparente na roda dianteira não resistiu
+As cochilhas do pampa gaúcho vão ficando mais longas e menos íngremes até se tornarem planície. Árvores passam a ser mais raras. Essas mudanças são observadas muito lentamente ao longo de vários dias.
 
 ![Estradão com bicicleta no centro](./img/20171023_105039.jpg)
 
+Este para-lama transparente que emendei na roda dianteira não resistiu mais muitos dias.
 
+O dia estava ótimo para pedalar: clima bom, estrada pouco movimentada, acostamento bom e nuvens bonitas.
+
+Me sinto cheio de energia para continuar sozinho. A viagem parece estar começando agora.
+
+Vejo os cataventos e não perco a oportunidade de interpretar Dom Quixote.
+
+![Dom quixote, placa rs-uruguai](./img/dom-quixote.jpg)
+
+Apanhei no chão um pedaço de placa de carro "RS - Uruguaiana".
 
 ### Uruguai
 
 #### Dia 11
 
-Artigas - Uruguai
+Artigas
 
-Dia bom. Cheguei cedo. Uma senhora do turismo me recebeu. Bem querida, disse que o camping perto no inicio da cidade era pericoso. Fiquei num camping no final da cidade. Ganhei um chip de celular.
+Dia bom. Cheguei cedo. Uma senhora do turismo me recebeu. Bem querida, disse que o camping perto no inicio da cidade era perigoso. Ganhei um chip de celular num bazar. Fiquei num camping no final da cidade. 
 
 #### Dia 12 
 
-Vento a favor. 100km Uruguaios legais. Comprimentavam. Pulei uma cerca e fiquei num bosque bonito.
+Vento a favor, fiz 100km. Os uruguaios que encontrava cumprimentavam. 
 
-Pelo interior do Uruguai, visualizo da rua um conjunto de árvores agradável para acampamento e não perco a oportunidade. 
+Visualizo da rua um conjunto de árvores agradável para acampamento e não perco a oportunidade. 
 
 
 ![Campo com barraca armada](./img/20171024_18460222.jpg)
@@ -267,6 +258,10 @@ Vou até outro ponto próximo da laguna em um camping. Um grupo de homens argent
 
 
 ----------
+
+
+
+
 
 Echi o saco de ficar se preocupando no que postar nas redes e decidi aproveitar o agora 
 

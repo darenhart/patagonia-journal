@@ -4,7 +4,8 @@
   "description": "Paragônia Bike Trip - Journal",
   "main": "README.md",
   "scripts": {
-    "dev": "npm run build && google-chrome dist/index.html",
+    "start": "typora README.md &",
+    "dev": "npm run build && google-chrome dist/index.html &",
     "jpegoptim": "jpegoptim -m 80",
     "copy-images": "rm dist/img -r && cp img/ dist/ -r",
     "markdown-to-html": "cat template.html > dist/index.html && marked < README.md >> dist/index.html && cat footer.html >> dist/index.html",

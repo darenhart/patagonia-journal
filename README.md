@@ -90,7 +90,7 @@ A presença, o bom humor e o apoio das pessoas foi muito importante no dia da sa
 
 Quebrou bagageiro do Fafa e concertamos em um mecânico que encontramos logo em seguida. Ele não queria cobrar nada mas demos 10 reais. Choveu durante a saída e um pouco no resto do dia. Ficamos num camping no interior do município de Sério.
 
-Apesar de todo peso sendo carregado (uns 32 quilos com a bike), a sensação ao iniciar uma viagem de bike é de extrema leveza ao deslizar suavemente sobre o chão levando tudo que se precisa para viver com independência em condições diversas.
+Apesar de todo peso sendo carregado (uns 32 quilos com a bike), a sensação ao iniciar uma viagem de bike é de extrema leveza ao deslizar suavemente sobre o chão, levando tudo que se precisa para viver com independência e em condições diversas.
 
 ![despedida](./img/saida.jpg)
 
@@ -98,7 +98,7 @@ Apesar de todo peso sendo carregado (uns 32 quilos com a bike), a sensação ao 
 
 Visitamos um paredão em uma propriedade particular no arroio Sampaio. 
 
-O Bechert e o Tinanço retornaram para suas casas. Fiquei feliz por eles terem proposto sair junto. Continuamos o Fafa e eu sem muita certeza de qual caminho seguir nos próximos dias. Além disso ainda não tínhamos onde pernoitar, então o Fafa fez uma ligação para o nosso amigo Matheus (Zhen) de Venâncio Aires que nos recebeu super bem. Fomos junto no aniversário do tio dele.
+O Bechert e o Tinanço retornaram para suas casas. Fiquei feliz por eles terem proposto sair junto. Seguimos, o Fafa em direção a Santa Maria mas sem muita certeza de qual rota pegar. Além disso ainda não tínhamos onde pernoitar, então o Fafa fez uma ligação para o nosso amigo Matheus (Zhen) de Venâncio Aires que nos recebeu super bem. Fomos junto no aniversário do tio dele.
 
 #### Dia 3
 
@@ -112,7 +112,7 @@ Em Agudo. Ficamos num balneário inativo com acesso a uma cachoeira. Não tinha 
 
 Em Santa Maria
 
-Não tinha tanto movimento para entrar na cidade. Combinamos com nosso amigo Ique de nos encontrar na UFSM. Ficamos no seu quarto numa casa de estudante. Um alívio ter onde ficar numa cidade grande sem precisar ir atras de hotel ou *Warmshower* (rede solidária de hospedagem).
+Não tinha tanto movimento para entrar na cidade. Combinamos com nosso amigo Ique de nos encontrar na UFSM. Ficamos no seu quarto numa casa de estudante. Um alívio ter onde ficar numa cidade grande sem precisar ir atras de hotel ou *Warmshower* (rede solidária de hospedagem). Agora o rumo era cruzar o pampa até o Uruguai.
 
 #### Dia 6
 
@@ -122,7 +122,7 @@ No final do dia entre Santa Maria e Rosário do Sul, conversamos com uns homens,
 
 Rosário do sul
 
-Vento contra. Ficamos em uma cabana. Devido ao temporal no dia anterior, não tinha luz nem água em vários estabelecimentos, o que dificultou para nos reabastecer.
+Vento contra. Devido ao temporal no dia anterior, não tinha luz nem água em vários estabelecimentos, o que dificultou para nos reabastecer. Ficamos em uma cabana.
 
 #### Dia 8
 
@@ -134,23 +134,29 @@ Estragou a rosca do parafuso que segura o canote do banco. Para poder seguir via
 
 Rivera - Dia de Descanso. 
 
-Fomos nos free shops e no caminho muitas pessoas vinham conversar com a gente. Um cara que gritava "Imprensa!" veio fazer uma entrevista para o jornal dele. Arrumamos o canote numa loja de bicicleta, não cobraram nada. Um uruguaio nos convidou para ficarmos na sua casa. Anotamos o endereço depois o encontramos em casa. O Yony, como se chamava, conversava muito e se mostrava preocupado perguntando se não faltava nada. Fomos muito bem acolhidos. 
+Arrumamos o canote numa loja de bicicleta, e não aceitaram pagamento. Fomos nos free shops e no caminho muitas pessoas vinham conversar com a gente. Um cara que gritava "Imprensa!" veio fazer uma entrevista para o jornal dele.  Um uruguaio nos convidou para ficarmos na sua casa. Anotamos o endereço depois o encontramos em casa. O Yony, como se chamava, conversava muito e se mostrava preocupado perguntando se não faltava nada. Fomos muito bem acolhidos. 
 
 #### Dia 10
 
 Minha bike tava com furo minúsculo que só conseguimos encontrar quando o Fafa afundou a câmara numa pia na rodoviária. Me despedi do Fafa que acompanhou toda travessia do pampa gaúcho.
 
-As cochilhas do pampa gaúcho vão ficando mais longas e menos íngremes até se tornarem planície. Árvores passam a ser mais raras. Essas mudanças são observadas muito lentamente ao longo de vários dias. Este para-lama transparente que emendei na roda dianteira não resistiu mais muitos dias.
+Agora que estou sozinho, percebo o que estou fazendo, um pouco ancioso mas muito paciente.
+
+A viagem parece estar começando agora. Me sinto cheio de energia para encarar o que vier pela frente. 
 
 ![Estradão com bicicleta no centro](./img/20171023_105039.jpg)
 
-O dia estava ótimo para pedalar: clima bom, estrada pouco movimentada, acostamento bom e nuvens bonitas. A viagem parece estar começando agora. Me sinto cheio de energia para encarar o que vier pela frente. 
+As cochilhas do pampa gaúcho vão ficando mais longas e menos íngremes até se tornarem planície. Árvores passam a ser mais raras. Essas mudanças são observadas muito lentamente ao longo de vários dias. Este para-lama transparente que emendei na roda dianteira não resistiu mais muitos dias.
+
+O dia estava ótimo para pedalar: clima bom, estrada pouco movimentada, acostamento bom e nuvens bonitas. 
 
 Vejo os cataventos e não perco a oportunidade de interpretar Dom Quixote.
 
 ![Dom quixote, placa rs-uruguai](./img/dom-quixote.jpg)
 
 Apanhei no chão um pedaço de placa de carro "RS - Uruguaiana".
+
+Fiz acampamento selvagem.
 
 ### Uruguai
 
@@ -169,11 +175,11 @@ Fiz 100km sem muita dificuldade, talvez por causa do vento a favor. Os uruguaios
 
 #### Dia 13
 
-Depois de passar por alguns povoados, fui perguntar para as pessoas por lugares para *armar la carpa*. O policial disse que só tem campo, uns rapazes me sugeriram um lugar embaixo de uma ponte. Não me atraí pela sugestão, e o que me sobrou foi uma plantação eucaliptos onde não chamaria atenção. Normalmente pulava a cerca e deixava a bike do lado de fora.
+Depois de passar por alguns povoados, fui perguntar para as pessoas por lugares para *armar la carpa*. O policial disse que só tem campo, uns rapazes me sugeriram um lugar embaixo de uma ponte. Não me atraí pela sugestão, segui pedalando e o que me sobrou foi uma plantação de eucaliptos onde não chamaria atenção. Normalmente pulava a cerca e deixava a bike presa do lado de fora. Neste dia podia andar mais porém era preciso descansar.
 
-Nos pequenos povoados que passei, as casas são pequenas e simples, não vi mercados ou lojas com fachadas chamativas.
+Vi um tatu bebê, um graxaim-do-campo caçando e muitas cutias (roedor gordinho). À noite sou contemplado com uma enorme quantidade de vaga-lumes no campo, algo que nunca tinha visto antes.
 
-Neste dia podia andar mais porém era preciso descansar. Vi um tatu bebê, um graxaim caçando e muitas cutias (roedor gordinho). À noite sou presenteado com muitos vaga-lumes no campo.
+Nos pequenos povoados por onde passei, as casas são pequenas e simples, não vi mercados ou lojas com fachadas chamativas.
 
 #### Dia 14
 
@@ -183,7 +189,7 @@ Passeei pela cidade, visitei o Zoológico e as praças.
 
 #### Dia 15
 
-A barca para cruzar o Rio Uruguai não saiu hoje devido ao tempo ruim. Dia de descanso forçado. Fiquei mais um dia na casa do casal. Me mostraram a pequena fábrica de móveis deles. Eles falam polonês, o Gianfranco um pouco de português também. Fizeram a própria casa. Não usam a rede elétrica, apenas placas solares.
+A barca para cruzar o Rio Uruguai não saiu hoje devido ao tempo ruim, o Gianfranco disse para eu ficar mais um dia. Acompanhei eles até o local onde confeccionam móveis artesanais. A casa deles, foram eles mesmos que construíram com madeira e isopor. Não usam a rede elétrica, apenas placas solares. Eles falam polonês, e o Gianfranco um pouco de português também.
 
 ![Selfie do casal e foto minha andando no pampa](./img/salto.jpg)
 
@@ -193,17 +199,23 @@ A barca para cruzar o Rio Uruguai não saiu hoje devido ao tempo ruim. Dia de de
 
 Novamente acordei cedo para tentar pegar a barca. Consultei alguns funcionários mas ninguém sabia exatamente onde nem quando ele saía. Para me deixar mais confuso, quando ouvia a palavra *viernes* (sexta-feira), deduzia que significava inverno. Enfim, nem cheguei a ver a barca então fui até o terminal de ônibus onde casualmente estava para sair um. Tirei os baldes, a roda da frente e larguei tudo no bagageiro.  O ônibus cruza o rio por uma barragem em alguns minutos. Registrei passagem na aduana Argentina. 
 
-Em Concordia, fui na loja da claro para fazer um novo chip. Saindo da loja, no meio de muita gente chega um pai andando com sua família e me cumprimenta, dizendo que também andava de bike. Depois se aproxima para dar um beijo de bochecha e o resto da família também me cumprimenta da mesma forma. Estavam juntos a mãe e duas filhas, todos gordinhos e sorridentes. Aquilo fez meu dia mais alegre. Só mais tarde descobri que este é um cumprimento comum na argentina. Passei um pouco pela cidade e me fui em direção ao povoado de General Campos. Na maioria do caminho tinha uma faixa bloqueada devido a obras que estava perfeita pra andar de bici, era como uma ciclovia gigante. Foi uma maravilha. Na entrada da cidade, um pedalante local me acompanhou e mostrou onde eu podia ficar: uma praça. No mercado, um cidadão me sugeriu avisar a polícia que ficaria por ali e assim o fiz. Chegando na praça, apareceu um garoto de bike que tinha umas conversas um pouco estranhas. Ele dizia ter viajado muito longe de bike, .  não saía da minha cola e dizia . Fui até a praça central e vi o final de uma cerimônia de casamento. 
+Em Concordia, fui na loja da claro para fazer um novo chip. Saindo da loja, no meio de muita gente chega um pai andando com sua família e me cumprimenta, dizendo que também andava de bike. Depois se aproxima para dar um beijo de bochecha e o resto da família também me cumprimenta da mesma forma. Estavam juntos a mãe e duas filhas, todos gordinhos e sorridentes. Aquilo fez meu dia mais alegre. Só mais tarde descobri que este é um cumprimento comum na argentina. Dei uma volta pela cidade, troquei pesos com um cidadão, depois me fui em direção ao povoado de General Campos. 
 
-Voltando para o parque, apareceram uns guris com som alto no carro, desarmei a barraca que já tinha armado e movi para outro canto. Nisso apareceram dois guris, um com um violão. Musicos - que paso. (me falaram sobre san marcos sierras)
+Na maioria do caminho tinha uma faixa bloqueada devido a obras que estava perfeita pra andar de bici, era como uma ciclovia gigante. Foi uma maravilha. Na entrada da cidade, um pedalante local me acompanhou e mostrou uma praça onde eu podia ficar. No mercado, um senhor me sugeriu avisar a polícia que ficaria por ali e assim o fiz. Chegando na praça, apareceu um adolescente de bike que tinha umas conversas um pouco estranhas. Ele dizia ter viajado pelo japão mas era visível que estava inventando. Para ele sair da minha cola acabei o ignorando pois precisava armar acampamento, cozinhar e descansar. 
+
+Fui até a praça central e vi o final de uma cerimônia de casamento. Voltando para a praça onde tinha armado a barraca, apareceram uns adolescente com som alto no carro, logo já desarmei a barraca e movi para outro canto. Ali conheci o Lizandro, um professor de música bem jovem, e um amigo dele. Haviam sido avisados que eu estava ali pelos pais de um deles com quem havia conversado logo que cheguei. Lizandro tocou umas musicas com seu violão e seu amigo fazia segunda voz. Uma das coisas que buscava na viagem era ouvir a música local, mas não imaginava que seria no primeiro dia na Argentina, nem que ela viria até mim. Que coisa boa ouvir uma canção castelhana de alguém com idioma nativo. Me sugeriram conhecer a localidade de San Marcos Sierras.
 
 #### Dia 17
 
-Domingo. Fui convidado para um assado! Era um grupo de amigos de moto. Todos vieram conversar e queriam tirar foto comigo. Guanhei carona até Bovril. Uma professora que pegava carona para dar aula. Tava com dificuldade de entender pra onde ela ia me lever. Só quando descobri que B tem som de V daí consegui achar Bovril no mapa. Avisei a policia, fiquei num camping, para minha surpresa chegou um cara e disse que não podia. Me mando bem cedo.
+Domingo. Na mesma praça, fui convidado para um assado num aniversário! Era um grupo de amigos motociclistas. Eles vinham conversar e tirar foto comigo. Ganhei carona até Bovril. A Graciela me ofereceu carona. Uma professora que pegava carona na estrada para dar aula, algo bem comum por ali. Tava com dificuldade de entender pra onde ela ia me levar. Só quando descobri que B tem som de V daí consegui achar Bovril no mapa. Saía um pouco do meu percurso, mas já evitava uma estrada um pouco mais movimentada do que o normal. Já escuro, avisei a polícia de Bovril, e eles me indicaram um camping. Não tinha ninguém lá mas fui entrando, afinal tinha a permissão da polícia. Ao sair do banheiro depois de um ótimo banho, estava ali um cara perguntando o que eu estava fazendo ali, expliquei a minha situação e ele disse para eu sair cedo no dia seguinte.
 
 #### Dia 18
 
-Paraná - parque enquique Berduc. Andei 100km. Cheguei cedo e não muito cansado, parece que estou criando resistência. Camping free muito lindo! (acompanhava o blog dos Pedarilhos)
+Andei 100km, cheguei cedo e não muito cansado, parece que estou criando resistência. Eu vinha acompanhando o blog dos Pedarilhos pois faria um trajeto semelhante ao deles. Nesse dia queria parar no Parque Rural Enrique Berduc, um lindo camping free! Pelo menos naquele dia. Este parque se encontra dentro do Parque Nacional San Martin, um terreno que foi doado com a condição de que fosse um Parque Nacional.
+
+Uma imagem muito confortante aos olhos de um cicloviajante:
+
+![](./img/parque-berduc.jpg)
 
 #### Dia 19
 

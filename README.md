@@ -6,7 +6,7 @@ por daniel werle arenhart
 
 Por volta de dois anos e meio depois de ter voltado, decidi passar a limpo e reviver os manuscritos da caderneta de viagem.
 
-São relatos de uma viagem de bicicleta saindo de Estrela - Brasil até a Patagônia no verão de 2017-2018.
+São relatos de uma viagem de bicicleta saindo de Estrela/RS - Brasil até a Patagônia no verão de 2017-2018.
 
 
 
@@ -21,30 +21,31 @@ São relatos de uma viagem de bicicleta saindo de Estrela - Brasil até a Patag�
   - [Riscos](#riscos)
 
 - [A Viagem](#a-viagem)
-
-  - [Rio Grande do Sul](#rio-grande-do-sul)
+- [Rio Grande do Sul](#rio-grande-do-sul)
     - [Dia 1](#dia-1) ... [Dia 6](#dia-6)
   - [Uruguai](#uruguai)
     - [Dia 7](#dia-7) ... [Dia 20](#dia-20)
-
-  - [Argentina](#argentina)
+  
+- [Argentina](#argentina)
     - [Dia 7](#dia-7) ... [Dia 20](#dia-20)
 
 
 
-## Pré Viagem
+## Sobre a Viagem
 
 
 
 ### Objetivo
 
-Viajar de Bike
+Viajar de bicicleta
 
 
 
 ### Motivação
 
 A motivação surgiu de viagens menores feitas anteriormente.
+
+Citações:
 
 > “Todo sonho é uma derrota em potencial. Para não o realizar, basta manter-se parado” Argus Saturnino
 
@@ -54,15 +55,15 @@ A motivação surgiu de viagens menores feitas anteriormente.
 
 
 
-### Quando
+### Quando, onde?
 
-Decidi que iria algum momento fazer uma grande viagem pela América do sul, 1 ano e 5 meses antes de ter saído. Dois meses depois, decidi que em mais ou menos um ano sairia e comecei a contar para as pessoas.  O objetivo era sair antes do inicio do verão para pegar um clima mais confortável na Patagônia. Ainda não sabia o tempo que levaria, mas seria menos de 1 ano (foram 4 meses). 
+Decidi que em algum momento faria uma grande viagem pela América do sul por volta de 1 ano e meio meses antes de ter saído. A medida que a ideia foi amadurecendo, fui conversando com as pessoas sobre o assunto. O objetivo era sair antes do inicio do verão seguinte para pegar um clima mais confortável na Patagônia. Não estava preso a uma rota, mas a que fazia mais sentido era seguir a sul próximo a cordilheira dos Andes e depois talvez voltar de carona. Ainda não sabia quanto tempo levaria, mas seria menos de 1 ano. A viagem ocorreu em quatro meses, de outubro de 2017 à Fevereiro de 2018. 
 
 
 
 ### Equipamento
 
-Comprei o quadro para a bicicleta que eu iria montar para a viagem um ano antes. Escolhi e montei peça por peça para entender bem a mecânica, mas mal eu sabia que na viagem não precisaria nada mais além de passar óleo na correia, remendar câmara e trocar cabos. Para começar a viajar de bicicleta não é preciso se preparar muito nem ter o melhor equipamento, mas me diverti escolhendo cuidadosamente cada um dos itens que levaria buscando leveza, conforto e independência. 
+Comprei o quadro para a bicicleta que eu iria montar para a viagem um ano antes. Escolhi e montei peça por peça para entender bem a mecânica, mas mal eu sabia que na viagem não precisaria nada mais além de passar óleo na correia, remendar câmara e trocar cabos. Para começar a viajar de bicicleta não é preciso se preparar muito, mas aproveitei que estava no conforto de casa para revisar tudo, e então evitar ter que resolver algo na estrada. Me diverti escolhendo cuidadosamente cada um dos itens que levaria buscando leveza, simplicidade, conforto e independência. 
 
 
 
@@ -76,7 +77,7 @@ Ficar sem água: Sempre levei água extra para cozinhar, cuidar da higiene e lav
 
 Ser atropelado: Evitar capitais e estradas mais movimentadas. A Argentina e Chile no geral tem menos trânsito que no Brasil.
 
-Perder cartão e dinheiro: Não é um risco vital, não dei muita importância, mas tentei separar as coisas em mais de um lugar.
+Perder cartão e dinheiro: Não é um risco vital, não dei tanta importância, mas tentei separar as coisas em mais de um lugar.
 
 
 
@@ -88,9 +89,9 @@ Perder cartão e dinheiro: Não é um risco vital, não dei muita importância, 
 
 A presença, o bom humor e o apoio das pessoas foi muito importante no dia da saída para começar a viagem. Meu irmão Fafa, o Matheus Bechert e o Adriano (Tinanço) me acompanharam.
 
-Quebrou bagageiro do Fafa e concertamos em um mecânico que encontramos logo em seguida. Ele não queria cobrar nada mas demos 10 reais. Choveu durante a saída e um pouco no resto do dia. Ficamos num camping no interior do município de Sério.
+Uma chuva leve nos acompanhou durante o dia, principalmente quando saímos. Depois de nos distanciarmos da cidade, quebrou bagageiro do Fafa, mas logo em seguida encontramos um senhor em uma pequena oficina que concertou. Ele não queria cobrar nada mas demos uns reais. Ficamos num camping no interior do município de Sério.
 
-Apesar de todo peso sendo carregado (uns 32 quilos com a bike), a sensação ao iniciar uma viagem de bike é de extrema leveza ao deslizar suavemente sobre o chão, levando tudo que se precisa para viver com independência e em condições diversas.
+Apesar de todo peso sendo carregado, a sensação ao iniciar uma viagem de bike é de extrema leveza ao deslizar suavemente sobre o chão, levando tudo que se precisa para viver com independência e em condições diversas.
 
 ![despedida](./img/saida.jpg)
 
@@ -98,11 +99,11 @@ Apesar de todo peso sendo carregado (uns 32 quilos com a bike), a sensação ao 
 
 Visitamos um paredão em uma propriedade particular no arroio Sampaio. 
 
-O Bechert e o Tinanço retornaram para suas casas. Fiquei feliz por eles terem proposto sair junto. Seguimos, o Fafa em direção a Santa Maria mas sem muita certeza de qual rota pegar. Além disso ainda não tínhamos onde pernoitar, então o Fafa fez uma ligação para o nosso amigo Matheus (Zhen) de Venâncio Aires que nos recebeu super bem. Fomos junto no aniversário do tio dele.
+O Bechert e o Tinanço retornaram para suas casas. Fiquei feliz por eles terem proposto sair junto. Seguimos, o Fafa e eu em direção a Santa Maria mas sem muita certeza de qual rota pegar. Além disso ainda não tínhamos onde pernoitar, então o Fafa fez uma ligação para o nosso amigo Matheus (Zhen) de Venâncio Aires que nos recebeu super bem. Fomos junto no aniversário do tio dele.
 
 #### Dia 3
 
-O sol começa a aparecer. Casualmente encontramos o Rainão, o tio de um amigo nosso, que nos convidou para almoçar em sua casa e bater um papo. Eu nem sabia que ele morava em Candelária, então foi uma surpresa. Nos recomendaram pernoitar num parque de exposições onde tem água, luz e chuveiro. Estamos começando a nos adaptar melhor ao ritmo da nossa pedalada em dupla.
+O sol começa a aparecer. Casualmente encontramos o Rainão, tio de um amigo nosso, que nos convidou para almoçar em sua casa e bater um papo. Eu nem sabia que ele morava em Candelária, então foi uma surpresa. Nos recomendaram pernoitar num parque de exposições onde tem água, luz e chuveiro. Estamos começando a nos adaptar melhor ao ritmo da nossa pedalada em dupla.
 
 #### Dia 4 
 
@@ -138,7 +139,7 @@ Arrumamos o canote numa loja de bicicleta, e não aceitaram pagamento. Fomos nos
 
 #### Dia 10
 
-Minha bike tava com furo minúsculo que só conseguimos encontrar quando o Fafa afundou a câmara numa pia na rodoviária. Me despedi do Fafa que acompanhou toda travessia do pampa gaúcho.
+Minha bike estava com furo minúsculo que só conseguimos encontrar quando o Fafa afundou a câmara numa pia na rodoviária. Me despedi do Fafa que acompanhou toda travessia do pampa gaúcho.
 
 Agora que estou sozinho, percebo o que estou fazendo, um pouco ancioso mas muito paciente.
 

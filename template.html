@@ -4,6 +4,7 @@
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width initial-scale=1'>
     <title>Patagônia Bike Trip - Daniel Werle Arenhart</title>
+    <link rel="icon" type="image/png" href="img/favicon.png">
     <link rel="stylesheet" href="github-markdown.css">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-120517526-2"></script>
@@ -17,12 +18,13 @@
 
     <style>
     .markdown-body {
-      max-width: 860px;
+      max-width: 680px;
       margin: 0 auto;
       padding: 15px;
       padding-bottom: 100px;
       text-align: justify;
-      
+      font-family: Times, 'Times New Roman', serif;
+      font-size: 21px;
     }
     @media (min-width: 800px) 
     {
@@ -30,9 +32,23 @@
         padding: 30px;
       }
     }
+    .markdown-body h2 {
+      margin-top: 42px;
+    }
+    .markdown-body h3,
+    .markdown-body h4,
+    .markdown-body h5 {
+      margin-top: 36px;
+    }
     .markdown-body img {
       margin-left: -15px;
       max-width: calc(100% + 30px);
+      opacity: 0;
+      transition: ease-in 1s;
+      transition-delay: .5s;
+    }
+    img.fadeIn {
+      opacity: 1;
     }
     </style>
   </head>

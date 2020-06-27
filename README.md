@@ -63,7 +63,7 @@ Decidi que em algum momento faria uma grande viagem pela América do sul por vol
 
 ### Equipamento
 
-Comprei o quadro para a bicicleta que eu iria montar para a viagem um ano antes. Escolhi e montei peça por peça para entender bem a mecânica, mas mal eu sabia que na viagem não precisaria nada mais além de passar óleo na correia, remendar câmara e trocar cabos. Para começar a viajar de bicicleta não é preciso se preparar muito, mas aproveitei que estava no conforto de casa para revisar tudo, e então evitar ter que resolver algo na estrada. Me diverti escolhendo cuidadosamente cada um dos itens que levaria buscando leveza, simplicidade, conforto e independência. 
+Comprei o quadro para a bicicleta que eu iria montar para a viagem um ano antes. Escolhi e montei peça por peça para entender bem a mecânica, mas mal eu sabia que na viagem não precisaria nada mais além de passar óleo na correia, remendar câmara e trocar cabos. Para começar a viajar de bicicleta não é preciso se preparar muito, mas aproveitei que estava no conforto de casa para revisar tudo, e então evitar ter que resolver algo na estrada. Me diverti escolhendo cuidadosamente cada um dos itens que levaria buscando leveza, simplicidade, conforto e independência. [Veja mais](https://darenhart.github.io/patagonia-trip/#/gear)
 
 
 
@@ -119,6 +119,8 @@ Não tinha tanto movimento para entrar na cidade. Combinamos com nosso amigo Iqu
 
 No final do dia entre Santa Maria e Rosário do Sul, conversamos com uns homens, em uma mecânica de ônibus, que nos cederam uma cabana onde pudemos passar a noite. Nos convidaram para um mate e mais tarde eles nos ofereceram a janta. Na madrugada foi difícil dormir pois começou uma tempestade que fazia o chão tremer. A localidade se chamava "Cochilha do Pau Fincado"
 
+![Estrada e cabana em Pau Fincado](./img/pau-fincado.jpg)
+
 #### Dia 7
 
 Rosário do sul
@@ -135,7 +137,7 @@ Estragou a rosca do parafuso que segura o canote do banco. Para poder seguir via
 
 Rivera - Dia de Descanso. 
 
-Arrumamos o canote numa loja de bicicleta, e não aceitaram pagamento. Fomos nos free shops e no caminho muitas pessoas vinham conversar com a gente. Um cara que gritava "Imprensa!" veio fazer uma entrevista para o jornal dele.  Um uruguaio nos convidou para ficarmos na sua casa. Anotamos o endereço depois o encontramos em casa. O Yony, como se chamava, conversava muito e se mostrava preocupado perguntando se não faltava nada. Fomos muito bem acolhidos. 
+Arrumamos o canote numa loja de bicicleta, e não aceitaram pagamento. Fomos nos free shops e no caminho muitas pessoas vinham conversar com a gente. Um cara que gritava "Imprensa!" veio fazer uma entrevista para o jornal dele.  Um uruguaio nos convidou para ficarmos na sua casa. Anotamos o endereço depois o encontramos em casa. O Yony, como se chamava, conversava muito e se mostrava atencioso perguntando se não faltava nada. Fomos muito bem acolhidos. 
 
 #### Dia 10
 

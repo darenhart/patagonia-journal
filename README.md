@@ -141,11 +141,11 @@ Arrumamos o canote numa loja de bicicleta, e não aceitaram pagamento. Fomos nos
 
 #### Dia 10
 
-Minha bike estava com furo minúsculo que só conseguimos encontrar depois que o Fafa afundou a câmara numa pia na rodoviária. Me despedi do Fafa que acompanhou toda travessia do pampa gaúcho.
+Minha bike estava com um furo minúsculo que só conseguimos encontrar depois que o Fafa afundou a câmara numa pia na rodoviária. Me despedi do Fafa que acompanhou toda travessia do pampa gaúcho.
 
-Agora que estou sozinho, percebo o que estou fazendo, um pouco ancioso mas muito paciente.
+Agora, sozinho, me dou conta que finalmente estou tornando um sonho em realidade. Me sinto um pouco ansioso mas muito paciente.
 
-A viagem parece estar começando agora. Me sinto cheio de energia para encarar o que vier pela frente. 
+Logo mais estarei saindo do Brasil e entrando em terras desconhecidas. Me sinto cheio de energia para encarar o que vier pela frente. 
 
 ![Estradão com bicicleta no centro](./img/20171023_105039.jpg)
 
@@ -153,7 +153,7 @@ As cochilhas do pampa gaúcho vão ficando mais longas e menos íngremes até se
 
 O dia estava ótimo para pedalar: clima bom, estrada pouco movimentada, acostamento bom e nuvens bonitas. 
 
-Vejo os cataventos e não perco a oportunidade de interpretar Dom Quixote.
+Vejo os cata-ventos e não perco a oportunidade de interpretar Dom Quixote.
 
 ![Dom quixote, placa rs-uruguai](./img/dom-quixote.jpg)
 
@@ -165,7 +165,7 @@ Fiz acampamento selvagem.
 
 #### Dia 11
 
-Dia bom. Cruzei a fronteira para o Uruguai na cidade de Artigas e cheguei cedo. Uma senhora bem querida me recebeu no centro de informações turísticas. Disse que o camping aberto da praça era perigoso portanto acabei fiquei num camping no final da cidade. Ganhei um chip de celular num bazar.
+Dia bom. Cruzei a fronteira para o Uruguai na cidade de Artigas e cheguei cedo. Uma senhora bem querida me recebeu no centro de informações turísticas. Disse que o camping aberto da praça era perigoso portanto fui para um camping no final da cidade. Ganhei um chip de celular num bazar.
 
 #### Dia 12 
 
@@ -188,11 +188,11 @@ Nos pequenos povoados por onde passei, as casas são pequenas e simples, não vi
 
 Em Salto conheci o Gianfranco e a Lidka pela plataforma de hospedagem solidária *Warmshowers*. 
 
-Passeei pela cidade, visitei o Zoológico e as praças. 
+Passeei pela cidade, visitei o zoológico e as praças. 
 
 #### Dia 15
 
-A barca para cruzar o Rio Uruguai não saiu hoje devido ao tempo ruim, o Gianfranco disse para eu ficar mais um dia. Acompanhei eles até o local onde confeccionam móveis artesanais. A casa deles, foram eles mesmos que construíram com madeira e isopor. Não usam a rede elétrica, apenas placas solares. Eles falam polonês, e o Gianfranco um pouco de português também.
+A barca para cruzar o Rio Uruguai não saiu hoje devido ao tempo ruim, e o Gianfranco disse para eu ficar mais um dia. Acompanhei eles até o local onde confeccionam móveis artesanais. A casa deles, foram eles mesmos que construíram com madeira e isopor. Não usam a rede elétrica, apenas placas solares. Eles falam polonês, e o Gianfranco um pouco de português também.
 
 ![Selfie do casal e foto minha andando no pampa](./img/salto.jpg)
 
@@ -200,9 +200,9 @@ A barca para cruzar o Rio Uruguai não saiu hoje devido ao tempo ruim, o Gianfra
 
 #### Dia 16 - 28/10/2017
 
-Novamente acordei cedo para tentar pegar a barca. Consultei alguns funcionários mas ninguém sabia exatamente onde nem quando ele saía. Para me deixar mais confuso, quando ouvia a palavra *viernes* (sexta-feira), deduzia que significava inverno. Enfim, nem cheguei a ver a barca então fui até o terminal de ônibus onde casualmente estava para sair um. Tirei os baldes, a roda da frente e larguei tudo no bagageiro.  O ônibus cruza o rio por uma barragem em alguns minutos. Registrei passagem na aduana Argentina. 
+Novamente acordei cedo para tentar pegar a barca. Consultei alguns funcionários mas ninguém sabia exatamente onde nem quando ele saía. Para me deixar mais desinformado, quando ouvia a palavra *viernes* (sexta-feira), deduzia que significava inverno. Enfim, nem cheguei a ver a barca então fui até o terminal de ônibus onde casualmente estava para sair um. Tirei os baldes, a roda da frente e larguei tudo no bagageiro.  O ônibus cruza o rio por uma barragem em alguns minutos. Registrei passagem na aduana Argentina. 
 
-Em Concordia, fui na loja da claro para fazer um novo chip. Saindo da loja, no meio de muita gente chega um pai andando com sua família e me cumprimenta, dizendo que também andava de bike. Depois se aproxima para dar um beijo de bochecha e o resto da família também me cumprimenta da mesma forma. Estavam juntos a mãe e duas filhas, todos gordinhos e sorridentes. Aquilo fez meu dia mais alegre. Só mais tarde descobri que este é um cumprimento comum na argentina. Dei uma volta pela cidade, troquei pesos com um cidadão, depois me fui em direção ao povoado de General Campos. 
+Em Concordia, fui na loja da Claro para fazer um novo chip. Saindo da loja, no meio de muita gente chega um pai andando com sua família e me cumprimenta, dizendo que também andava de bike. Depois se aproxima para dar um beijo de bochecha e o resto da família também me cumprimenta da mesma forma. Estavam juntas a mãe e duas filhas, todos gordinhos e sorridentes. Aquilo fez meu dia mais alegre. Só mais tarde descobri que este é um cumprimento comum na argentina. Dei uma volta pela cidade, troquei pesos com um cidadão, depois me fui em direção ao povoado de General Campos. 
 
 Na maioria do caminho tinha uma faixa bloqueada devido a obras que estava perfeita pra andar de bici, era como uma ciclovia gigante. Foi uma maravilha. Na entrada da cidade, um pedalante local me acompanhou e mostrou uma praça onde eu podia ficar. No mercado, um senhor me sugeriu avisar a polícia que ficaria por ali e assim o fiz. Chegando na praça, apareceu um adolescente de bike que tinha umas conversas um pouco estranhas. Ele dizia ter viajado pelo japão mas era visível que estava inventando. Para ele sair da minha cola acabei o ignorando pois precisava armar acampamento, cozinhar e descansar. 
 

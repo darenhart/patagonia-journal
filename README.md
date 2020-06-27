@@ -139,7 +139,7 @@ Arrumamos o canote numa loja de bicicleta, e não aceitaram pagamento. Fomos nos
 
 #### Dia 10
 
-Minha bike estava com furo minúsculo que só conseguimos encontrar quando o Fafa afundou a câmara numa pia na rodoviária. Me despedi do Fafa que acompanhou toda travessia do pampa gaúcho.
+Minha bike estava com furo minúsculo que só conseguimos encontrar depois que o Fafa afundou a câmara numa pia na rodoviária. Me despedi do Fafa que acompanhou toda travessia do pampa gaúcho.
 
 Agora que estou sozinho, percebo o que estou fazendo, um pouco ancioso mas muito paciente.
 

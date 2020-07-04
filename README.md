@@ -56,8 +56,7 @@ Citações:
 
 ### Quando, onde?
 
-Decidi que em algum momento faria uma grande viagem pela América do sul por volta de 1 ano e meio meses antes de ter saído. A medida que a ideia foi amadurecendo, fui conversando com as pessoas sobre o assunto. O objetivo era sair antes do inicio do verão seguinte para pegar um clima mais confortável na Patagônia. Não estava preso a uma [rota](), mas a que fazia mais sentido era seguir a sul próximo a cordilheira dos Andes e depois talvez voltar de carona. Ainda não sabia quanto tempo levaria, mas seria menos de 1 ano. A viagem ocorreu em quatro meses, de outubro de 2017 à Fevereiro de 2018. 
-
+Decidi que em algum momento faria uma grande viagem pela América do sul por volta de 1 ano e meio antes de ter saído. A medida que a ideia foi amadurecendo, fui conversando com as pessoas sobre o assunto. O objetivo era sair antes do inicio do verão seguinte para pegar um clima mais confortável na Patagônia. Não estava preso a uma [rota](https://darenhart.github.io/patagonia-trip), mas a que fazia mais sentido era seguir a sul próximo a cordilheira dos Andes e depois talvez voltar de carona. Ainda não sabia quanto tempo levaria, mas seria menos de 1 ano. A viagem ocorreu em quatro meses, de outubro de 2017 à Fevereiro de 2018. 
 
 
 ### Equipamento
@@ -72,7 +71,7 @@ Identifiquei alguns riscos e refleti sobre como evitá-los:
 
 Roubo: Não é um risco vital, não dei muita importância, mas evitar capitais já é suficiente.
 
-Ficar sem água: Sempre levei água extra para cozinhar, cuidar da higiene e lavar louça portanto caso faltasse, abriria mão destes luxos. Tiveram poucos trajetos longos onde não houvesse motoristas para quem poderia pedir ajuda.
+Ficar sem água: Sempre levei água extra para cozinhar, cuidar da higiene e lavar louça portanto caso faltasse, abriria mão destes luxos. Houve poucos trajetos longos onde não houvesse motoristas para quem poderia pedir ajuda.
 
 Ser atropelado: Evitar capitais e estradas mais movimentadas. A Argentina e Chile no geral tem menos trânsito que no Brasil.
 

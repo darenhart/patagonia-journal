@@ -1,4 +1,4 @@
-[< Rota, Equipamento, Fotos, Vídeo](https://darenhart.github.io/patagonia-trip)
+<span style="font-size: 14px;">[< Rota, Equipamento, Fotos, Vídeo](https://darenhart.github.io/patagonia-trip)</span>
 
 # Viagem de bicicleta à Patagônia
 
@@ -13,20 +13,21 @@ São relatos de uma viagem de bicicleta saindo de Estrela/RS - Brasil até a Pat
 ## Sumário
 
 - [Pré Viagem](#pre-viagem)
-
-  - [Motivação](#motivacao)
-  - [Quando](#quando)
-
+- [Motivação](#motivacao)
+  - [Quando, onde?](#quando-onde)
   - [Equipamento](#equipamento)
   - [Riscos](#riscos)
-
 - [A Viagem](#a-viagem)
     - [Rio Grande do Sul](#rio-grande-do-sul)
-        - [Dia 1](#dia-1) ... [Dia 6](#dia-6)
     - [Uruguai](#uruguai)
-      - [Dia 7](#dia-7) ... [Dia 20](#dia-20)
-    - [Argentina](#argentina)
-        - [Dia 7](#dia-7) ... [Dia 20](#dia-20)
+    - [Argentina - Entre Rios](#argentina---entre-rios)
+    - [Argentina - Santa Fé e Laguna Miramar](#argentina)
+    - [Argentina - Sierras Chicas de Cordoba](#argentina)
+    - Argentina - Los Gigantes e Los Tuneles (em breve)
+    - Argentina - San Luis (em breve)
+    - Argentina - Provincia Mendoza (em breve)
+    - Argentina - Neuquén, norte da Patagônia (em breve)
+    - \+ em breve
 
 
 
@@ -71,7 +72,7 @@ Identifiquei alguns riscos e refleti sobre como evitá-los:
 
 Roubo: Não é um risco vital, não dei muita importância, mas evitar capitais já é suficiente.
 
-Ficar sem água: Sempre levei água extra para cozinhar, cuidar da higiene e lavar louça portanto caso faltasse, abriria mão destes luxos. Houve poucos trajetos longos onde não houvesse motoristas para quem poderia pedir ajuda.
+Ficar sem água: Sempre levei água extra para cozinhar, cuidar da higiene e lavar louça portanto caso faltasse, abriria mão destes luxos. Houve poucos trajetos longos onde não houvesse motoristas para quem poderia pedir ajuda. 
 
 Ser atropelado: Evitar capitais e estradas mais movimentadas. A Argentina e Chile no geral tem menos trânsito que no Brasil.
 
@@ -159,7 +160,7 @@ Apanhei no chão um pedaço de placa de carro "RS - Uruguaiana".
 
 Fiz acampamento selvagem.
 
-[Mais fotos](https://photos.app.goo.gl/VEyPE5sNytQAnLxJ3)
+[Mais fotos do trecho no Rio Grande do Sul](https://photos.app.goo.gl/VEyPE5sNytQAnLxJ3)
 
 ### Uruguai
 
@@ -173,8 +174,6 @@ Fiz 100km sem muita dificuldade, talvez por causa do vento a favor. Os uruguaios
 
 
 ![Campo com barraca armada](./img/20171024_18460222.jpg)
-
-
 
 #### Dia 13
 
@@ -195,6 +194,10 @@ Passeei pela cidade, visitei o zoológico e as praças.
 A barca para cruzar o Rio Uruguai não saiu hoje devido ao tempo ruim, e o Gianfranco disse para eu ficar mais um dia. Acompanhei eles até o local onde confeccionam móveis artesanais. A casa deles, foram eles mesmos que construíram com madeira e isopor. Não usam a rede elétrica, apenas placas solares. Eles falam polonês, e o Gianfranco um pouco de português também.
 
 ![Selfie do casal e foto minha andando no pampa](./img/salto.jpg)
+
+[Mais fotos do trecho no Uruguai](https://photos.app.goo.gl/2usGhXWPM3wV8BEh1)
+
+
 
 ### Argentina - Entre Rios
 
@@ -220,9 +223,15 @@ Uma imagem muito confortante aos olhos de um cicloviajante:
 
 ![](./img/parque-berduc.jpg)
 
+
+
+
+
+### Argentina - Santa Fé e Laguna Miramar
+
 #### Dia 19
 
-São Tomé - Fui até Paraná na entrada do tunel. Um supervisor me levou numa caminhonete até o outro lado do túnel. Dei umas voltas até conseguir um oculos EPI escuro. Esse é o teceiro que tenho. Em santa fé também queria trocar uns reais por pesos. Esperei até abrir depois das 16:30 e o cambio não abriu. Fui para o camping municipal..25 pesos.   *falar dos campings municipais* 
+São Tomé - Fui até o município de Paraná na entrada do túnel. Um supervisor me levou numa caminhonete até o outro lado do túnel. Dei umas voltas pela cidade até encontrar um óculos EPI escuro. Esse é o terceiro que tenho. Em Santa Fé também queria trocar uns reais por pesos. Esperei até abrir depois das 16:30 e o cambio não abriu. Fui para o camping municipal..25 pesos.   *falar dos campings municipais* 
 
 #### Dia 20
 
@@ -244,7 +253,7 @@ Por muitoa sorte no dia que eu mudo de direção, o vento muda também a meu fav
 
 Um motorista faz sinal para eu parar e me oferece uma pizza! Já tinham parado no meio do pampa gaucho  pra dar umas laranjas e bergamotas, mas uma pizza quentinha!!?
 
-Em La Paquita a policia indica um estabelecimento tipo CTG para pernoitar. Uma pessoa convida para um mate na manhã seguinte e também para um niver de um bebê de 1 ano.
+Em La Paquita a policia indica um estabelecimento tipo CTG para pernoitar. Uma pessoa convida para um mate na manhã seguinte e também para um aniversário de um bebê de 1 ano.
 
 #### Dia 23
 
@@ -266,11 +275,25 @@ Vou até outro ponto próximo da laguna em um camping. Um grupo de homens argent
 
 
 
+### Argentina - Sierras Chicas de Cordoba
+
+Em breve...
+
+### Argentina - Los Gigantes e Los Tuneles
+
+Em breve...
+
+
+
+
+
+
+
 
 
 <!--
 
-Echi o saco de ficar se preocupando no que postar nas redes e decidi aproveitar o agora 
+Cansei de ficar se preocupando no que postar nas redes e decidi aproveitar o agora 
 
 Dica preciosa: Cagar de manha
 
@@ -279,3 +302,19 @@ Foto de flor com andes no fundo
 Estar fazendo algo muito diferente fez acessar memórias do subconciente
 
 -->
+
+
+
+-----
+
+
+<footer>
+
+[Rota](https://drive.google.com/open?id=1_JDlbahMjzcIFIkYdwVplNBTrXXGvek3&usp=sharing)<br>
+[Equipamento](https://darenhart.github.io/patagonia-trip/#/gear)<br>
+[Galeria](https://darenhart.github.io/patagonia-trip/#/gallery)<br>
+[Vídeo](https://www.youtube.com/watch?v=MPgr4FjIZF8)<br>
+[Alguns números](https://docs.google.com/spreadsheets/d/1h_DqRs4x_f9nJ4AM-QcrCmykR1IXHAM8ZEvonXcv-Zw/edit#gid=1891380202)<br>
+[Github](https://github.com/darenhart/patagonia-journal)<br>
+
+</footer>

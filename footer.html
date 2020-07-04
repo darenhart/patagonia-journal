@@ -7,8 +7,12 @@
       var boundingClientRect = elements[i].getBoundingClientRect();
       
       if (elements[i].hasAttribute("realsrc") && 
-        boundingClientRect.top - 200 < window.innerHeight &&
-        boundingClientRect.bottom + 200 < window.innerHeight) {
+        boundingClientRect.top < window.innerHeight + 300 &&
+        boundingClientRect.bottom > -300) {
+          console.log('sho', boundingClientRect.top, boundingClientRect.bottom);
+          console.log(window.innerHeight);
+          
+          
         elements[i].setAttribute("src", elements[i].getAttribute("realsrc"));
         elements[i].removeAttribute("realsrc");
         elements[i].className = "fadeIn";

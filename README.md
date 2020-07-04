@@ -21,13 +21,12 @@ São relatos de uma viagem de bicicleta saindo de Estrela/RS - Brasil até a Pat
   - [Riscos](#riscos)
 
 - [A Viagem](#a-viagem)
-- [Rio Grande do Sul](#rio-grande-do-sul)
-    - [Dia 1](#dia-1) ... [Dia 6](#dia-6)
-  - [Uruguai](#uruguai)
-    - [Dia 7](#dia-7) ... [Dia 20](#dia-20)
-  
-- [Argentina](#argentina)
-    - [Dia 7](#dia-7) ... [Dia 20](#dia-20)
+    - [Rio Grande do Sul](#rio-grande-do-sul)
+        - [Dia 1](#dia-1) ... [Dia 6](#dia-6)
+    - [Uruguai](#uruguai)
+      - [Dia 7](#dia-7) ... [Dia 20](#dia-20)
+    - [Argentina](#argentina)
+        - [Dia 7](#dia-7) ... [Dia 20](#dia-20)
 
 
 
@@ -57,7 +56,7 @@ Citações:
 
 ### Quando, onde?
 
-Decidi que em algum momento faria uma grande viagem pela América do sul por volta de 1 ano e meio meses antes de ter saído. A medida que a ideia foi amadurecendo, fui conversando com as pessoas sobre o assunto. O objetivo era sair antes do inicio do verão seguinte para pegar um clima mais confortável na Patagônia. Não estava preso a uma rota, mas a que fazia mais sentido era seguir a sul próximo a cordilheira dos Andes e depois talvez voltar de carona. Ainda não sabia quanto tempo levaria, mas seria menos de 1 ano. A viagem ocorreu em quatro meses, de outubro de 2017 à Fevereiro de 2018. 
+Decidi que em algum momento faria uma grande viagem pela América do sul por volta de 1 ano e meio meses antes de ter saído. A medida que a ideia foi amadurecendo, fui conversando com as pessoas sobre o assunto. O objetivo era sair antes do inicio do verão seguinte para pegar um clima mais confortável na Patagônia. Não estava preso a uma [rota](), mas a que fazia mais sentido era seguir a sul próximo a cordilheira dos Andes e depois talvez voltar de carona. Ainda não sabia quanto tempo levaria, mas seria menos de 1 ano. A viagem ocorreu em quatro meses, de outubro de 2017 à Fevereiro de 2018. 
 
 
 
@@ -160,6 +159,8 @@ Vejo os cata-ventos e não perco a oportunidade de interpretar Dom Quixote.
 Apanhei no chão um pedaço de placa de carro "RS - Uruguaiana".
 
 Fiz acampamento selvagem.
+
+[Mais fotos](https://photos.app.goo.gl/VEyPE5sNytQAnLxJ3)
 
 ### Uruguai
 
@@ -266,11 +267,9 @@ Vou até outro ponto próximo da laguna em um camping. Um grupo de homens argent
 
 
 
-----------
 
 
-
-
+<!--
 
 Echi o saco de ficar se preocupando no que postar nas redes e decidi aproveitar o agora 
 
@@ -280,3 +279,4 @@ Foto de flor com andes no fundo
 
 Estar fazendo algo muito diferente fez acessar memórias do subconciente
 
+-->

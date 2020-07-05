@@ -225,6 +225,8 @@ Uma imagem muito confortante aos olhos de um cicloviajante:
 
 
 
+<!--
+
 
 
 ### Argentina - Santa Fé e Laguna Miramar
@@ -232,6 +234,8 @@ Uma imagem muito confortante aos olhos de um cicloviajante:
 #### Dia 19
 
 São Tomé - Fui até o município de Paraná na entrada do túnel. Um supervisor me levou numa caminhonete até o outro lado do túnel. Dei umas voltas pela cidade até encontrar um óculos EPI escuro. Esse é o terceiro que tenho. Em Santa Fé também queria trocar uns reais por pesos. Esperei até abrir depois das 16:30 e o cambio não abriu. Fui para o camping municipal..25 pesos.   *falar dos campings municipais* 
+
+
 
 #### Dia 20
 
@@ -291,7 +295,7 @@ Em breve...
 
 
 
-<!--
+
 
 Cansei de ficar se preocupando no que postar nas redes e decidi aproveitar o agora 
 

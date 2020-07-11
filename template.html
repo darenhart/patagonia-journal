@@ -3,7 +3,7 @@
   <head>
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width initial-scale=1'>
-    <title>Patagônia Bike Trip - Daniel Werle Arenhart</title>
+    <title>Viagem de bicicleta à Patagônia - Daniel Werle Arenhart</title>
     <link rel="icon" type="image/png" href="img/favicon.png">
     <link rel="stylesheet" href="github-markdown.css">
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -15,8 +15,12 @@
 
       gtag('config', 'UA-120517526-2');
     </script>
-
     <style>
+    @font-face {
+      font-family: Belwe;
+      src: url('./assets/BelweMediumBT.ttf');
+      font-weight: bold;
+    }
     .markdown-body {
       max-width: 680px;
       margin: 0 auto;
@@ -33,11 +37,18 @@
       }
     }
     .markdown-body a {
-      font-family: sans-serif;
-      color: rgba(0,0,0,.54);
+      /*font-family: sans-serif;*/
+      color: #7d6e59;
     }
     .markdown-body p {
       text-align: justify;
+    }
+    .markdown-body h1,
+    .markdown-body h2,
+    .markdown-body h3,
+    .markdown-body h4,
+    .markdown-body h5 {
+      font-family: 'Belwe', serif;
     }
     .markdown-body h2 {
       margin-top: 42px;
@@ -56,6 +67,10 @@
     }
     .markdown-body ul li {
       list-style: none;
+      
+    }
+    .markdown-body ul {
+      padding-left: .8em;
     }
     img.fadeIn {
       opacity: 1;

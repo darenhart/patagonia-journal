@@ -59,7 +59,8 @@ Citações:
 
 ### Quando e onde?
 
-Fazer uma longa viagem de bicicleta começou a me parecer mais simples, foi quando percebi que poderia tornar realidade.
+Fazer uma longa viagem de bicicleta começou a me parecer algo mais simples do que imaginava.
+Foi quando percebi que poderia tornar realidade.
 Escolhi o destino Patagônia e a medida que a ideia foi amadurecendo, fui conversando com as pessoas sobre o assunto.
 Sabia que esfriava bastante no sul portanto o objetivo era sair antes do início do verão seguinte. 
 A saída se deu por volta de um ano e meio depois da concepção da ideia.

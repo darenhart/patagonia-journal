@@ -55,7 +55,7 @@ Citações:
 
 > "Quando a gente tá contente, Tanto faz o quente, Tanto faz o frio" Gal Costa
 
-
+Arte do auto escracho
 
 ### Quando e onde?
 
@@ -70,13 +70,16 @@ A viagem ocorreu em quatro meses, de outubro de 2017 à Fevereiro de 2018.
 
 ### Equipamentos
 
+Ao descobrir que existe o termo cicloturismo, acabei encontrando pessoas que são referências no assunto, como por exemplo o [Olinto e a Rafaela]() e os [Pedarilhos]().
 Escolhi e montei peça por peça da bicicleta para entender bem a mecânica, mas mal eu sabia que na viagem não precisaria nada mais além de passar óleo na correia, remendar câmara e trocar cabos.
 Para começar a viajar de bicicleta não é preciso se preparar muito, mas aproveitei que estava no conforto de casa para revisar todo equipamento, e então evitar ter que resolver algo na estrada.
 Me diverti escolhendo estrategicamente cada um dos itens que levaria buscando leveza, simplicidade, conforto e independência, nada muito diferente caso fosse uma viagem para Lua.
-Existem roupas especiais para o frio a preços muito acessíveis 
 
+Existem roupas adequadas para o frio a preços acessíveis que dão vantagens em relação às roupas comuns.
 
+Faca vc mesmo, tenho muito orgulho
 Baldes - simbulo
+Orgulho
 
 supera qualquer alforge
 

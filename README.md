@@ -59,7 +59,7 @@ Citações:
 
 ### Quando e onde?
 
-Tudo começou com uma grande vontade de fazer uma longa viagem de bicicleta.
+Fazer uma longa viagem de bicicleta começou a me parecer mais simples, foi quando percebi que poderia tornar realidade.
 Escolhi o destino Patagônia e a medida que a ideia foi amadurecendo, fui conversando com as pessoas sobre o assunto.
 Sabia que esfriava bastante no sul portanto o objetivo era sair antes do início do verão seguinte. 
 A saída se deu por volta de um ano e meio depois da concepção da ideia.

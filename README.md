@@ -55,11 +55,12 @@ Citações:
 
 > "Quando a gente tá contente, Tanto faz o quente, Tanto faz o frio" Gal Costa
 
-
+[Arte do auto escracho](http://odois.org/100104)
 
 ### Quando e onde?
 
-Tudo começou com uma grande vontade de fazer uma longa viagem de bicicleta.
+Fazer uma longa viagem de bicicleta começou a me parecer algo mais simples do que imaginava.
+Foi quando percebi que poderia poderia botar em prática .
 Escolhi o destino Patagônia e a medida que a ideia foi amadurecendo, fui conversando com as pessoas sobre o assunto.
 Sabia que esfriava bastante no sul portanto o objetivo era sair antes do início do verão seguinte. 
 A saída se deu por volta de um ano e meio depois da concepção da ideia.
@@ -70,13 +71,17 @@ A viagem ocorreu em quatro meses, de outubro de 2017 à Fevereiro de 2018.
 
 ### Equipamentos
 
+Ao descobrir que existe o termo cicloturismo, acabei encontrando pessoas que são referências no assunto, como por exemplo o [Olinto e a Rafaela]() e os [Pedarilhos]().
 Escolhi e montei peça por peça da bicicleta para entender bem a mecânica, mas mal eu sabia que na viagem não precisaria nada mais além de passar óleo na correia, remendar câmara e trocar cabos.
-Para começar a viajar de bicicleta não é preciso se preparar muito, mas aproveitei que estava no conforto de casa para revisar tudo, e então evitar ter que resolver algo na estrada.
-Me diverti escolhendo cuidadosamente cada um dos itens que levaria buscando leveza, simplicidade, conforto e independência, nada muito diferente do que se fosse viajar para Lua.
+Para começar a viajar de bicicleta não é preciso se preparar muito, mas aproveitei que estava no conforto de casa para revisar se todo equipamento atendia às minhas necessidades, e então evitar ter que resolver algo na estrada.
+Me diverti escolhendo estrategicamente cada um dos itens que levaria buscando leveza, simplicidade, conforto e independência, nada muito diferente caso fosse uma viagem para Lua. Tal qual
+Durou mais que a viagem em si.
+Valeu a pena, morar em qualquer lugar me sentia em casa
+Existem roupas adequadas para o frio a preços acessíveis que dão vantagens em relação às roupas comuns.
 
-
-
+Faca vc mesmo, tenho muito orgulho
 Baldes - simbulo
+Orgulho
 
 supera qualquer alforge
 
@@ -332,10 +337,10 @@ Estar fazendo algo muito diferente fez acessar memórias do subconciente
 
 <footer>
 [Rota](https://drive.google.com/open?id=1_JDlbahMjzcIFIkYdwVplNBTrXXGvek3&usp=sharing)<br>
-[Equipamento](https://darenhart.github.io/patagonia-trip/#/gear)<br>
-[Galeria](https://darenhart.github.io/patagonia-trip/#/gallery)<br>
+[Equipamentos](https://darenhart.github.io/patagonia-trip/#/gear)<br>
+[Galeria de fotos](https://darenhart.github.io/patagonia-trip/#/gallery)<br>
 [Vídeo](https://www.youtube.com/watch?v=MPgr4FjIZF8)<br>
 [Alguns números](https://docs.google.com/spreadsheets/d/1h_DqRs4x_f9nJ4AM-QcrCmykR1IXHAM8ZEvonXcv-Zw/edit#gid=1891380202)<br>
-[Github](https://github.com/darenhart/patagonia-journal)<br>
+[Código fonte no Github](https://github.com/darenhart/patagonia-journal)<br>
 
 </footer>

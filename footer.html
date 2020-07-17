@@ -6,13 +6,11 @@
     for (var i = 0; i < elements.length; i++) {
       var boundingClientRect = elements[i].getBoundingClientRect();
       
-      if (elements[i].hasAttribute("realsrc") && 
+      if (
+        elements[i].hasAttribute("realsrc") && 
         boundingClientRect.top < window.innerHeight + 300 &&
-        boundingClientRect.bottom > -300) {
-          console.log('sho', boundingClientRect.top, boundingClientRect.bottom);
-          console.log(window.innerHeight);
-          
-          
+        boundingClientRect.bottom > -300
+      ) {
         elements[i].setAttribute("src", elements[i].getAttribute("realsrc"));
         elements[i].removeAttribute("realsrc");
         elements[i].className = "fadeIn";

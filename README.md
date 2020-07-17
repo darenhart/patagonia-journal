@@ -336,6 +336,7 @@ Estar fazendo algo muito diferente fez acessar memórias do subconciente
 
 
 <footer>
+
 [Rota](https://drive.google.com/open?id=1_JDlbahMjzcIFIkYdwVplNBTrXXGvek3&usp=sharing)<br>
 [Equipamentos](https://darenhart.github.io/patagonia-trip/#/gear)<br>
 [Galeria de fotos](https://darenhart.github.io/patagonia-trip/#/gallery)<br>

@@ -8,7 +8,7 @@
     "dev": "npm run build && google-chrome dist/index.html &",
     "jpegoptim": "jpegoptim -m 80",
     "copy-assets": "rm dist/assets -rf && cp assets/ dist/ -r",
-    "markdown-to-html": "cat template.html > dist/index.html && marked < README.md >> dist/index.html && cat footer.html >> dist/index.html",
+    "markdown-to-html": "cat template.html > dist/index.html && cat src/* | marked >> dist/index.html && cat footer.html >> dist/index.html",
     "add-lazy-loading": "sed -i 's/img src/img realsrc/g' dist/index.html",
     "add-markdown-css": "cp node_modules/github-markdown-css/github-markdown.css dist/",
     "build": "npm run markdown-to-html && npm run add-lazy-loading && npm run add-markdown-css && npm run copy-assets",

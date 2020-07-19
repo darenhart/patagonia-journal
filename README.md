@@ -1,3 +1,3 @@
 # Viagem de bicicleta à Patagônia
 
-(Demo)[https://darenhart.github.io/patagonia-journal]
+(darenhart.github.io/patagonia-journal)[https://darenhart.github.io/patagonia-journal]

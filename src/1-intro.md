@@ -78,9 +78,9 @@ Me diverti escolhendo estrategicamente cada um dos itens que levaria buscando le
 Existem roupas adequadas para o frio a preços acessíveis que dão vantagens em relação às roupas comuns.
 Utilizei o conceito das [4 camadas]() para ter conforto térmico.
 Para cozinhar usei um fogareiro à álcool/etanol e utencilhos básicos de cozinha.
-No estilo "mulambiker"/faça-você-mesmo, meu maior orgulho são os [alforges feitos com baldes]()
-Fixados na bicicleta apenas com corda, propiciam praticidade na colocação baixíssimo risco de dar problema.
-
+Meu maior orgulho, no estilo "mulambiker"/faça-você-mesmo, são os [alforges feitos com baldes]()
+Fixados na bicicleta apenas com corda, propiciam praticidade na colocação e baixíssimo risco de dar problema.
+Algumas vantagens são 
 
 Faca vc mesmo, tenho muito orgulho. Mulambiker.
 Baldes - simbulo

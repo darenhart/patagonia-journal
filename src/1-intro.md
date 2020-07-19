@@ -71,19 +71,21 @@ A viagem ocorreu em quatro meses, de outubro de 2017 à Fevereiro de 2018.
 
 ### Equipamentos
 
-Ao descobrir que existe o termo cicloturismo, acabei encontrando pessoas que são referências no assunto, como por exemplo o [Olinto e a Rafaela]() e os [Pedarilhos]().
+Ao descobrir que existe o termo cicloturismo, acabei encontrando pessoas que são referências no assunto, como por exemplo o [Olinto e a Rafaela](https://www.olinto.com.br/) e os [Pedarilhos](https://www.pedarilhos.com.br/)
 Escolhi e montei peça por peça da bicicleta para entender bem a mecânica, mas mal eu sabia que na viagem não precisaria nada mais além de passar óleo na correia, remendar câmara e trocar cabos.
 Para começar a viajar de bicicleta não é preciso se preparar muito, mas aproveitei que estava no conforto de casa para revisar se todo equipamento atendia às minhas necessidades, e então evitar ter que resolver algo na estrada.
 Me diverti escolhendo estrategicamente cada um dos itens que levaria buscando leveza, simplicidade, conforto e independência.
-Existem roupas adequadas para o frio a preços acessíveis que dão vantagens em relação às roupas comuns.
-Utilizei o conceito das [4 camadas]() para ter conforto térmico.
-Para cozinhar usei um fogareiro à álcool/etanol e utencilhos básicos de cozinha.
-Meu maior orgulho, no estilo "mulambiker"/faça-você-mesmo, são os [alforges feitos com baldes]()
-Fixados na bicicleta apenas com corda, propiciam praticidade na colocação e baixíssimo risco de dar problema.
+Existem roupas adequadas para o frio a preços acessíveis que dão vantagens em relação às roupas comuns, portanto  seguindo o princípio das [quatro camadas](https://www.olinto.com.br/dicas-cicloturismo/vestimenta/).
+Para cozinhar usei um fogareiro à álcool/etanol e utensílios básicos de cozinha.
+Meu maior orgulho,   faça-você-mesmo, são os [alforges-baldes](https://youtu.be/DzK4ufcDylo)
+Fixados na bicicleta apenas com corda, são fáceis de colocar e tirar.
+ e baixíssimo risco de dar problema.
 Algumas vantagens são 
 
+barato -impermeável -fácil colocação -serve como acento e mesa no acampamento -pode ser usado para lavar roupas
+
 Faca vc mesmo, tenho muito orgulho. Mulambiker.
-Baldes - simbulo
+Baldes - simbulo mulambiker
 Fiz questão de não usar um alforge para provar para eu mesmo que é 
 Orgulho
 

@@ -1,11 +1,14 @@
 
-<!--
-
-
 
 ### Argentina - Santa Fé e Laguna Miramar
 
 #### Dia 19
+
+Em breve...
+
+<!--
+
+
 
 São Tomé - Fui até o município de Paraná na entrada do túnel.
 Um supervisor me levou numa caminhonete até o outro lado do túnel.

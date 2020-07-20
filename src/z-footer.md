@@ -1,3 +1,7 @@
+-------
+
+
+
 
 <footer>
 
@@ -9,3 +13,4 @@
 - [Código fonte no Github](https://github.com/darenhart/patagonia-journal)<br>
 
 </footer>
+

@@ -80,24 +80,17 @@ Escolhi e montei peça por peça da bicicleta para entender bem a mecânica, mas
 Para começar a viajar de bicicleta não é preciso se preparar muito, mas aproveitei que estava no conforto de casa para revisar se todo equipamento atendia às minhas necessidades, e então evitar ter que resolver algo na estrada.
 Me diverti escolhendo estrategicamente cada um dos itens que levaria buscando leveza, simplicidade, conforto e independência.
 
-Busquei roupas adequadas para o frio, seguindo o princípio das [quatro camadas](https://www.olinto.com.br/dicas-cicloturismo/vestimenta/).
-Elas podem ser encontradas à preços acessíveis e dão muitas vantagens em relação às roupas comuns.
+Busquei roupas adequadas para o frio seguindo o princípio das [quatro camadas](https://www.olinto.com.br/dicas-cicloturismo/vestimenta/).
 Para cozinhar usei um fogareiro à álcool/etanol e utensílios básicos de cozinha.
-Meu maior orgulho, no estilo *mulambiker*/faça-você-mesmo, são os [alforges-baldes](https://youtu.be/DzK4ufcDylo)
-Fixados na bicicleta apenas com corda, são fáceis de colocar e tirar.
- e baixíssimo risco de dar problema.
-Algumas vantagens são 
+No lugar dos alforges, para carregar as coisas na bicicleta usei [baldes](https://youtu.be/DzK4ufcDylo). 
+No melhor estilo "faça você mesmo", eles são facilmente fixados na bicicleta apenas com corda, promovendo durabilidade, confiabilidade e fácil reposição.
+Além de  completamente impermeável, fácil colocação, servem como acento e mesa em acampamento selvagem, podem ser usados para lavar roupas, diminui chance de roubo.
 
-barato -impermeável -fácil colocação -serve como acento e mesa no acampamento -pode ser usado para lavar roupas
+Baldes - simbulo caracteriza um mulambiker. Escencia simples melhor. Prova de que não precisa muito.
 
-Faca vc mesmo, tenho muito orgulho. Mulambiker.
-Baldes - simbulo mulambiker
-Fiz questão de não usar um alforge para provar para eu mesmo que é 
-Orgulho
+Meu maior orgulho, no estilo "mulambiker"
 
 Não tive problemas com eles, diferente de outro que relatavam problemas no encaixe
-
-falar dos outros equipamentos (roupas, barraca,cozinha, BALDES!...)
 
  [Veja mais](https://darenhart.github.io/patagonia-trip/#/gear)
 

@@ -45,7 +45,9 @@ Viajar de bicicleta
 
 ### Motivação
 
-A motivação surgiu de viagens menores de bicicleta feitas anteriormente.
+A motivação surgiu de viagens       de bicicleta feitas anteriormente.
+
+viagem santa catarina, uruguai 2x
 
 Citações:
 
@@ -64,9 +66,9 @@ Citações:
 ### Quando e onde?
 
 Fazer uma longa viagem de bicicleta começou a me parecer algo mais simples do que imaginava.
-Foi quando percebi que poderia poderia botar em prática.
+Foi quando percebi que poderia botar em prática.
 Escolhi o destino Patagônia e a medida que a ideia foi amadurecendo, fui conversando com as pessoas sobre o assunto.
-Sabia que esfriava bastante no sul portanto o objetivo era sair antes do início do verão seguinte. 
+Sabia que esfriava bastante no sul, portanto o objetivo era sair antes do início do verão seguinte. 
 A saída se deu por volta de um ano e meio depois da concepção da ideia.
 Não estava preso a uma [rota](https://darenhart.github.io/patagonia-trip), mas a que fazia mais sentido era seguir a sul próximo a cordilheira dos Andes e depois talvez voltar de carona.
 Ainda não sabia quanto tempo levaria, mas seria menos de um ano.
@@ -75,22 +77,19 @@ A viagem ocorreu em quatro meses, de outubro de 2017 à Fevereiro de 2018.
 
 ### Equipamentos
 
-Ao descobrir que existe o termo cicloturismo, acabei encontrando pessoas que são referências no assunto, como por exemplo o [Olinto e a Rafaela](https://www.olinto.com.br/) e os [Pedarilhos](https://www.pedarilhos.com.br/).
+Nas primeiras viagens - forma primitiva, mochilas penduradas
+
+Ao descobrir que existe o termo cicloturismo, acabei encontrando pessoas que são referências no assunto, como por exemplo o [Olinto e a Rafaela](https://www.olinto.com.br/), os [Pedarilhos](https://www.pedarilhos.com.br/), entre [outros](https://docs.google.com/document/d/1hLK3I_bJJoF_bFf3JQtNA1iDGUlSgUr7-HwD5bygilg/edit?usp=sharing).
 Escolhi e montei peça por peça da bicicleta para entender bem a mecânica, mas mal eu sabia que na viagem não precisaria nada mais além de passar óleo na correia, remendar câmara e trocar cabos.
 Para começar a viajar de bicicleta não é preciso se preparar muito, mas aproveitei que estava no conforto de casa para revisar se todo equipamento atendia às minhas necessidades, e então evitar ter que resolver algo na estrada.
 Me diverti escolhendo estrategicamente cada um dos itens que levaria buscando leveza, simplicidade, conforto e independência.
 
 Busquei roupas adequadas para o frio seguindo o princípio das [quatro camadas](https://www.olinto.com.br/dicas-cicloturismo/vestimenta/).
 Para cozinhar usei um fogareiro à álcool/etanol e utensílios básicos de cozinha.
-No lugar dos alforges, para carregar as coisas na bicicleta usei [baldes](https://youtu.be/DzK4ufcDylo). 
+No lugar dos alforges, para carregar as coisas na bicicleta, usei [baldes](https://youtu.be/DzK4ufcDylo). 
 No melhor estilo "faça você mesmo", eles são facilmente fixados na bicicleta apenas com corda, promovendo durabilidade, confiabilidade e fácil reposição.
-Além de  completamente impermeável, fácil colocação, servem como acento e mesa em acampamento selvagem, podem ser usados para lavar roupas, diminui chance de roubo.
-
-Baldes - simbulo caracteriza um mulambiker. Escencia simples melhor. Prova de que não precisa muito.
-
-Meu maior orgulho, no estilo "mulambiker"
-
-Não tive problemas com eles, diferente de outro que relatavam problemas no encaixe
+Além de serem completamente impermeáveis, servem como acento e mesa em acampamento selvagem, podem ser usados para lavar roupas e diminuem as chances de furto.
+Os baldes caracterizam o que chamam de um "mulambiker". Pouca sofisticação, Essência simples melhor. A prova de que não precisa muito para.
 
  [Veja mais](https://darenhart.github.io/patagonia-trip/#/gear)
 

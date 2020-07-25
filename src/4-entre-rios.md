@@ -10,9 +10,9 @@ Enfim, nem cheguei a ver a barca então fui até o terminal de ônibus onde casu
 Tirei os baldes (alforges), a roda da frente e larguei tudo no bagageiro.
 O ônibus cruza o rio por uma barragem em alguns minutos.
 Registrei passagem na aduana Argentina. 
-
 Em Concórdia, fui na loja da Claro para fazer um novo *chip* de celular.
 Saindo da loja, no meio de muita gente chega um pai andando com sua família e me cumprimenta, dizendo que também andava de bike.
+// TODO descrever gordinhos?
 Estava junto da mãe e duas filhas, todos sorridentes e fortinhos, contrastando com minha magreza.
 Depois se aproxima para dar um beijo de bochecha e o resto da família também me cumprimenta da mesma forma.
 Aquilo fez meu dia mais alegre.
@@ -41,6 +41,9 @@ Me sugeriram conhecer a localidade de San Marcos Sierras.
 Domingo.
 Na mesma praça, fui convidado para um assado num aniversário! Era um grupo de amigos motociclistas.
 Eles vinham conversar e tirar foto comigo.
+
+// TODO menos palavra carona
+
 Ganhei carona até Bovril.
 A Graciela me ofereceu carona.
 Uma professora que pegava carona na estrada para dar aula, algo bem comum por ali.

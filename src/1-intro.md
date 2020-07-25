@@ -45,6 +45,8 @@ Viajar de bicicleta
 
 ### Motivação
 
+// TODO
+
 A motivação surgiu de viagens       de bicicleta feitas anteriormente.
 
 viagem santa catarina, uruguai 2x
@@ -58,6 +60,8 @@ Citações:
 > "Quando a gente tá contente, Tanto faz o quente, Tanto faz o frio" Gal Costa
 
 <!-- 
+
+TODO
 
 [Arte do auto escracho](http://odois.org/100104)
 
@@ -89,6 +93,8 @@ Para cozinhar usei um fogareiro à álcool/etanol e utensílios básicos de cozi
 No lugar dos alforges, para carregar as coisas na bicicleta, usei [baldes](https://youtu.be/DzK4ufcDylo). 
 No melhor estilo "faça você mesmo", eles são facilmente fixados na bicicleta apenas com corda, promovendo durabilidade, confiabilidade e fácil reposição.
 Além de serem completamente impermeáveis, servem como acento e mesa em acampamento selvagem, podem ser usados para lavar roupas e diminuem as chances de furto.
+
+// TODO
 Os baldes caracterizam o que chamam de um "mulambiker". Pouca sofisticação, Essência simples melhor. A prova de que não precisa muito para.
 
  [Veja mais](https://darenhart.github.io/patagonia-trip/#/gear)
@@ -99,7 +105,7 @@ Identifiquei alguns riscos que poderiam surgir durante a viagem e refleti sobre 
 
 Roubo: Não é um risco vital, não dei muita importância, mas evitar capitais já é suficiente.
 
-Ficar sem água: Sempre levei água extra para cozinhar, cuidar da higiene e lavar louça..... melhorar......portanto caso faltasse, abriria mão destes luxos. Houve poucos trajetos longos onde não houvesse motoristas para quem poderia pedir ajuda. 
+//TODO melhorar - Ficar sem água: Sempre levei água extra para cozinhar, cuidar da higiene e lavar louça..... melhorar......portanto caso faltasse, abriria mão destes luxos. Houve poucos trajetos longos onde não houvesse motoristas para quem poderia pedir ajuda. 
 
 Ser atropelado: Evitar capitais e estradas mais movimentadas. A Argentina e Chile no geral tem menos trânsito que no Brasil.
 

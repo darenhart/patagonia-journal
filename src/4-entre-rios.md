@@ -13,14 +13,14 @@ Registrei passagem na aduana Argentina.
 
 Em Concórdia, fui na loja da Claro para fazer um novo *chip* de celular.
 Saindo da loja, no meio de muita gente chega um pai andando com sua família e me cumprimenta, dizendo que também andava de bike.
+Estava junto da mãe e duas filhas, todos sorridentes e fortinhos, contrastando com minha magreza.
 Depois se aproxima para dar um beijo de bochecha e o resto da família também me cumprimenta da mesma forma.
-Estavam juntas a mãe e duas filhas, todos sorridentes.
 Aquilo fez meu dia mais alegre.
 Só mais tarde descobri que este é um cumprimento comum na argentina.
 Dei uma volta pela cidade, troquei pesos com um cidadão, depois me fui em direção ao povoado de General Campos. 
 
-Na maioria do caminho tinha uma faixa bloqueada, devido à obras, que estava como um ciclovia gigante perfeita pra andar de bici.
-Foi uma maravilha.
+Na maioria do caminho tinha uma faixa bloqueada, devido à obras.
+Era como um ciclovia gigante, perfeita pra andar de bici, foi uma maravilha.
 Na entrada da cidade, um pedalante local me acompanhou e mostrou uma praça onde eu podia ficar.
 No mercado, um senhor me sugeriu avisar a polícia que ficaria por ali e assim o fiz.
 Chegando na praça, apareceu um adolescente de bike que tinha umas conversas um pouco estranhas.
@@ -29,7 +29,7 @@ Para ele sair da minha cola acabei o ignorando pois precisava armar acampamento,
 
 Fui até a praça central e vi o final de uma cerimônia de casamento.
 Voltando para a praça onde tinha armado a barraca, apareceram uns adolescentes com som alto no carro, logo já desarmei a barraca e movi para outro canto.
-Ali conheci o Lizandro, um professor de música bem jovem, e um amigo dele.
+Ali conheci o Lizandro, um jovem professor de música, e um amigo dele.
 Haviam sido avisados que eu estava ali pelos pais de um deles com quem havia conversado logo que cheguei.
 Lizandro tocou umas musicas com seu violão e seu amigo fazia segunda voz.
 Uma das coisas que buscava na viagem era ouvir a música local, mas não imaginava que seria no primeiro dia na Argentina, nem que ela viria até mim.

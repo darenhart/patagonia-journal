@@ -47,9 +47,11 @@ Viajar de bicicleta
 
 // TODO
 
-A motivação surgiu de viagens       de bicicleta feitas anteriormente.
+A motivação surgiu de outras viagens de bicicleta feitas anteriormente.
 
-viagem santa catarina, uruguai 2x
+- circuitos [Vale europeu]() e costa verde e mar em Santa Catarina - Paula e eu
+- Chui à Montevideo - Uruguai 
+- Chui à Montevideo - Uruguai
 
 Citações:
 

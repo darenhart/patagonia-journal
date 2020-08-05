@@ -45,13 +45,11 @@ Viajar de bicicleta
 
 ### Motivação
 
-// TODO
+A motivação surgiu de viagens de bicicleta feitas anteriormente.
 
-A motivação surgiu de outras viagens de bicicleta feitas anteriormente.
-
-- circuitos [Vale europeu]() e costa verde e mar em Santa Catarina - Paula e eu
-- Chui à Montevideo - Uruguai 
-- Chui à Montevideo - Uruguai
+- Circuitos [Vale europeu](https://goo.gl/photos/dL9YkaGSWJneBTiS8) e [Costa verde & mar](https://goo.gl/photos/smvRFw7o8vXGnShj9) em Santa Catarina (Paula e eu)
+- [Chuy à Montevideo](https://youtu.be/vRJjv78f3y8) - Uruguai (Rafael, Mateus, Henrique, Pedro e eu)
+- [Chuy à Montevideo](https://goo.gl/photos/AFeGfDhaq9AuaaML9) - Uruguai (Paula e eu)
 
 Citações:
 

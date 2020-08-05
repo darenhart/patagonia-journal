@@ -5,7 +5,8 @@
 
 #### Dia 1 - 13/10/2017
 
-A presença, o bom humor e o apoio das pessoas foi muito importante no dia da saída para começar a viagem. Meu irmão Rafael (Fafa) e meus amigos Matheus Bechert e Adriano (Tinanço) me acompanharam.
+A presença, o bom humor e o apoio das pessoas foi muito importante no dia da saída para começar a viagem.
+Meu irmão Rafael (Fafa) e meus amigos Matheus Bechert e Adriano (Tinanço) me acompanharam.
 
 Uma chuva leve nos acompanhou durante o dia, principalmente quando saímos. 
 Depois de nos afastar da cidade, quebrou o bagageiro do Fafa, mas logo em seguida encontramos um senhor em uma pequena oficina que o concertou.
@@ -93,7 +94,7 @@ Agora, sozinho, me dou conta que finalmente estou tornando um sonho em realidade
 Me sinto um pouco ansioso mas muito paciente.
 
 Logo mais estarei saindo do Brasil e entrando em terras desconhecidas.
-Me sinto cheio de energia para encarar o que vier pela frente.
+Me sinto cheio de energia para viver o que vier pela frente.
 
 ![Estradão com bicicleta no centro](./assets/20171023_105039.jpg)
 

@@ -12,10 +12,10 @@ São relatos de uma viagem de bicicleta saindo de Estrela/RS - Brasil até a Pat
 
 ## Sumário
 
-- [Sobre a viagem](#pre-viagem)
-    - [Motivação](#motivacao)
-    - [Quando, onde?](#quando-onde)
-    - [Equipamento](#equipamento)
+- [Sobre a viagem](#sobre-a-viagem)
+    - [Motivação](#motivação)
+    - [Quando e onde?](#quando-e-onde)
+    - [Equipamentos](#equipamentos)
     - [Riscos](#riscos)
 - [A Viagem](#a-viagem)
     - [Rio Grande do Sul](#rio-grande-do-sul)
@@ -45,27 +45,30 @@ Viajar de bicicleta
 
 ### Motivação
 
-A motivação surgiu de viagens de bicicleta feitas anteriormente.
+A motivação surgiu de viagens de bicicleta feitas anteriormente:
 
-- Circuitos [Vale europeu](https://goo.gl/photos/dL9YkaGSWJneBTiS8) e [Costa verde & mar](https://goo.gl/photos/smvRFw7o8vXGnShj9) em Santa Catarina (Paula e eu)
-- [Chuy à Montevideo](https://youtu.be/vRJjv78f3y8) - Uruguai (Rafael, Mateus, Henrique, Pedro e eu)
-- [Chuy à Montevideo](https://goo.gl/photos/AFeGfDhaq9AuaaML9) - Uruguai (Paula e eu)
+- Circuitos em Santa Catarina
+  - Paula e eu
+  - [Fotos1](https://goo.gl/photos/dL9YkaGSWJneBTiS8) - [Fotos2](https://goo.gl/photos/smvRFw7o8vXGnShj9)
+- Chuy à Montevideo - Uruguai
+  - Henrique, Mateus, Pedro, Rafael e eu
+  - [Relato](https://drive.google.com/file/d/1VRAzXF2-yQ2WQ697GQAqMjn8D1LXSRGO/view?usp=sharing)
+  - [Fotos](https://photos.app.goo.gl/A4wfoUzFaiY8N1nV7)
+  - [Vídeo1](https://youtu.be/vRJjv78f3y8) - [Vídeo2](https://vimeo.com/133724699)<span style="font-size: 12px;">(senha: gurizada)</span>
+- Chuy à Montevideo - Uruguai
+  - Paula e eu
+  - [Relato](https://drive.google.com/file/d/1gKEfAsLjcT5wkhN-JDvdkwTzKFF4o0qa/view?usp=sharing)
+  - [Fotos](https://goo.gl/photos/AFeGfDhaq9AuaaML9)
 
 Citações:
 
 > “Todo sonho é uma derrota em potencial. Para não o realizar, basta manter-se parado” Argus Saturnino
 
-> “A liberdade reside nas coisas simples" Antonio Olinto
+> “A liberdade reside nas coisas simples” Antonio Olinto
 
-> "Quando a gente tá contente, Tanto faz o quente, Tanto faz o frio" Gal Costa
+> “Quando a gente tá contente, Tanto faz o quente, Tanto faz o frio” Gal Costa
 
-<!-- 
-
-TODO
-
-[Arte do auto escracho](http://odois.org/100104)
-
--->
+> “Escrachar os outros é fácil, escrachar a si mesmo é difícil, mas escrachar a si antes que os outros o façam é uma arte”  [odois](http://odois.org/100104#outr-1). A Arte do Autoescracho 
 
 ### Quando e onde?
 

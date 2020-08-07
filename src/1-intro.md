@@ -17,7 +17,7 @@ São relatos de uma viagem de bicicleta saindo de Estrela/RS - Brasil até a Pat
     - [Quando e onde?](#quando-e-onde)
     - [Equipamentos](#equipamentos)
     - [Riscos](#riscos)
-- [A Viagem](#a-viagem)
+- [A viagem](#a-viagem)
     - [Rio Grande do Sul](#rio-grande-do-sul)
     - [Uruguai](#uruguai)
     - [Argentina](#argentina---entre-rios)

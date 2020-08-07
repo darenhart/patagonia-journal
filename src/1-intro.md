@@ -72,7 +72,7 @@ Citações:
 
 ### Quando e onde?
 
-Fazer uma longa viagem de bicicleta começou a me parecer algo mais simples do que imaginava.
+Depois dos primeiros experimentos com cicloturismo, fazer uma longa viagem de bicicleta começou a me parecer algo mais simples do que imaginava.
 Foi quando percebi que poderia botar em prática.
 Escolhi o destino Patagônia e a medida que a ideia foi amadurecendo, fui conversando com as pessoas sobre o assunto.
 Sabia que esfriava bastante no sul, portanto o objetivo era sair antes do início do verão seguinte. 
@@ -84,7 +84,7 @@ A viagem ocorreu em quatro meses, de outubro de 2017 à Fevereiro de 2018.
 
 ### Equipamentos
 
-Nas primeiras viagens - forma primitiva, mochilas penduradas
+Nas primeiras usávamos o que tinhamos, mochilas ou bolsas penduradas no bagageiro, cobertas em vez de saco de dormir.
 
 Ao descobrir que existe o termo cicloturismo, acabei encontrando pessoas que são referências no assunto, como por exemplo o [Olinto e a Rafaela](https://www.olinto.com.br/), os [Pedarilhos](https://www.pedarilhos.com.br/), entre [outros](https://docs.google.com/document/d/1hLK3I_bJJoF_bFf3JQtNA1iDGUlSgUr7-HwD5bygilg/edit?usp=sharing).
 Escolhi e montei peça por peça da bicicleta para entender bem a mecânica, mas mal eu sabia que na viagem não precisaria nada mais além de passar óleo na correia, remendar câmara e trocar cabos.

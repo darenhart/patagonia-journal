@@ -15,7 +15,7 @@ Saindo da loja, no meio de muita gente chega um pai andando com sua família e m
 Estava junto da mãe e duas filhas, todos sorridentes e mais fortinhos, ressaltando minha magreza.
 Depois se aproximam para cumprimentar com um beijo de bochecha.
 Isto fez meu dia mais alegre.
-Só mais tarde descobri que aquele é um cumprimento comum na argentina.
+Só mais tarde descobri que aquele é um cumprimento comum na Argentina.
 Dei uma volta pela cidade, troquei pesos com um cidadão, depois me fui em direção ao povoado de General Campos. 
 
 Na maioria do caminho tinha uma faixa bloqueada, devido à obras.

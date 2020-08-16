@@ -49,7 +49,8 @@ A motivação surgiu de viagens de bicicleta feitas anteriormente:
 
 - Circuitos em Santa Catarina
   - Paula e eu
-  - [Fotos1](https://goo.gl/photos/dL9YkaGSWJneBTiS8) - [Fotos2](https://goo.gl/photos/smvRFw7o8vXGnShj9)
+  - [Fotos Vale Europeu](https://goo.gl/photos/dL9YkaGSWJneBTiS8) 
+  - [Fotos Costa Verde & Mar](https://goo.gl/photos/smvRFw7o8vXGnShj9)
 - Chuy à Montevideo - Uruguai
   - Henrique, Mateus, Pedro, Rafael e eu
   - [Relato](https://drive.google.com/file/d/1VRAzXF2-yQ2WQ697GQAqMjn8D1LXSRGO/view?usp=sharing)

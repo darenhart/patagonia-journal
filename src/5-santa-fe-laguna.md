@@ -105,5 +105,7 @@ Estar fazendo algo muito diferente fez acessar memórias do subconciente
 
 Niveis de mulambiker - uruguai barraca (lona que coloca na cerca)
 
+Botar oleo na correia, anel por anel
+
 -->
 

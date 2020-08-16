@@ -12,11 +12,10 @@ O ônibus cruza o rio por uma barragem em alguns minutos.
 Registrei passagem na aduana Argentina. 
 Em Concórdia, fui na loja da Claro para fazer um novo *chip* de celular.
 Saindo da loja, no meio de muita gente chega um pai andando com sua família e me cumprimenta, dizendo que também andava de bike.
-// TODO descrever gordinhos?
-Estava junto da mãe e duas filhas, todos sorridentes e fortinhos, contrastando com minha magreza.
-Depois se aproxima para dar um beijo de bochecha e o resto da família também me cumprimenta da mesma forma.
-Aquilo fez meu dia mais alegre.
-Só mais tarde descobri que este é um cumprimento comum na argentina.
+Estava junto da mãe e duas filhas, todos sorridentes e mais fortinhos, ressaltando minha magreza.
+Depois se aproximam para cumprimentar com um beijo de bochecha.
+Isto fez meu dia mais alegre.
+Só mais tarde descobri que aquele é um cumprimento comum na argentina.
 Dei uma volta pela cidade, troquei pesos com um cidadão, depois me fui em direção ao povoado de General Campos. 
 
 Na maioria do caminho tinha uma faixa bloqueada, devido à obras.
@@ -41,24 +40,20 @@ Me sugeriram conhecer a localidade de San Marcos Sierras.
 Domingo.
 Na mesma praça, fui convidado para um assado num aniversário! Era um grupo de amigos motociclistas.
 Eles vinham conversar e tirar foto comigo.
-
-// TODO menos palavra carona
-
-Ganhei carona até Bovril.
-A Graciela me ofereceu carona.
-Uma professora que pegava carona na estrada para dar aula, algo bem comum por ali.
+A Graciela me ofereceu carona até a cidade de onde ela vinha.
+Ela era professora e costumava pegar carona na estrada para dar aula, algo bem comum por ali.
 Tava com dificuldade de entender pra onde ela ia me levar.
-Só quando descobri que B tem som de V daí consegui achar Bovril no mapa.
+Só quando descobri que B tem som de V que consegui achar Bovril no mapa.
 Saía um pouco do meu percurso, mas já evitava uma estrada um pouco mais movimentada do que o normal.
-Já escuro, avisei a polícia de Bovril, e eles me indicaram um *camping*.
+Já escuro, avisei a polícia de Bovril, e eles me indicaram um camping.
 Não tinha ninguém lá mas fui entrando, afinal tinha a permissão da polícia.
-Ao sair do banheiro depois de um ótimo banho, estava ali um cara perguntando o que eu estava fazendo ali, expliquei a minha situação e ele disse para eu sair cedo no dia seguinte.
+Ao sair do banheiro depois de um ótimo banho, surgiu um cara perguntando o que eu estava fazendo ali, expliquei a minha situação e ele disse para eu sair cedo no dia seguinte.
 
 #### Dia 18
 
 Andei 100km, cheguei cedo e não muito cansado, parece que estou criando resistência.
 Eu vinha acompanhando o blog dos Pedarilhos pois faria um trajeto semelhante ao deles.
-Nesse dia queria parar no Parque Rural Enrique Berduc, um lindo *camping free*! Pelo menos naquele dia.
+Nesse dia queria parar no Parque Rural Enrique Berduc, um lindo camping free! Pelo menos naquele dia.
 Este parque se encontra dentro do Parque Nacional San Martin, um terreno que foi doado com a condição de que fosse um Parque Nacional.
 
 Uma imagem muito confortante aos olhos de um cicloviajante:

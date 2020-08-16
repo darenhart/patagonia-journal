@@ -84,8 +84,8 @@ A viagem ocorreu em quatro meses, de outubro de 2017 à Fevereiro de 2018.
 
 ### Equipamentos
 
-Nas primeiras usávamos o que tinhamos, mochilas ou bolsas penduradas no bagageiro, cobertas em vez de saco de dormir.
-
+Nas primeiras experiências era usado o que se tinha à disposição.
+Mochilas ou bolsas penduradas no bagageiro e cobertores em vez de saco de dormir.
 Ao descobrir que existe o termo cicloturismo, acabei encontrando pessoas que são referências no assunto, como por exemplo o [Olinto e a Rafaela](https://www.olinto.com.br/), os [Pedarilhos](https://www.pedarilhos.com.br/), entre [outros](https://docs.google.com/document/d/1hLK3I_bJJoF_bFf3JQtNA1iDGUlSgUr7-HwD5bygilg/edit?usp=sharing).
 Escolhi e montei peça por peça da bicicleta para entender bem a mecânica, mas mal eu sabia que na viagem não precisaria nada mais além de passar óleo na correia, remendar câmara e trocar cabos.
 Para começar a viajar de bicicleta não é preciso se preparar muito, mas aproveitei que estava no conforto de casa para revisar se todo equipamento atendia às minhas necessidades, e então evitar ter que resolver algo na estrada.
@@ -94,11 +94,8 @@ Me diverti escolhendo estrategicamente cada um dos itens que levaria buscando le
 Busquei roupas adequadas para o frio seguindo o princípio das [quatro camadas](https://www.olinto.com.br/dicas-cicloturismo/vestimenta/).
 Para cozinhar usei um fogareiro à álcool/etanol e utensílios básicos de cozinha.
 No lugar dos alforges, para carregar as coisas na bicicleta, usei [baldes](https://youtu.be/DzK4ufcDylo). 
-No melhor estilo "faça você mesmo", eles são facilmente fixados na bicicleta apenas com corda, promovendo durabilidade, confiabilidade e fácil reposição.
+No melhor estilo "faça você mesmo" ou "mulambiker", com pouca sofisticação, os baldes são facilmente fixados na bicicleta apenas com corda, promovendo durabilidade, confiabilidade e fácil reposição.
 Além de serem completamente impermeáveis, servem como acento e mesa em acampamento selvagem, podem ser usados para lavar roupas e diminuem as chances de furto.
-
-// TODO
-Os baldes caracterizam o que chamam de um "mulambiker". Pouca sofisticação, Essência simples melhor. A prova de que não precisa muito para.
 
  [Veja mais](https://darenhart.github.io/patagonia-trip/#/gear)
 
@@ -108,8 +105,8 @@ Identifiquei alguns riscos que poderiam surgir durante a viagem e refleti sobre 
 
 Roubo: Não é um risco vital, não dei muita importância, mas evitar capitais já é suficiente.
 
-//TODO melhorar - Ficar sem água: Sempre levei água extra para cozinhar, cuidar da higiene e lavar louça..... melhorar......portanto caso faltasse, abriria mão destes luxos. Houve poucos trajetos longos onde não houvesse motoristas para quem poderia pedir ajuda. 
+Ficar sem água: Sempre levei água extra para cozinhar, lavar louça e cuidar da higiene portanto caso faltasse, usaria apenas para beber. Além disso houve poucos trajetos longos onde não houvesse motoristas para quem poderia pedir ajuda. 
 
 Ser atropelado: Evitar capitais e estradas mais movimentadas. A Argentina e Chile no geral tem menos trânsito que no Brasil.
 
-Perder o cartão e dinheiro: Não é um risco vital, não me preocupou muito, mas tentei separar as coisas em mais de um lugar.
+Perder carteira e dinheiro: Levei junto cópias dos documentos e dinheiro separados da carteira.

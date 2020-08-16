@@ -3,9 +3,9 @@
 
 #### Dia 11
 
-Dia bom. Cruzei a fronteira para o Uruguai na cidade de Artigas e cheguei cedo.
+Dia bom. Cheguei cedo na cidade de Artigas.
 Uma senhora bem querida me recebeu no centro de informações turísticas.
-Disse que o *camping* aberto da praça era perigoso portanto fui para um *camping* no final da cidade.
+Disse que o camping aberto da praça era perigoso portanto fui para um camping no final da cidade.
 Ganhei um *chip* de celular num bazar.
 
 #### Dia 12 

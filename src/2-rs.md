@@ -99,17 +99,16 @@ Me sinto cheio de energia para viver o que vier pela frente.
 ![Estradão com bicicleta no centro](./assets/20171023_105039.jpg)
 
 As cochilhas do pampa gaúcho vão ficando mais longas e menos íngremes até se tornarem uma planície.
-Árvores passam a ser mais raras.
+Árvores passam a ser mais raras e arbustos começam a tomar o lugar delas.
 Essas mudanças são observadas muito lentamente ao longo de vários dias.
 Este para-lama transparente que emendei na roda dianteira não resistiu mais muitos dias.
 
 O dia estava ótimo para pedalar: clima bom, estrada pouco movimentada, acostamento bom e nuvens bonitas.
-
 Vejo os cata-ventos e não perco a oportunidade de interpretar Dom Quixote.
 
 ![Dom quixote, placa rs-uruguai](./assets/dom-quixote.jpg)
 
-Apanhei no chão um pedaço de placa de carro "RS - Uruguaiana".
+Apanhei no chão um pedaço de placa de carro "RS - Uruguaiana" casualmente perto de cruzar a fronteira.
 
 Fiz acampamento selvagem.
 

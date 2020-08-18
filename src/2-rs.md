@@ -15,7 +15,7 @@ Ficamos num camping no interior do município de Sério.
 
 Apesar de todo peso sendo carregado, a sensação ao iniciar uma viagem de bike é de extrema leveza ao deslizar suavemente sobre o chão, levando tudo que se precisa para viver com independência e em condições diversas.
 
-![despedida](./assets/saida.jpg)
+![despedida](./assets/images/saida.jpg)
 
 #### Dia 2
 
@@ -57,7 +57,7 @@ Nos convidaram para um mate e mais tarde eles nos ofereceram a janta.
 Na madrugada foi difícil dormir pois começou uma tempestade que fazia o chão tremer.
 A localidade se chamava "Cochilha do Pau Fincado"
 
-![Estrada e cabana em Pau Fincado](./assets/pau-fincado.jpg)
+![Estrada e cabana em Pau Fincado](./assets/images/pau-fincado.jpg)
 
 #### Dia 7
 
@@ -96,7 +96,7 @@ Me sinto um pouco ansioso mas muito paciente.
 Logo mais estarei saindo do Brasil e entrando em terras desconhecidas.
 Me sinto cheio de energia para viver o que vier pela frente.
 
-![Estradão com bicicleta no centro](./assets/20171023_105039.jpg)
+![Estradão com bicicleta no centro](./assets/images/20171023_105039.jpg)
 
 As cochilhas do pampa gaúcho vão ficando mais longas e menos íngremes até se tornarem uma planície.
 Árvores passam a ser mais raras e arbustos começam a tomar o lugar delas.
@@ -106,7 +106,7 @@ Este para-lama transparente que emendei na roda dianteira não resistiu mais mui
 O dia estava ótimo para pedalar: clima bom, estrada pouco movimentada, acostamento bom e nuvens bonitas.
 Vejo os cata-ventos e não perco a oportunidade de interpretar Dom Quixote.
 
-![Dom quixote, placa rs-uruguai](./assets/dom-quixote.jpg)
+![Dom quixote, placa rs-uruguai](./assets/images/dom-quixote.jpg)
 
 Apanhei no chão um pedaço de placa de carro "RS - Uruguaiana" casualmente perto de cruzar a fronteira.
 

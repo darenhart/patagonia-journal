@@ -40,7 +40,7 @@ Sofia Tocou umas músicas argentinas - zamba carpera, chamamé, carnavalito, Gat
 A praça é quase maior que a cidade.
 Tinha gravado as músicas que ela tocou, mas perdi.
 
-![A familia que me recebeu em Colonia Cello](./assets/FB_IMG_15097999207876126.jpg)
+![A familia que me recebeu em Colonia Cello](./assets/images/FB_IMG_15097999207876126.jpg)
 
 #### Dia 22
 
@@ -69,7 +69,7 @@ La Para
 Vou até outro ponto próximo da laguna em um camping.
 Um grupo de homens argentinos me convidam para se juntar e oferecem assado.
 
-![](./assets/20171104_151600.jpg)
+![](./assets/images/20171104_151600.jpg)
 
 
 

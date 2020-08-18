@@ -58,4 +58,4 @@ Este parque se encontra dentro do Parque Nacional San Martin, um terreno que foi
 
 Uma imagem muito confortante aos olhos de um cicloviajante:
 
-![Parque Rural Enrique Berduc](./assets/parque-berduc.jpg)
+![Parque Rural Enrique Berduc](./assets/images/parque-berduc.jpg)

@@ -15,7 +15,7 @@ Os uruguaios que encontrava pelo caminho normalmente me cumprimentavam simpátic
 Visualizo da rua um conjunto de árvores agradável para acampamento e não perco a oportunidade.
 
 
-![Campo com barraca armada](./assets/20171024_18460222.jpg)
+![Campo com barraca armada](./assets/images/20171024_18460222.jpg)
 
 #### Dia 13
 
@@ -43,7 +43,7 @@ Acompanhei eles até o local onde confeccionam móveis artesanais.
 A casa foi construída com madeira e isopor por eles, e não usam a rede elétrica, apenas placas solares.
 Eles falam polonês, e o Gianfranco um pouco de português também.
 
-![Selfie do casal e foto minha andando no pampa](./assets/salto.jpg)
+![Selfie do casal e foto minha andando no pampa](./assets/images/salto.jpg)
 
 [Mais fotos do trecho no Uruguai](https://photos.app.goo.gl/2usGhXWPM3wV8BEh1)
 

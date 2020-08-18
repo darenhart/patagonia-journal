@@ -1,4 +1,6 @@
+<!-- 
 <span style="font-size: 14px;">[< Rota, Equipamento, Fotos, Vídeo](https://darenhart.github.io/patagonia-trip)</span>
+-->
 
 # Viagem de bicicleta à Patagônia
 

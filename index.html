@@ -8,6 +8,7 @@
     <meta property="og:description" content="por Daniel Werle Arenhart">
     <meta property="og:image" content="https://darenhart.github.io/patagonia-journal/assets/thumbnail.jpg">
     <meta property="og:url" content="https://darenhart.github.io/patagonia-journal">
+    <link rel="manifest" href="assets/manifest.webmanifest">
     <link rel="icon" type="image/png" href="img/favicon.png">
     <link rel="stylesheet" href="github-markdown.css">
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -20,6 +21,9 @@
       gtag('config', 'UA-120517526-2');
     </script>
     <style>
+    body {
+      margin: 0;
+    }
     @font-face {
       font-family: Belwe;
       src: url('./assets/BelweMediumBT.ttf');
@@ -85,10 +89,28 @@
     footer a {
       margin-bottom: 1rem;
     }
+    .cover {
+      background-image: url("assets/cover.jpg");
+      background-size: cover;
+      background-position: bottom;
+      height: 30vh;
+      min-height: 400px;
+    }
+    @media (min-width: 800px) 
+    {
+      .cover {
+        height: 75vh;
+      }
+    }
     </style>
   </head>
-  <body class="markdown-body">
-<p><span style="font-size: 14px;"><a href="https://darenhart.github.io/patagonia-trip">&lt; Rota, Equipamento, Fotos, Vídeo</a></span></p>
+  <body>
+    <div class="cover"></div>
+    <div class="markdown-body">
+<!-- 
+<span style="font-size: 14px;">[< Rota, Equipamento, Fotos, Vídeo](https://darenhart.github.io/patagonia-trip)</span>
+-->
+
 <h1 id="viagem-de-bicicleta-à-patagônia">Viagem de bicicleta à Patagônia</h1>
 <p><span style="font-size: 14px;">por daniel werle arenhart</span></p>
 <p>Por volta de dois anos e meio depois de ter voltado, decidi passar a limpo e reviver os manuscritos da caderneta de viagem.</p>
@@ -481,6 +503,7 @@ Botar oleo na correia, anel por anel
 </footer>
 
 
+</div>
 </body>
 
 <script type="text/javascript">

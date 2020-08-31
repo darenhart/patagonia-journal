@@ -102,6 +102,7 @@ Dica preciosa: Cagar de manha
 Foto de flor com andes no fundo
 
 Estar fazendo algo muito diferente fez acessar memórias do subconciente
+Pag 66 terra dos homens referência
 
 Niveis de mulambiker - uruguai barraca (lona que coloca na cerca)
 

@@ -4,40 +4,33 @@
 
 #### Dia 19
 
-Em breve...
-
-<!--
-
-
-
-São Tomé - Fui até o município de Paraná na entrada do túnel.
-Um supervisor me levou numa caminhonete até o outro lado do túnel.
-Dei umas voltas pela cidade até encontrar um óculos EPI escuro.
-Esse é o terceiro que tenho.
-Em Santa Fé também queria trocar uns reais por pesos.
-Esperei até abrir depois das 16:30 e o cambio não abriu.
-Fui para o camping municipal..25 pesos.
-*falar dos campings municipais* 
+Fui até o município de Paraná na entrada do túnel onde um supervisor me levou numa caminhonete até o outro lado.
+Acabei perdendo pela segunda vez os óculos EPI de sol, então dei umas voltas pela cidade até encontrar um novo.
+Queria também trocar uns reais por pesos.
+Esperei até o cambio abrir depois das 16:30 conforme tinha me informado, mas não abriu.
+Fui para o camping municipal de São Tomé, cidade visinha.
 
 
 #### Dia 20
 
-Sá Pereira.
-Voltei até Santa Fé para trocar reais e pediram o passaporte... começando o dia andando 15km em vão.
-Voltei para buscar, tinha um vento lateral a favor.
-Estrada boa.
-Fiquei nos bombeiros, deram janta, fomos buscar.
+Voltei até Santa Fé sem a bagagem para trocar reais no cambio porém pediram o passaporte, então tive que voltar para pegar.
+Comecei o dia pedalando 15km em vão.
+Segui até Sá Pereira.
+Lá fiquei nos bombeiros onde fui muito bem recebido. 
+Fomos buscar uma janta e eles não aceitaram meu pagamento.
 
 #### Dia 21
 
-Colonia Cello
-
 Esperei nos bombeiros até parar a chuva.
-Estrada boa, vento favorável.
-Cheguei na policia, não tinha ninguém, o visinho começou a conversar e logo já ofereceu a casa.
+Até aqui a primeira desde o Rio Grande do sul, porém nem atrapalhou.
+A estrada estava ótima, bem pouco movimento, vento favorável.
+Parei em uma pequena cidade chamada Colonia Cello cuja praça é quase maior que a própria cidade.
+Fui na polícia, mas não tinha ninguém.
+Havia uma missa terminando na igreja ao lado, provavelmente toda população estava lá, inclusive os policiais.
+Um morador começou a conversar comigo e acho que em menos de 30 segundos já estava oferecendo pouso em sua casa.
 Gaston, Sofia e a filha Anita.
-Sofia Tocou umas músicas argentinas - zamba carpera, chamamé, carnavalito, Gato, chacarera.
-A praça é quase maior que a cidade.
+Sofia tocou vários estilos de músicas argentinas - zamba carpera, chamamé, carnavalito, Gato, chacarera.
+
 Tinha gravado as músicas que ela tocou, mas perdi.
 
 ![A familia que me recebeu em Colonia Cello](./assets/images/FB_IMG_15097999207876126.jpg)
@@ -75,8 +68,6 @@ Um grupo de homens argentinos me convidam para se juntar e oferecem assado.
 
 
 
-
-
 ### Argentina - Sierras Chicas de Cordoba
 
 Em breve...
@@ -93,7 +84,7 @@ Em breve...
 
 
 
-
+<!--
 
 Cansei de ficar se preocupando no que postar nas redes e decidi aproveitar o agora 
 
@@ -101,11 +92,15 @@ Dica preciosa: Cagar de manha
 
 Foto de flor com andes no fundo
 
-Estar fazendo algo muito diferente fez acessar memórias do subconciente
+Estar fazendo algo muito diferente fez acessar memórias do subconciente. A mente estava quase como num sonho, a gente é mais inteligente.
 
 Niveis de mulambiker - uruguai barraca (lona que coloca na cerca)
 
 Botar oleo na correia, anel por anel
+
+Trocar correia
+
+"Às vezes, na vida, não acontece nenhuma lição, acontece só um monte de doidera mesmo" Seu Edson
 
 -->
 

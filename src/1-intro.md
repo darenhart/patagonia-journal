@@ -47,21 +47,7 @@ Viajar de bicicleta
 
 ### Motivação
 
-A motivação surgiu de viagens de bicicleta feitas anteriormente:
-
-- Circuitos em Santa Catarina
-  - Paula e eu
-  - [Fotos Vale Europeu](https://goo.gl/photos/dL9YkaGSWJneBTiS8) 
-  - [Fotos Costa Verde & Mar](https://goo.gl/photos/smvRFw7o8vXGnShj9)
-- Chuy à Montevideo - Uruguai
-  - Henrique, Mateus, Pedro, Rafael e eu
-  - [Relato](https://drive.google.com/file/d/1VRAzXF2-yQ2WQ697GQAqMjn8D1LXSRGO/view?usp=sharing)
-  - [Fotos](https://photos.app.goo.gl/A4wfoUzFaiY8N1nV7)
-  - [Vídeo1](https://youtu.be/vRJjv78f3y8) - [Vídeo2](https://vimeo.com/133724699)<span style="font-size: 12px;">(senha: gurizada)</span>
-- Chuy à Montevideo - Uruguai
-  - Paula e eu
-  - [Relato](https://drive.google.com/file/d/1gKEfAsLjcT5wkhN-JDvdkwTzKFF4o0qa/view?usp=sharing)
-  - [Fotos](https://goo.gl/photos/AFeGfDhaq9AuaaML9)
+A motivação surgiu de [viagens de bicicleta feitas anteriormente](https://darenhart.github.io/patagonia-trip/#/other).
 
 Citações:
 

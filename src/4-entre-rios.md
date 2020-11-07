@@ -42,8 +42,8 @@ Na mesma praça, fui convidado para um assado num aniversário! Era um grupo de 
 Eles vinham conversar e tirar foto comigo.
 A Graciela me ofereceu carona até a cidade de onde ela vinha.
 Ela era professora e costumava pegar carona na estrada para dar aula, algo bem comum por ali.
-Tava com dificuldade de entender pra onde ela ia me levar.
-Só quando descobri que B tem som de V que consegui achar Bovril no mapa.
+Tive dificuldade de entender pra onde ela ia me levar.
+Só quando descobri que a letra B tem som de V que consegui achar Bovril no mapa.
 Saía um pouco do meu percurso, mas já evitava uma estrada um pouco mais movimentada do que o normal.
 Já escuro, avisei a polícia de Bovril, e eles me indicaram um camping.
 Não tinha ninguém lá mas fui entrando, afinal tinha a permissão da polícia.

@@ -25,9 +25,9 @@ Esperei nos bombeiros até parar a chuva.
 Até aqui a primeira desde o Rio Grande do sul, porém nem atrapalhou.
 A estrada estava ótima, bem pouco movimento, vento favorável.
 Parei em uma pequena cidade chamada Colonia Cello cuja praça é quase maior que a própria cidade.
-Fui na polícia, mas não tinha ninguém.
+Como de costume, fui na polícia, mas não tinha ninguém.
 Havia uma missa terminando na igreja ao lado, provavelmente toda população estava lá, inclusive os policiais.
-Um morador começou a conversar comigo e acho que em menos de 30 segundos já estava oferecendo pouso em sua casa.
+Um morador começou a conversar comigo e em poucos segundos já estava oferecendo pouso em sua casa.
 Gaston, Sofia e a filha Anita.
 Sofia tocou vários estilos de músicas argentinas - zamba carpera, chamamé, carnavalito, Gato, chacarera.
 

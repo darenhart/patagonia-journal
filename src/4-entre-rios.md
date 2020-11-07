@@ -22,18 +22,21 @@ Na maioria do caminho tinha uma faixa bloqueada, devido à obras.
 Era como um ciclovia gigante, perfeita pra andar de bici, foi uma maravilha.
 Na entrada da cidade, um pedalante local me acompanhou e mostrou uma praça onde eu podia ficar.
 No mercado, um senhor me sugeriu avisar a polícia que ficaria por ali e assim o fiz.
-Chegando na praça, apareceu um adolescente de bike que tinha umas conversas um pouco estranhas.
-Ele dizia ter viajado pelo japão mas era visível que estava inventando.
-Para ele sair da minha cola acabei o ignorando pois precisava armar acampamento, cozinhar e descansar. 
+Me sentia muito seguro e tranquilo, e para melhorar não havia contraindicação da polícia.
+Chegando na praça, veio um garoto de bike com umas conversas um pouco confusas.
+Ele contava coisas que nitidamente eram inventadas como uma viagem que fez pelo japão.
+Precisava armar acampamento, cozinhar e descansar, então para ele sair da minha cola acabei o ignorando.
+Talvez ele apenas queria um pouco de atenção, mas como começou a falar sobre ir viajar comigo, tive que desplistá-lo.
 
-Fui até a praça central e vi o final de uma cerimônia de casamento.
-Voltando para a praça onde tinha armado a barraca, apareceram uns adolescentes com som alto no carro, logo já desarmei a barraca e movi para outro canto.
+Antes de dormir, fui dar uma volta na pacata cidade e acabei presenciando à distância o final de uma cerimônia de casamento.
+Voltando para a praça onde estava armada minha barraca, apareceram uns adolescentes escutando reggaeton alto no carro, logo já desarmei a barraca e movi para outro canto mais distante.
 Ali conheci o Lizandro, um jovem professor de música, e um amigo dele.
-Haviam sido avisados que eu estava ali pelos pais de um deles com quem havia conversado logo que cheguei.
-Lizandro tocou umas musicas com seu violão e seu amigo fazia segunda voz.
+Haviam sido avisados que eu estava ali pelos pais de um deles com quem havia me encontrado logo que cheguei.
+Conversei sobre a rota e sugeriram conhecer o município de San Marcos Sierras.
+Lizandro tocou umas musicas com seu violão e seu amigo fazia segunda voz. 
 Uma das coisas que buscava na viagem era ouvir a música local, mas não imaginava que seria no primeiro dia na Argentina, nem que ela viria até mim.
 Que coisa boa ouvir uma canção castelhana de alguém com idioma nativo.
-Me sugeriram conhecer a localidade de San Marcos Sierras.
+A música ¿Qué Pasó? - Bersuit Vergarabat acabou se tornando trilha sonora no [video](https://youtu.be/MPgr4FjIZF8) que produzi.
 
 #### Dia 17
 

@@ -24,7 +24,7 @@ Na entrada da cidade, um pedalante local me acompanhou e mostrou uma praça onde
 No mercado, um senhor me sugeriu avisar a polícia que ficaria por ali e assim o fiz.
 Me sentia muito seguro e tranquilo, e para melhorar não havia contraindicação da polícia.
 Chegando na praça, veio um garoto de bike com umas conversas um pouco confusas.
-Ele contava coisas que nitidamente eram inventadas como uma viagem que fez pelo japão.
+Ele contava coisas que nitidamente eram inventadas como uma viagem que fez pelo Japão.
 Precisava armar acampamento, cozinhar e descansar, então para ele sair da minha cola acabei o ignorando.
 Talvez ele apenas queria um pouco de atenção, mas como começou a falar sobre ir viajar comigo, tive que desplistá-lo.
 
@@ -33,7 +33,7 @@ Voltando para a praça onde estava armada minha barraca, apareceram uns adolesce
 Ali conheci o Lizandro, um jovem professor de música, e um amigo dele.
 Haviam sido avisados que eu estava ali pelos pais de um deles com quem havia me encontrado logo que cheguei.
 Conversei sobre a rota e sugeriram conhecer o município de San Marcos Sierras.
-Lizandro tocou umas musicas com seu violão e seu amigo fazia segunda voz. 
+Lizandro tocou umas músicas com seu violão e seu amigo fazia segunda voz. 
 Uma das coisas que buscava na viagem era ouvir a música local, mas não imaginava que seria no primeiro dia na Argentina, nem que ela viria até mim.
 Que coisa boa ouvir uma canção castelhana de alguém com idioma nativo.
 A música ¿Qué Pasó? - Bersuit Vergarabat acabou se tornando trilha sonora no [video](https://youtu.be/MPgr4FjIZF8) que produzi.
@@ -62,3 +62,7 @@ Este parque se encontra dentro do Parque Nacional San Martin, um terreno que foi
 Uma imagem muito confortante aos olhos de um cicloviajante:
 
 ![Parque Rural Enrique Berduc](./assets/images/parque-berduc.jpg)
+
+
+
+[Mais fotos na província Entre Rios](https://photos.app.goo.gl/hvm4Ddi8JfN1K9oa2)

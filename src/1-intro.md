@@ -24,8 +24,8 @@ São relatos de uma viagem de bicicleta saindo de Estrela/RS - Brasil até a Pat
     - [Uruguai](#uruguai)
     - [Argentina](#argentina---entre-rios)
         - [Entre Rios](#argentina---entre-rios)
-        - <span style="opacity: .3">Santa Fé e Laguna Miramar</span>
-        - <span style="opacity: .3">Sierras Chicas de Cordoba</span>
+        - [Santa Fé e Laguna Miramar](#argentina---santa-fé-e-laguna-miramar)
+        - [Sierras Chicas de Cordoba](#argentina---sierras-chicas-de-córdoba)
         - <span style="opacity: .3">Los Gigantes e Los Tuneles</span>
         - <span style="opacity: .3">San Luis</span>
         - <span style="opacity: .3">Provincia Mendoza</span>

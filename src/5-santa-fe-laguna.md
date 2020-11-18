@@ -44,27 +44,25 @@ Passando por uma rótula/rotatória, um motorista grita de longe "¿donde es?" e
 Um outro motorista faz sinal para eu parar e me oferece um pedaço de pizza!
 Já tinham parado no meio do pampa gaucho pra dar umas laranjas e bergamotas, mas uma pizza quentinha perto do horário do almoço foi muito inesperado.
 
-Por muita sorte no dia que eu mudo de direção, o vento também muda a meu favor.
+Por muita sorte no dia que eu mudo de direção, o vento também muda a meu favor. 
+Farei um desvio para evitar a capital de Córdoba.
 Em La Paquita um policial muito prestativo me levou até um local tipo um CTG onde pernoitei.
 Uma pessoa no local convida para um mate na manhã seguinte e também para o aniversário de um bebê de 1 ano porém decido que vou seguir.
 
 #### Dia 23
 
-Durante a manhã no caminhao até Miramar vejo algumas centenas de pássaros atravessando a rua voando.
-De repente no centro da argengina me deparo com um mar
-Chegando em Miramar, passo pelo hotel abandonado Viena, fico num camping próximo.
-Vejo Flamingos de longe.
+Durante a manhã no caminho até Miramar vejo algumas centenas de pássaros atravessando a rua voando.
+No centro do continente acabo então me deparando com um mar.
+É a Laguna Mar Chiquita, tão grande que não se vê o fim no horizonte.
+Vejo flamingos de longe.
+Passo pelo hotel abandonado Vienna e fico num camping próximo.
 
 ![Laguna mar Chiquita](./assets/images/20171104_151600.jpg)
 
 #### Dia 24
 
-La Para
-
-Vou até outro ponto próximo da laguna em um camping.
-Um grupo de homens argentinos me convidam para se juntar e oferecem assado.
-
-
+Pedalo uns 40km até outro ponto próximo da laguna em um camping.
+Como é domingo, acabo me juntando a um grupo de homens argentinos que estão fazendo um assado.
 
 
 
@@ -72,40 +70,5 @@ Um grupo de homens argentinos me convidam para se juntar e oferecem assado.
 
 
 
-### Argentina - Sierras Chicas de Cordoba
 
-Em breve...
-
-### Argentina - Los Gigantes e Los Tuneles
-
-Em breve...
-
-
-
-
-
-
-
-
-
-<!--
-
-Cansei de ficar se preocupando no que postar nas redes e decidi aproveitar o agora 
-
-Dica preciosa: Cagar de manha
-
-Foto de flor com andes no fundo
-
-Estar fazendo algo muito diferente fez acessar memórias do subconciente. A mente estava quase como num sonho, a gente é mais inteligente.
-Pag 66 terra dos homens referência
-
-Niveis de mulambiker - uruguai barraca (lona que coloca na cerca)
-
-Botar oleo na correia, anel por anel
-
-Trocar correia
-
-"Às vezes, na vida, não acontece nenhuma lição, acontece só um monte de doidera mesmo" Seu Edson
-
--->
 

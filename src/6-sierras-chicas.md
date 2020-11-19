@@ -18,9 +18,8 @@ Mas não um é local que me sinto confortável para passar um dia de descanso.
 
 Esperei a chuva passar, fiz sanduiches e saí perto do meio dia.
 
-Depois de quase um mês pedalando em pampas e planícies, vejo ao longe as *Sierras de Córdoba*, o que dá muita motivação para seguir em frente apesar de precisar repousar.
-Consultei a altimetria do trajeto.
-Aparentemente ainda estava em uma planície, mas era uma subida de 300m distribuida ao longo de 40km.
+Depois de quase um mês pedalando em pampas e planícies, vejo no horizonte as *Sierras de Córdoba*, o que dá muita motivação para seguir em frente apesar de precisar repousar.
+Consultei a altimetria do trajeto e vi uma subida de 300m distribuida ao longo de 40km, apesar de parecer que ainda estava em uma planície.
 Um aclive imperceptível aos olhos mas que dava a sensação de estar mais fraco ou do pneu estar murcho.
 Certamente me confundiria caso não tivesse o dado da altimetria.
 
@@ -31,32 +30,38 @@ Em Villa del Totoral montei a barraca ao lado do rio.
 
 Tinha ouvido falar que na Argentina as margens dos rios são públicas e é permitido acampar. 
 Até que enfim um local perfeito para ficar um dia a mais.
-Gramado com bastante espaço, algumas árvores, água cristalina vindo dos Andes, *parrillas*, pouquíssimo movimento.
+Gramado com bastante espaço, algumas árvores, água cristalina vindo dos Andes, *parrillas*, pouquíssimo movimento e bem perto da cidade.
 
-Além disso era muito perto da cidade, então fui fazer compras para almoço e janta.
+Aproveitei o dia fazendo com calma as refeições e apreciando o local.
 
 #### Dia 28
 
-A partir daqui tudo começa a mudar radicalmente. 
-A estrada de rípio toma o lugar do asfalto tornando a paisagem mais natural.
-Passo pelas Cuevas de Ongamira, grutas que são verdadeiras esculturas naturais.
-
+A partir daqui tudo começa a mudar.
+A estrada de rípio toma o lugar do asfalto tornando a paisagem menos antropizada.
 Não sei se era por estar muitos dias na planície, mas fiquei maravilhado ao ver as montanhas das Sierras Chicas.
+Começo a apreciar uma grande variação das paisagens, do clima, das núvens, da vegetação e dos cheiros.
+Aquilo era diferente de tudo que já tinha visto e sentido, até demais para um só dia.
+Depois ainda veio uma chuva, deixando o céu ainda mais colorido.
 
-Começo a apreciar uma grande variação das paisagens, do clima, das núvens, da vegetação, dos cheiros.
-Aquilo era diferente de tudo que já tinha visto e sentido.
-Veio uma leve chuva, deixando o céu ainda mais colorido.
+Passo pelas Cuevas de Ongamira, grutas que são verdadeiras esculturas naturais.
+Queria ficar em algum camping pelo caminho, mas estavam fechados, então segui até San Marcos Sierras, município que o Lizandro de Entre Rios me indicou.
 
-O camping que tinha no caminho estava fechado, então segui até San Marcos Sierras, cidade que o Lizandro de Entre Rios me indicou.
+Cidade muito tranquila sem estradas asfaltadas, com um clima mais artístico e hippie.
+As placas que nomeiam as ruas usam uma fonte cursiva.
+Ao chegar no camping eu já estava seco.
+Lá havia um violonista compondo uma música.
 
-Cidade tematica hippie.
-Ao chegar no camping já estava seco.
-
-Passando pelas Sierras Chicas percebo muita variação de paisagens, clima, cheiros e vegetação em um só dia.
-Pernoitei em San Marcos Sierras, uma cidade turística com temática hippie com muitos artistas e as placas que indicam as ruas usam fonte cursiva/artística. No dia seguinte parei em Capilla del Monte, dessa vez com temática alienígena (???). Da cidade se vê o cerro Uritorco
+![Sierras chicas](./assets/images/sierras-chicas.jpg)
 
 #### Dia 29
 
+Pedalei somente 20km até Capilla del Monte, mas tinha muito morro para atravessar e peguei bastante sol.
+O turismo lá é baseado em ovnis e alienígenas e existem lendas relacionadas ao cerro Uritorco que se vê da cidade.
+Fiquei no camping municipal onde aproveitei para combinar uma hospedagem solidária do *Warmshower* na cidade de Tanti.
+
+
+
+[Mais fotos do trecho nas Sierras Chicas de Córdoba](https://photos.app.goo.gl/ib1TcnAuwt5wkDQj1)
 
 
 
@@ -73,31 +78,3 @@ Pernoitei em San Marcos Sierras, uma cidade turística com temática hippie com 
 
 
 
-
-
-### Argentina - Los Gigantes e Los Tuneles
-
-
-
-<!--
-
-Percebo que o horizonte não é tão longe quanto imaginava, passo a chegar no horizonte mais de uma vez - na reta maior de todas
-
-Cansei de ficar se preocupando no que postar nas redes e decidi aproveitar o agora 
-
-Dica preciosa: Cagar de manha
-
-Foto de flor com andes no fundo
-
-Estar fazendo algo muito diferente fez acessar memórias do subconciente. A mente estava quase como num sonho, a gente é mais inteligente.
-Pag 66 terra dos homens referência
-
-Niveis de mulambiker - uruguai barraca (lona que coloca na cerca)
-
-Botar oleo na correia, anel por anel
-
-Trocar correia
-
-"Às vezes, na vida, não acontece nenhuma lição, acontece só um monte de doidera mesmo" Seu Edson
-
--->

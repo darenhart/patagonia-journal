@@ -37,8 +37,7 @@ Estamos começando a nos adaptar melhor ao ritmo da nossa pedalada em dupla.
 
 #### Dia 4 
 
-Em Agudo.
-Ficamos num balneário inativo com acesso a uma cachoeira.
+Em Agudo ficamos num balneário inativo com acesso a uma cachoeira.
 Não tinha ninguém.
 Vimos bugios. 
 

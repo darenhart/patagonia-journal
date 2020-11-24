@@ -8,9 +8,9 @@ Pousei num camping de Cosquín.
 #### Dia 31
 
 Cheguei cedo em Tanti e descansei numa sombra na beira do rio.
-Muitos rios que passei tem a borda com pouco volume de vegetação permitindo fazer caminhada ou acampar.
+Muitos rios que passei tem a borda com pouca vegetação permitindo fazer caminhada ou acampar.
 Fiquei no Franco que conheci no *Warmshowers*, ele me deu umas dicas sobre o caminho para visitar Los Gigantes.
-Sugeriu ir conhecer a Sierra Grande de Córdoba.
+Sugeriu ir conhecer a Sierra Grande de Cordoba.
 Ele fazia questão de dormir numa maca de fisioterapia e me ceder seu quarto e sua cama.
 
 #### Dia 32

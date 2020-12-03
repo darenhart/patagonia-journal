@@ -1,5 +1,5 @@
-<!--
 
+<!--
 Percebo que o horizonte não é tão longe quanto imaginava, passo a chegar no horizonte mais de uma vez - na reta maior de todas
 
 Cansei de ficar se preocupando no que postar nas redes e decidi aproveitar o agora 
@@ -20,5 +20,4 @@ Trocar correia
 "Às vezes, na vida, não acontece nenhuma lição, acontece só um monte de doidera mesmo" Seu Edson
 
 Pude fazer estes relatos graças a caderneta que a Paula me deu. -> mostra foto
-
 -->

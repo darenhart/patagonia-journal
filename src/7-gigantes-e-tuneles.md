@@ -34,28 +34,23 @@ Tinha mais subida pela frente, mas o que dificultou foi a estrada de rípio com 
 Cheguei em Los Tuneles que se trata de uma série de túneis que foram feitos para descer a serra.
 Lá de cima apenas se via uma planície sem fim com um horizonte tênue, que parecia mais um mar.
 
-Aqui eu tinha duas opções. Descer pelos túneis e seguir nessa imensa planície em uma estrada de chão  que me levaria mais perto dos Andes. Ou desviar ao sul para passar pela Sierra Grande de Córdoba. Acabei optando pela segunda opção, conforme sugeriu o Franco, mas antes fui visitar pelo menos os dois primeiros túneis.
+Aqui eu tinha duas opções.
+Descer pelos túneis e seguir nessa imensa planície em uma estrada de chão que me levaria mais perto dos Andes.
+Ou desviar ao sul para passar pela Sierra Grande de Córdoba.
+Acabei optando pela segunda opção, conforme sugeriu o Franco, mas antes fui visitar pelo menos os dois primeiros túneis.
 
-Ao meio dia parei num restaurante na beira da estrada, fui consultar o preço e saí
-também pedalava, fazia bivac
+Ao meio dia parei num restaurante na beira da estrada porém os preços não estávam razoáveis.
+Ao sair, umas pessoas de uma mesa me chamam para sentar junto.
+Um casal, uma filhinha e uma vovó.
+O Max contou sua experiência acampando somente com saco de dormir ao ar livre em Mendoza.
 
-me sentei com um casal uma filha e uma avó. Falamos em inglês.
+Parei em Pocho, conversei com a polícia, mas não sabia onde podia ficar.
+Sugeriu falar com a cuidadora da igreja.
+Passei na *despensa* (mercadinho) e a dona acabou ligando para a cuidadora e ela deixou acampar ao lado.
 
-Parei em Pocho, conversei com a polícia, mas não sabia onde podia ficar. Sugeriu falar com a cuidadora da igreja.
-Fui na *dispensia* e a dona acabou ligando para a cuidadora e ela deixou acampar ao lado.
-
-
-
-#### Dia 34
-
-Cura Brochero
-
-Mais rípo. Encontrei o policial de pocho no caminho. Na cidade tem um rio muito bonito com pedras. Muitos campings, fiz uma pesquisa de preço acabei ficando no municipal, que não tinha ninguém então era free.
+![Sierras chicas](./assets/images/gigantes-tuneles.jpg)
 
 
 
-#### Dia 35
+[Mais fotos do trecho Los Gigantes e Los Tuneles](https://photos.app.goo.gl/ulJhCRtg7yLOMdqE2)
 
-La Paz
-
-Passei por muitas cidades. Parei no camping municipal que não tinha ninguém.

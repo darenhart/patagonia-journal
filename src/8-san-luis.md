@@ -89,7 +89,7 @@ Antes de escurecer, escolhi para pernoitar, o espaço que tivesse menos arbustos
 Decidi dormir somente com o saco de dormir e o colchonete, sem montar a barraca, ou bivaque como é chamado esse tipo de acampamento.
 Não foi muito confortável porque tinha um pouco de vento e o chão era de areia.
 Mas valeu muito a pena pois vi um meteoro entrando na atmosfera.
-O rastro dele se estendeu por quase todo céu, e ao final se dividiu em pequenos pedaços que se desintegraram.
+O rastro dele se estendeu por quase todo céu, e ao final se dividiu em partes menores que se desintegraram.
 Sem dúvida o maior que já vi.
 
 [Mais fotos do trecho em San Luis](https://photos.app.goo.gl/vyKhBGIpazr7HDX43)

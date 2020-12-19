@@ -1,4 +1,4 @@
-### Argentina - Mendoza
+### Argentina - Provincia Mendoza
 
 #### Dia 42
 
@@ -28,7 +28,7 @@ Um local bem tranquilo, sem visibilidade da rua, foi uma boa escolha.
 
 #### Dia 43
 
-Havia uma leve subida, mas me exigiu bastante esforço, pois ainda estava cansado do dia anterior.
+Havia uma leve subida que me exigiu bastante esforço, pois ainda estava cansado do dia anterior.
 
 Fiquei em dúvida entre almoçar quando chegasse em San Rafael ou no meio do caminho.
 Esse dilema foi muito comum em outros dias da viagem.
@@ -52,7 +52,7 @@ Eu estava perto deles e mal sabia que eles existiam.
 
 #### Dia 45 
 
-Passei por enormes campos de oliveiras e por um salar.
+Passei por grandes campos de oliveiras e por um salar.
 No horizonte vejo algo que suspeito ser a Cordilheira dos Andes.
 Levei mais água do que o necessário pois não esperava encontrar um parador.
 Antes de escurecer, meu corpo pedia para parar, mas o vento a favor estava bom demais para desperdiçar.

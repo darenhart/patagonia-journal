@@ -62,7 +62,7 @@ Fiz acampamento selvagem perto da estrada onde não me veriam da rua.
 
 De fato estou vendo os Andes.
 Primeira vez que vejo neve também. 
-Inicialmente vejo somente manchas brancas dos picos nevados "voando", pois o forte reflexo do sol na neve ultrapassa o ar, enquanto que o resto da montanha não, ficando da mesma cor do céu.
+Inicialmente vejo somente manchas brancas dos picos nevados "voando", pois o forte reflexo do sol na neve ultrapassa o ar da atmosfera, enquanto que o resto da montanha não, ficando da mesma cor do céu.
 
 Depois de umas leves subidas cansativas, cheguei em El Sosneado famosa *Ruta 40*.
 Na cidade o cara do parador me ofereceu um abrigo para a noite.

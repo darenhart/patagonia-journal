@@ -24,7 +24,7 @@ São relatos de uma viagem de bicicleta saindo de Estrela/RS - Brasil até a Pat
         - [Sierras Chicas de Cordoba](#argentina---sierras-chicas-de-córdoba)
         - [Los Gigantes e Los Tuneles](#argentina---los-gigantes-e-los-tuneles)
         - [San Luis](#argentina---san-luis)
-        - <span style="opacity: .3">Provincia Mendoza</span>
+        - [Provincia Mendoza](#argentina---provincia-mendoza)
         - <span style="opacity: .3">Neuquén, norte da Patagônia</span>
     - <span style="opacity: .3">Chile</span>
     - <span style="opacity: .3">em breve...</span>

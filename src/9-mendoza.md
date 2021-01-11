@@ -46,7 +46,7 @@ Aproveitei para sacar dinheiro e fazer uma manutenção básica na bicicleta.
 A cidade está cheia de pequenos canais que transportam água dos Andes.
 Vi até um passando por cima do outro, algo que poderia chamar de um "viaduto hidráulico".
 
-Visinhos de camping me convidaram para ir de carro até um dique (represa), que ficava há uns 40km da cidade.
+Vizinhos de camping me convidaram para ir de carro até um dique (represa), que ficava há uns 40km da cidade.
 No caminho tinham vistas incríveis para uns cânions enormes.
 Eu estava perto deles e mal sabia que eles existiam.
 
@@ -62,21 +62,21 @@ Fiz acampamento selvagem perto da estrada onde não me veriam da rua.
 
 De fato estou vendo os Andes.
 Primeira vez que vejo neve também. 
-Inicialmente vejo somente manchas brancas dos picos nevados "voando", pois o forte reflexo do sol na neve ultrapassa o ar da atmosfera, enquanto que o resto da montanha não, ficando da mesma cor do céu.
+Inicialmente apenas surgem manchas brancas dos picos nevados "voando", pois o forte reflexo do sol na neve ultrapassa o ar da atmosfera, enquanto que o resto da montanha não, ficando da mesma cor do céu.
 
-Depois de umas leves subidas cansativas, cheguei em El Sosneado famosa *Ruta 40*.
-Na cidade o cara do parador me ofereceu um abrigo para a noite.
-Tive a tarde sobrando finalmente.
+Depois de umas leves subidas cansativas, cheguei em El Sosneado e na famosa *Ruta 40*.
+Na cidade, o moço do parador me ofereceu um abrigo para a noite.
+Tive uma tarde sobrando finalmente.
 
 #### Dia 47
 
-Malargue
+Chego no camping municipal bom e barato de Malargue.
+Foi ali que me animei ao encontrar os primeiros cicloturistas, desde o início da viagem.
+Acho que estava precisando me sentir um pouco mais comum.
 
-Chego no camping municipal bom e barato.
-Encontro uns 4 cicloturistas, primeiros da viagem.
-Um casal de Buenos Aires me dá umas dicas, eles vão p/ norte.
-Conheço um mexicano, o Rafael que também vai p sul.
-pensava em ficar mais um dia no camping mas queria acompanhar o Rafael então saimos no dia seguinte.
+Um casal de Buenos Aires me dá umas dicas do percurso, pois eles vinham do sul.
+Conheço o Rafael, um mexicano que também está indo para o sul.
+Pensava em ficar mais um dia no camping, mas queria acompanhar o Rafael, então saímos no dia seguinte.
 
 
 

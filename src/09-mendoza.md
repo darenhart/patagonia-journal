@@ -71,12 +71,38 @@ Tive uma tarde sobrando finalmente.
 #### Dia 47
 
 Chego no camping municipal bom e barato de Malargue.
-Foi ali que me animei ao encontrar os primeiros cicloturistas, desde o início da viagem.
-Acho que estava precisando me sentir um pouco mais comum.
+Foi ali que encontrei os primeiros cicloturistas, desde o início da viagem.
+É um alívio ver seres da mesma espécie e se sentir um pouco menos excêntrico.
 
 Um casal de Buenos Aires me dá umas dicas do percurso, pois eles vinham do sul.
 Conheço o Rafael, um mexicano que também está indo para o sul.
 Pensava em ficar mais um dia no camping, mas queria acompanhar o Rafael, então saímos no dia seguinte.
 
+#### Dia 48
 
+Bardas Blancas
+
+Vejo muitos formatos de montanhas.
+
+camping
+
+#### Dia 49
+
+Selvagem
+
+Pegamos um trecho de ripio da ruta 40
+
+#### Dia 50
+
+Acamp selvagem perto do rio com vistas incríveis
+
+#### Dia 51
+
+Barrancas
+
+Subida de rípio cansativo. camping
+
+
+
+[Mais fotos do trecho na Provincia Mendoza](https://photos.app.goo.gl/yRDItg28sKcZe5kB3)
 

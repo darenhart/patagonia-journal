@@ -57,14 +57,12 @@ No centro do continente acabo então me deparando com um mar.
 Vejo flamingos de longe.
 Passo pelo hotel abandonado Vienna e fico num camping próximo.
 
-![Laguna mar Chiquita](./assets/images/20171104_151600.jpg)
-
 #### Dia 24
 
 Pedalo uns 40km até outro ponto próximo da laguna em um camping.
 Como é domingo, acabo me juntando a um grupo de homens argentinos que estão fazendo um assado.
 
-
+![Laguna mar Chiquita](./assets/images/20171104_151600.jpg)
 
 [Mais fotos do trecho Santa Fé e Laguna Miramar](https://photos.app.goo.gl/e0Ee62FGLjaVAHd53)
 

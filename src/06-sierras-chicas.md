@@ -51,8 +51,6 @@ As placas que nomeiam as ruas usam uma fonte cursiva.
 Ao chegar no camping eu já estava seco.
 Lá havia um violonista compondo uma música.
 
-![Sierras chicas](./assets/images/sierras-chicas.jpg)
-
 #### Dia 29
 
 Pedalei somente 20km até Capilla del Monte, mas tinha muito morro para atravessar e peguei bastante sol.
@@ -60,6 +58,8 @@ O turismo lá é baseado em ovnis e alienígenas e existem lendas relacionadas a
 Fiquei no camping municipal onde aproveitei para combinar uma hospedagem solidária do *Warmshower* na cidade de Tanti.
 
 
+
+![Sierras chicas](./assets/images/sierras-chicas.jpg)
 
 [Mais fotos do trecho nas Sierras Chicas de Córdoba](https://photos.app.goo.gl/ib1TcnAuwt5wkDQj1)
 

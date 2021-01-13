@@ -1,5 +1,39 @@
 ### Argentina - Neuquén
 
+#### Dia 51
+
+Barrancas
+
+Subida de rípio cansativo. 
+
+Cabras bebes.
+
+desmoronamento
+
+tempestade de graniso
+
+This is Patagônia!!
+
+camping
+
+
+
+
+
+<!-- 
+
+Rafael -- já não se impressionava muito, maturidade
+
+ingles melhor q espanhol
+
+comparar equipamento. toco, freio de mão, fogareiro multicombustivel
+
+falar do ritmo de pedalada
+
+-->
+
+
+
 #### Dia 52
 
 Selvagem

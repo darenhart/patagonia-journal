@@ -53,7 +53,11 @@ Citações:
 
 > “Quando a gente tá contente, Tanto faz o quente, Tanto faz o frio” Gal Costa
 
+<!--
+
 > “Escrachar os outros é fácil, escrachar a si mesmo é difícil, mas escrachar a si antes que os outros o façam é uma arte”  [odois](http://odois.org/100104#outr-1). A Arte do Autoescracho 
+
+-->
 
 ### Quando e onde?
 
@@ -62,7 +66,7 @@ Foi quando percebi que poderia botar em prática.
 Escolhi o destino Patagônia e a medida que a ideia foi amadurecendo, fui conversando com as pessoas sobre o assunto.
 Sabia que esfriava bastante no sul, portanto o objetivo era sair antes do início do verão seguinte. 
 A saída se deu por volta de um ano e meio depois da concepção da ideia.
-Não estava preso a uma [rota](https://darenhart.github.io/patagonia-trip), mas a que fazia mais sentido era seguir a sul próximo a cordilheira dos Andes e depois talvez voltar de carona.
+Não estava preso a uma [rota](https://darenhart.github.io/patagonia-trip), mas a que fazia mais sentido era seguir a sul, próximo a cordilheira dos Andes e depois talvez voltar de carona.
 Ainda não sabia quanto tempo levaria, mas seria menos de um ano.
 A viagem ocorreu em quatro meses, de outubro de 2017 à Fevereiro de 2018. 
 

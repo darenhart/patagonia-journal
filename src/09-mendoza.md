@@ -91,7 +91,7 @@ Passamos a noite em um camping na localidade de Bardas Blancas.
 Seguimos em um trecho de rípio um pouco mais difícil na ruta 40, porém com um cenário formidável e selvagem.
 A estrada acompanha o curso do Rio Grande, com a cordilheira de um lado e o deserto do outro.
 
-Estes ermos eram novidade para mim, mas o Rafael parecia estar mais acostumado, pois estava pedalando há vários meses desde o México.
+Estes ermos eram novidade para mim, mas o Rafael parecia estar mais acostumado, pois vinha de uma longa jornada desde o México.
 Diante da vasta possibilidade de locais para montar acampamento, deixei que ele escolhesse.
 
 ![Mendoza montanhas e o Rafael](./assets/images/mendoza-rafael.jpg)

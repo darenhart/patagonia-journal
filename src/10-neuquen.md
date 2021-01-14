@@ -5,27 +5,32 @@
 Levantamos acampamento com paisagens incríveis em todas direções.
 Adentrando um pouco em direção à cordilheira, passamos por uma cansativa subida em estrada de rípio.
 
-Em um certo momento paro para observar um grande rebanho, no topo de um morro, de algum animal que não consigo identificar.
+Em um certo momento, paro para observar um grande rebanho, no topo de um morro, de algum animal que não consigo identificar.
 O Rafael parou também, e percebemos que os animais desciam o morro correndo em nossa direção.
 Eram centenas de cabras bebês, de várias cores, berrando "bééé".
-Elas ficavam pulando e correndo até que ficaram todas na estrada olhando para a gente, provavelmente esperando que fossemos alimentá-las.
+Elas pulavam e corriam até que pararam todas na estrada olhando para a gente, provavelmente esperando que fossemos alimentá-las.
 
 A altitude elevada nos proporcionou um horizonte distante, apesar de não estar nem perto dos pontos mais altos da cordilheira.
-Começamos a descer em curvas um asfalto intacto, olhando rapidamente para todos os lados para aproveitar cada segundo.
+Começamos a descer em curvas num asfalto intacto, olhando rapidamente para todos os lados para aproveitar cada segundo.
 Majestosas nuvens pretas e alguns raios de sol tornaram o visual único.
 Foi mais impressionante do que qualquer foto ou filme que já tenha visto.
 
-Estava colocando mais roupas pela primeira vez.
+Pela primeira vez precisei usar mais roupas.
+Já estava na hora pois fazia dias que pedalava para o sul.
 
-desmoronamento
+Caía um leve chuvisco. não mas o clima parecia um pouco incomum.
+
+Presenciamos o desmoronamento de um pedaço da estrada,  , apesar de apenas estar chuviscando durante o dia.
 
 
+
+This is Patagônia!!
 
 tempestade de graniso
 
 camping Barrancas
 
-This is Patagônia!!
+
 
 
 

@@ -1,42 +1,36 @@
-### Argentina - Neuquén
+### Argentina - Neuquén, início da Patagônia
 
 #### Dia 51
 
 Levantamos acampamento com paisagens incríveis em todas direções.
 Adentrando um pouco em direção à cordilheira, passamos por uma cansativa subida em estrada de rípio.
 
-Em um certo momento, paro para observar um grande rebanho, no topo de um morro, de algum animal que não consigo identificar.
-O Rafael parou também, e percebemos que os animais desciam o morro correndo em nossa direção.
+Observei um grande rebanho, no topo de um morro, de algum animal que não consegui identificar.
+O Rafael parou também, e percebemos que os animais desciam correndo em nossa direção.
 Eram centenas de cabras bebês, de várias cores, berrando "bééé".
 Elas pulavam e corriam até que pararam todas na estrada olhando para a gente, provavelmente esperando que fossemos alimentá-las.
 
 A altitude elevada nos proporcionou um horizonte distante, apesar de não estar nem perto dos pontos mais altos da cordilheira.
 Começamos a descer em curvas num asfalto intacto, olhando rapidamente para todos os lados para aproveitar cada segundo.
-Majestosas nuvens pretas e alguns raios de sol tornaram o visual único.
+Majestosas nuvens escuras e alguns raios de sol tornaram o visual único.
 Foi mais impressionante do que qualquer foto ou filme que já tenha visto.
 
-Pela primeira vez precisei usar mais roupas.
+Vimos a placa indicando o início da região Patagônia!
+Já passei por tanta coisa, e ainda tenho a Patagônia pela frente.
+
+Pela primeira vez precisei usar mais roupas. 
 Já estava na hora pois fazia dias que pedalava para o sul.
-
-Caía um leve chuvisco. não mas o clima parecia um pouco incomum.
-
-Presenciamos o desmoronamento de um pedaço da estrada,  , apesar de apenas estar chuviscando durante o dia.
-
-
-
-This is Patagônia!!
-
-tempestade de graniso
-
-camping Barrancas
-
-
+Presenciamos o desmoronamento de um pedaço da estrada.
+O clima realmente parecia incomum.
+Chegando na vila de Barrancas, vimos montes de granizo por todo lado.
+Pessoas varriam o granizo para liberar passagem.
+Moradores disseram que faziam anos que não caía uma chuva tão forte, porém nós só pegamos um leve chuvisco durante o dia.
 
 
 
 <!-- 
 
-Rafael -- já não se impressionava muito, maturidade
+Rafael -- já não se impressionava muito, maturidade, as vezes até já cansado
 
 ingles melhor q espanhol
 
@@ -44,42 +38,54 @@ comparar equipamento. toco, freio de mão, fogareiro multicombustivel
 
 falar do ritmo de pedalada
 
+dica - cagar de manhã
+
 -->
 
 
 
 #### Dia 52
 
-Selvagem
-Passamos por Buta Ranquil
-
-Tavamos na dúvida entre seguir ou ficar. Não achamos camping, seguimos até um ponto do ioverlander
+Em Buta Ranquil estávamos em dúvida entre ficar ou seguir.
+Não achamos camping.
+O Rafael me apresentou o iOverlander, um aplicativo colaborativo no qual as pessoas informam locais onde acamparam.
+Seguimos até um ponto interessante para acampamento selvagem.
+Vimos uma chuva muito forte caindo distante, e novamente nos safamos.
 
 #### Dia 53
 
-Chos Malal. Vistas bonitas. Camping municipal.
-
-fomos na praça para pegar wifi
+Paramos em uma paisagem tão interessante que até o Rafael tirou foto.
+Foi a primeira vez que o vi pegar sua câmera.
+Eram montanhas cujas camadas geológicas estavam bem visíveis.
+Montamos acampamento no camping municipal de Chos Malal, depois passamos na praça para pegar wi-fi.
 
 #### Dia 54
 
-Chorriaca
-
-Na policia pedimos onde ficar, disseram pra ficar no jardim da policia. Cidade pequena.
+Fomos até Chorriaca, uma pequena vila.
+Na polícia, perguntamos onde poderíamos ficar e ofereceram o próprio jardim da sede da polícia.
 
 #### Dia 55
 
-Las Lajas
-
-Pegamos um ventão contra no final. No inicio uma decida muito longa
+Começamos o dia com uma longa decida de 40km.
+Para compensar pegamos um vento contra forte, antes de chegar em Las Lajas.
 
 #### Dia 56
 
-Descanso. Fui arrumar o punho da bike e o cabo de marcha e o rolamento do cambio.
+Os próximos dias teriam bastante subida e poucos pontos de apoio, então decidimos descansar mais um dia no camping.
+Fui trocar o punho do guidão, o cabo de marcha e a roldana do cambio que estava rachada.
 
 #### Dia 57
 
-Selvagem. Vento contra e subida. Muito dificil mas os visuais novos ajudaram. Neve na montanha mais de perto. Muitas araucarias. local de acampe muito bonito.
+Realmente a subida era interminável, e para dificultar tinha vento contra.
+Agora podia ver a neve na montanha bem de perto.
+
+Achamos um local incrível para acampar.
+Tinha um aconchegante gramado colorido com tons amarelos das flores.
+No meio deste grande carpete verde e amarelo passava um córrego de água cristalina.
+Em volta tinham imponentes araucárias, de uma espécie local com galhos mais longos e espinhos maiores comparadas com as do Brasil.
+
+Durante o dia surgiram nuvens de vários formatos.
+Como se as paisagens não bastassem, o céu nos presenteia com lindas surpresas.
 
 #### Dia 58
 

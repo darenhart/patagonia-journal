@@ -6,8 +6,8 @@
 
 Levantei antes de amanhecer.
 Na saída da cidade, dois cachorros me acompanharam.
-Nesse dia vi mais cicloviajantes do que em todo resto de viagem.
-Encontrei um com um casal de israelenses e paramos para lanchar e conversar.
+Nesse dia vi cicloviajantes do que todos os dias somados desde o início da viagem.
+Encontrei um casal de israelenses e paramos para lanchar e conversar.
 
 Já tinha me informado de que em alguns lagos há *campings libres*, que são locais onde se pode acampar, porém normalmente não há estrutura.
 Cheguei no Lago Villariano a tempo de fazer um almoço.
@@ -17,7 +17,7 @@ Passei a tarde tocando ukelele, observando pássaros, passeando na floresta, fil
 
 Completei dois meses de viagem.
 
-Próximo destino também era o Lago Espejo, também com *camping libre*.
+Próximo destino era o Lago Espejo, também com *camping libre*.
 Descansei quando cheguei pois havia muitas subidas e descidas.
 Cozinhei uma massa de almoço e para comer durante a tarde.
 
@@ -26,6 +26,8 @@ Saímos para pescar em um outro lago, eu fiz umas tentativas, mas não pegamos n
 Me contaram sobre uma erupção que deixou tudo cheio de cinzas.
 Realmente, cavando um pouco com a mão podia se ver uma espessa camada de cinzas.
 Quando voltamos, minha barraca estava cheia de cinzas por fora e por dentro, por causa do vento.
+
+![acampando na lagoa](./assets/images/lagoa.jpg)
 
 #### Dia 64
 
@@ -64,6 +66,8 @@ Ao lado do lago, com muito espaço e uma vista para Bariloche e as montanhas nev
 Lavei tudo e estendi ao sol até secar.
 Nunca teria dado tanto valor a um simples dia de sol se não fosse antecedido de um dia frio e chuvoso.
 
+![vista para montanhas e bariloche](./assets/images/vista-bariloche.jpg)
+
 #### Dia 67
 
 Para minha alegria, aqui anoitece mais tarde e amanhece mais cedo.
@@ -77,32 +81,46 @@ Acampei em uma praia quase deserta.
 
 #### Dia 68
 
-Fui em direção ao Catedral.
+Saí em direção ao Catedral e subi o cerro de teleférico.
+Só levei carteira, documentos, comida e água.
+A bicicleta, prendi em uma grade.
 
-Paguei os 425 para usar o teleférico
+A vista lá de cima é fantástica.
+As montanhas nevadas e o verde no vale.
+A trilha passa por um lado da montanha que é cheio de pedras empilhadas.
+Alguns pontos vermelhos pintados nas pedras indicam o caminho.
+Depois, a trilha continua na neve, e foi onde pude tocar nela pela primeira vez.
+Era muito divertido descer os morros escorregando de bunda.
+A neve estava derretendo e criando formas muito interessantes.
 
-A vista lá de cima era encantadora, se via uma grande parte da cordilheira.
-Segui a trilha que passava por muitas pedras.
-Vi e toquei na neve no chão pela primeira vez.
-Fiz lanche de sanduiche de sardinha.
-Cheguei no refugio.
-Ao voltar lembrei que tinha que chegar antes das 17h no teleférico.
-Agilisei o passo, chegando mais perto vi que estava muito atrasado.
-Corri muito nas pedras.
-Cheguei uns 15 min depois das 17h. O teleferico já tava parado.
-Mas vi um carro saíndo.
+Lanchei sanduíche de sardinha.
+Cheguei refugio onde as pessoas passam a noite, porém eu me programei para voltar.
+Lembrei que o teleférico desligaria às 17h, então apressei o passo.
+Logo percebi que estava muito atrasado.
+Passei o resto do caminho todo correndo, inclusive nas pedras.
+Me senti naquelas cenas de filmes de ação, onde o personagem passa por uma paisagem incrível mas não dá a mínima.
 
-Abanei e ele parou! ufa!
-De carro demorou bastante para descer, imagina a pé.
-Deixei a bici cadeada numa grade com os alforges e tudo.
-As pernas estavam muito fracas
-Ainda andei uns 19km até um local do iover. numa lagoa.
+Tinham passados 15min das 17h e já conseguia ver o teleférico parado.
+A estrada para descer era muito longa e eu não tinha quase nada de água e comida.
+Provavelmente chegaria de noite mesmo com o sol se pondo mais tarde.
+Mas vi bem de longe, um carro saindo dos teleféricos, então corri abandando com as mãos na esperança que me vissem.
+Por minha sorte alguém do carro deve ter olhado para trás e pararam.
+Foi por muito pouco.
+De carro demorou bastante para descer, fiquei imaginando como seria à pé.
+
+Minha bicicleta estava lá com meus alforges e tudo.
+Minhas pernas estavam muito exaustas.
+Ainda andei uns 19km e acampei em um local bem bonito ao lado da lagoa.
 
 #### Dia 69
 
-Rio Villegas
+Cheguei cedo em Rio Villegas e comprei comida.
+Fui no camping de melhor preço, mas a água do chuveiro não era muito quente.
 
-Dia com sol e chuva.
-Cheguei cedo na cidade, comprei comida e fui num camping barato, mas a água não era muito quente.
-Tentei fazer fogo mas não deu.
+Peguei o costume de deixar uma garrafa pet aquecendo próxima da fogueira, para depois trazer dentro do saco de dormir.
+Mas dessa vez não consegui acender o fogo, pois tinha chovido um pouco.
+
+![Lago e Cerro Catedral](./assets/images/lago-catedral.jpg)
+
+[Mais fotos do trecho ruta dos 7 lagos e Bariloche](https://photos.app.goo.gl/XNWxm945LxK59tDk2)
 

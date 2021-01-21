@@ -18,17 +18,20 @@ São relatos de uma viagem de bicicleta saindo de Estrela/RS - Brasil até a Pat
 - [A viagem](#a-viagem)
     - [Rio Grande do Sul](#rio-grande-do-sul)
     - [Uruguai](#uruguai)
-    - [Argentina](#argentina---entre-rios)
-        - [Entre Rios](#argentina---entre-rios)
-        - [Santa Fé e Laguna Miramar](#argentina---santa-fé-e-laguna-miramar)
-        - [Sierras Chicas de Cordoba](#argentina---sierras-chicas-de-córdoba)
-        - [Los Gigantes e Los Tuneles](#argentina---los-gigantes-e-los-tuneles)
-        - [San Luis](#argentina---san-luis)
-        - [Provincia Mendoza](#argentina---provincia-mendoza)
-        - [Neuquén, início da Patagônia](#argentina---neuquén-início-da-patagônia)
-        - [7 lagos e Bariloche](#argentina---7-lagos-e-bariloche)
-    - <span style="opacity: .3">Chile</span>
-    - <span style="opacity: .3">em breve...</span>
+    - [Argentina - Entre Rios](#argentina---entre-rios)
+    - [Santa Fé e Laguna Miramar](#argentina---santa-fé-e-laguna-miramar)
+    - [Sierras Chicas de Cordoba](#argentina---sierras-chicas-de-córdoba)
+    - [Los Gigantes e Los Tuneles](#argentina---los-gigantes-e-los-tuneles)
+    - [San Luis](#argentina---san-luis)
+    - [Provincia Mendoza](#argentina---provincia-mendoza)
+    - [Neuquén, início da Patagônia](#argentina---neuquén-início-da-patagônia)
+    - [7 lagos e Bariloche](#argentina---7-lagos-e-bariloche)
+    - <span style="opacity: .3">Parque dos Alerces e Carretera Austral no Chile</span>
+    - <span style="opacity: .3">Puerto Ibanez e Chile Chico</span>
+    - <span style="opacity: .3">Argentina - El Chalten e El Calafate</span>
+    - <span style="opacity: .3">Calafate à Rio Gallegos</span>
+    - <span style="opacity: .3">Costa da Argentina</span>
+    - <span style="opacity: .3">Uruguai - Últimos dias</span>
 
 
 

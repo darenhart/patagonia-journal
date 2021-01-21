@@ -25,6 +25,8 @@ Chegando na vila de Barrancas, vimos montes de granizo por todo lado.
 Pessoas varriam o granizo para liberar passagem.
 Moradores disseram que faziam anos que não caía uma chuva tão forte, mas nós só pegamos um leve chuvisco durante o dia.
 
+![Rafael na paisagem em neuquen](./assets/images/neuquen1.jpg)
+
 #### Dia 52
 
 Em Buta Ranquil, estávamos em dúvida entre ficar ou seguir.
@@ -39,8 +41,6 @@ Foi a primeira vez que o vi pegar sua câmera.
 Eram montanhas cujas camadas geológicas estavam bem visíveis.
 Montamos acampamento no camping municipal de Chos Malal, depois passamos na praça para usar wi-fi.
 
-![mendoza reta infinita](./assets/images/neuquen1.jpg)
-
 #### Dia 54
 
 Fomos até Chorriaca, uma pequena vila.
@@ -51,6 +51,9 @@ Depois de um tempo comecei a compreender o ritmo dele.
 Pedalar um pouco mais devagar, aproveitar as descidas para descansar e só fazer paradas se necessário.
 Passei a adotar esse ritmo também.
 Outra dica muito valiosa foi de cagar sempre de manhã, para não precisar durante o dia.
+Uma vantagem de pedalar acompanhado é poder aparecer nas fotos.
+
+![Eu em neuquén](./assets/images/neuquen2.jpg)
 
 #### Dia 55
 
@@ -74,6 +77,8 @@ Em volta tinham imponentes araucárias, de uma espécie local, com galhos mais l
 
 Durante o dia surgiram nuvens de vários formatos.
 Como se as paisagens não bastassem, o céu nos presenteia com lindas surpresas.
+
+![nuvem](./assets/images/nuvens.jpg)
 
 #### Dia 58
 
@@ -117,6 +122,6 @@ O Camping também era mais caro, mas acabei ficando pois tinha que me preparar p
 Comprei uma lanterna de cabeça comum, um gorro e uma chave allen 3mm que poderia precisar para ajustar o manete de freio.
 Peguei mantimentos no mercado e numa feira.
 
-
+![cabras, eu na paisagem, acampamento](./assets/images/neuquen-geral.jpg)
 
 [Mais fotos do trecho em Neuquén](https://photos.app.goo.gl/s9jRi59zQtJuw4Pk2)

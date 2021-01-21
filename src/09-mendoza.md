@@ -50,6 +50,8 @@ Vizinhos de camping me convidaram para ir de carro até um dique (represa), que 
 No caminho tinham vistas incríveis para uns cânions enormes.
 Eu estava perto deles e mal sabia que eles existiam.
 
+![canions de mendoza](./assets/images/canyons-mendoza.jpg)
+
 #### Dia 46
 
 Passei por grandes campos de oliveiras e por um salar.

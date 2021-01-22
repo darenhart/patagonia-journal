@@ -2,7 +2,7 @@
 
 ### Argentina - Santa Fé e Laguna Miramar
 
-#### Dia 19
+#### Dia 19 - 31/10/2017
 
 Fui até o município de Paraná na entrada do túnel onde um supervisor me levou numa caminhonete até o outro lado.
 Acabei perdendo pela segunda vez os óculos EPI de sol, então dei umas voltas pela cidade até arranjar um novo.

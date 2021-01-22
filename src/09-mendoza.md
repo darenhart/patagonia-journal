@@ -1,6 +1,6 @@
 ### Argentina - Provincia Mendoza
 
-#### Dia 43
+#### Dia 43 - 24/11/2017
 
 O acampamento bivaque me adiantou bastante.
 Comecei o dia pedalando com uma bela vista do sol nascendo e uma reta infinita pela frente.
@@ -14,7 +14,7 @@ Percebi que o horizonte, em uma estrada plana, não é tão longe quanto parece 
 Apesar de ter comida e água para mais um dia, um leve vento a favor me ajudou a vencer os 140km até a cidade.
 Maior distância que percorri em um dia até o momento.
 
-Cheguei perto de escurecer, mas com tempo suficiente para encontrar um local para pernoite.
+Cheguei no povoado de Monte Comán, perto de escurecer, mas com tempo suficiente para encontrar um local para pernoite.
 O policial da cidade não sabia onde eu poderia ficar.
 Sem muita disposição apontou com o dedo um local, mas não me parecia muito interessante.
 No *kiosko* (mercadinho), todos estavam curiosos e vinham conversar.

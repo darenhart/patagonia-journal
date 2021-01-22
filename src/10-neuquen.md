@@ -1,9 +1,9 @@
 ### Argentina - Neuquén, início da Patagônia
 
-#### Dia 51
+#### Dia 51 - 02/12/2017
 
 Levantamos acampamento com paisagens incríveis em todos lados.
-Passamos por uma cansativa subida em estrada de rípio que adentrava um pouco em direção à cordilheira.
+Passamos por uma cansativa subida em estrada de rípio, que adentrava um pouco em direção à cordilheira.
 
 Observei um grande rebanho, no topo de um morro, de algum animal que não consegui identificar.
 O Rafael parou também, e percebemos que os animais desciam correndo em nossa direção.
@@ -19,7 +19,7 @@ Vimos um totem indicando o início da região da Patagônia!
 É motivador pensar que já passei por tanta coisa, e ainda tenho a Patagônia pela frente.
 
 Começou a esfriar um pouco, então pela primeira vez, precisei usar mais roupas. 
-Já estava na hora pois fazia dias que pedalava para o sul.
+Já estava na hora, pois fazia dias que pedalava para o sul.
 Presenciamos o desmoronamento de um pedaço da estrada, o que nos fez perceber que algo incomum havia com o clima.
 Chegando na vila de Barrancas, vimos montes de granizo por todo lado.
 Pessoas varriam o granizo para liberar passagem.
@@ -108,6 +108,17 @@ Sempre tento evitar chegar perto da noite, mas dessa vez não consegui e cheguei
 Me virei com a luz do celular para cozinhar.
 
 #### Dia 60
+
+Estava mais uma vez no lado desértico  sem cercas na estrada.
+
+nestes ambientes, Algo acontecia comigo que
+
+Estar fazendo algo muito diferente fez acessar memórias do subconciente. A mente começa a devanear quase como num sonho, a gente é mais inteligente.
+Pag 66 terra dos homens referência
+
+mais tarde, lendo um livro de saint exuperrie, vi que ele relatou em sua viagem algo parecido 
+
+ainda nao estava ficando louco
 
 A estrada de chão do dia anterior me cansou.
 Passei por Junin de los Andes e o camping estava mais caro do que costumava pagar.

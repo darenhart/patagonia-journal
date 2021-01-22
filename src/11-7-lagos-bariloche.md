@@ -2,7 +2,7 @@
 
 ### Argentina - 7 lagos e Bariloche
 
-#### Dia 62
+#### Dia 62 - 13/12/2017
 
 Levantei antes de amanhecer.
 Na saída da cidade, dois cachorros me acompanharam.

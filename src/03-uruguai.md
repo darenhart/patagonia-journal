@@ -1,7 +1,7 @@
 
 ### Uruguai
 
-#### Dia 11
+#### Dia 11 - 23/10/2017
 
 Dia bom. Cheguei cedo na cidade de Artigas.
 Uma senhora bem querida me recebeu no centro de informações turísticas.

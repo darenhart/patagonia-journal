@@ -1,6 +1,6 @@
 ### Argentina - Sierras Chicas de Córdoba
 
-#### Dia 25
+#### Dia 25 - 06/11/2017
 
 Com vento a favor na tarde, acabo pedalando bastante e passando por quatro povoados, porém senti leves dores no joelho e no punho.
 Sinto que devo fazer um dia de descanso.

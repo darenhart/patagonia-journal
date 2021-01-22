@@ -2,7 +2,7 @@
 
 ### Parque dos Alerces e Carretera Austral no Chile
 
-#### Dia 70
+#### Dia 70 - 21/12/2017
 
 Foi a noite mais fria, usei tudo que tinha.
 

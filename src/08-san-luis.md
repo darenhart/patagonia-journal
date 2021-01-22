@@ -2,7 +2,7 @@
 
 ### Argentina - San Luis
 
-#### Dia 35
+#### Dia 35 - 15/11/2017
 
 A estrada continuava de rípo.
 Encontrei o policial de Pocho no caminho.

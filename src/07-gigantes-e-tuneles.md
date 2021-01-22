@@ -1,6 +1,6 @@
 ### Argentina - Los Gigantes e Los Tuneles
 
-#### Dia 30
+#### Dia 30 - 11/11/2017
 
 Passei por várias cidades, numa delas vi desfiles de grupos tradicioinais.
 Pousei num camping de Cosquín.

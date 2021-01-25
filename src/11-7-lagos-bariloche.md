@@ -6,7 +6,7 @@
 
 Levantei antes de amanhecer.
 Na saída da cidade, dois cachorros me acompanharam.
-Nesse dia vi cicloviajantes do que todos os dias somados desde o início da viagem.
+Nesse dia vi mais cicloviajantes do que todos os dias somados desde o início da viagem.
 Encontrei um casal de israelenses e paramos para lanchar e conversar.
 
 Já tinha me informado de que em alguns lagos há *campings libres*, que são locais onde se pode acampar, porém normalmente não há estrutura.
@@ -19,12 +19,12 @@ Completei dois meses de viagem.
 
 Próximo destino era o Lago Espejo, também com *camping libre*.
 Descansei quando cheguei pois havia muitas subidas e descidas.
-Cozinhei uma massa de almoço e para comer durante a tarde.
+Cozinhei uma massa para comer no almoço e durante a tarde.
 
 Conheci um motoviajante e o Martin, mochileiro viajando *a dedo* (de carona) desde Mar del Plata.
 Saímos para pescar em um outro lago, eu fiz umas tentativas, mas não pegamos nada.
-Me contaram sobre uma erupção que deixou tudo cheio de cinzas.
-Realmente, cavando um pouco com a mão podia se ver uma espessa camada de cinzas.
+Me contaram sobre uma erupção que deixou cinzas por todo lado.
+Realmente, podia se ver uma espessa camada de cinzas no solo.
 Quando voltamos, minha barraca estava cheia de cinzas por fora e por dentro, por causa do vento.
 
 ![acampando na lagoa](./assets/images/lagoa.jpg)
@@ -47,37 +47,41 @@ Talvez tinha aumentado minha expectativa com o que me contavam e talvez pelo cli
 
 #### Dia 65
 
-Estava chovendo, mas precisava seguir pois não tinha mais muita comida.
+Estava chovendo um pouco, mas precisava seguir pois não tinha mais muita comida.
 Foi difícil levantar.
-A barraca ficou bem maior empacotada por causa da sujeira e da água.
-Minhas mãos estavam geladas e sujas e não adiantava lavar pois estava tudo sujo.
-Cheguei cedo na Villa la Angostura, comprei uma carne de *cedro* (porco) e fiz na praça onde tinha wi-fi.
+A terra era composta por uma areia escura misturada com partes orgânicas.
+No fim, esse composto estava colado em tudo.
+Minhas mãos, além de geladas, também tinham essa terra, e não adiantava lavar, pois estava pegando nos equipamentos que estavam sujos.
+A barraca depois de empacotada, ficou bem maior e quase não consegui prender na bicicleta.
+
+Cheguei cedo na Villa la Angostura, e assim que parei, comecei a sentir o frio.
+Passei no mercado, então preparei um arroz e uma carne de *cedro* (porco) na praça onde tinha wi-fi.
 Achei que comer algo quente iria ajudar, mas tinha muito vento e meus pés estavam molhados e frios.
 
-Dei umas voltas na cidade até conseguir água e comida.
-Segui na estrada até encontrar um camping barato.
+Segui na estrada até encontrar um camping.
 
 #### Dia 66
 
 O dia nasceu bonito e com muito sol.
 O lago estava azulão finalmente.
 Cheguei em Dina Huapi cedo e fiquei o resto do dia num local muito bom para acampar.
-Ao lado do lago, com muito espaço e uma vista para Bariloche e as montanhas nevadas ao fundo.
+Ao lado do lago, com muito espaço e com uma vista para Bariloche e as montanhas nevadas ao fundo.
 Lavei tudo e estendi ao sol até secar.
-Nunca teria dado tanto valor a um simples dia de sol se não fosse antecedido de um dia frio e chuvoso.
+Nunca teria dado tanto valor a um simples dia de sol, se não fosse antecedido de um dia frio e chuvoso.
 
 ![vista para montanhas e bariloche](./assets/images/vista-bariloche.jpg)
 
 #### Dia 67
 
-Para minha alegria, aqui anoitece mais tarde e amanhece mais cedo.
 Cheguei em Bariloche de manhã e não sabia o que fazer.
 Não tinha planejado nada e não conhecia Bariloche.
 Dei umas voltas na cidade e me deparei com uma manifestação.
 
 Busquei informações no centro de turismo e no wi-fi de uma padaria.
 Decidi conhecer um tal de cerro Catedral no dia seguinte.
-Acampei em uma praia quase deserta.
+
+Com o sol se pondo mais tarde, deu tempo de encontrar um lugar perfeito para passar a noite de graça em Bariloche.
+Era uma praia quase deserta com um visual incrível.
 
 #### Dia 68
 
@@ -94,19 +98,22 @@ Era muito divertido descer os morros escorregando de bunda.
 A neve estava derretendo e criando formas muito interessantes.
 
 Lanchei sanduíche de sardinha.
-Cheguei refugio onde as pessoas passam a noite, porém eu me programei para voltar.
+Cheguei no refúgio onde as pessoas passam a noite, porém eu me programei para voltar.
 Lembrei que o teleférico desligaria às 17h, então apressei o passo.
 Logo percebi que estava muito atrasado.
 Passei o resto do caminho todo correndo, inclusive nas pedras.
 Me senti naquelas cenas de filmes de ação, onde o personagem passa por uma paisagem incrível mas não dá a mínima.
 
+Tarde demais.
 Tinham passados 15min das 17h e já conseguia ver o teleférico parado.
 A estrada para descer era muito longa e eu não tinha quase nada de água e comida.
 Provavelmente chegaria de noite mesmo com o sol se pondo mais tarde.
-Mas vi bem de longe, um carro saindo dos teleféricos, então corri abandando com as mãos na esperança que me vissem.
+Devia ter lembrado que sou amador no *trekking*.
+Fiquei tão distraído com as paisagens com a neve que esqueci de estimar o tempo da volta. 
+Mas vi bem de longe, um carro saindo dos teleféricos, então corri abandando com as mãos na esperança de que me vissem.
 Por minha sorte alguém do carro deve ter olhado para trás e pararam.
 Foi por muito pouco.
-De carro demorou bastante para descer, fiquei imaginando como seria à pé.
+De carro, demoramos bastante para descer, fiquei imaginando como seria à pé.
 
 Minha bicicleta estava lá com meus alforges e tudo.
 Minhas pernas estavam muito exaustas.
@@ -117,7 +124,7 @@ Ainda andei uns 19km e acampei em um local bem bonito ao lado da lagoa.
 Cheguei cedo em Rio Villegas e comprei comida.
 Fui no camping de melhor preço, mas a água do chuveiro não era muito quente.
 
-Peguei o costume de deixar uma garrafa pet aquecendo próxima da fogueira, para depois trazer dentro do saco de dormir.
+Peguei o costume de deixar uma garrafa pet aquecendo próxima da fogueira, depois trazer para dentro do saco de dormir.
 Mas dessa vez não consegui acender o fogo, pois tinha chovido um pouco.
 
 ![Lago e Cerro Catedral](./assets/images/lago-catedral.jpg)

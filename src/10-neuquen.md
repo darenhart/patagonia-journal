@@ -62,12 +62,14 @@ Para compensar, antes de chegar no camping de Las Lajas, pegamos um vento contra
 
 #### Dia 56
 
-Os próximos dias teriam bastante subida e poucos pontos de apoio, então decidimos descansar mais um dia no camping.
+Os próximos dias teriam bastante subida e poucos pontos de apoio, então decidimos descansar mais um dia em Las Lajas.
 Fui trocar o punho do guidão, o cabo de marcha e a roldana do cambio que estava quebrando.
+
+A partir daqui, a ruta 40 segue mais no lado do deserto argentino, por isso sairíamos dela e seguiríamos em uma ruta mais próxima dos Andes. 
 
 #### Dia 57
 
-Realmente, a subida era interminável, e para dificultar tinha vento contra.
+Realmente, a subida era interminável, e para dificultar, tinha vento contra.
 Mas agora, podia ver a neve na montanha mais de perto.
 
 Achamos um local incrível para acampar.
@@ -89,13 +91,13 @@ As vezes é um pouco mais difícil tomar todas decisões com alguém do que sozi
 Esquecemos de tirar uma foto nossa, mas talvez porque realmente aproveitamos o momento.
 
 Estava na dúvida se ia conhecer a lagoa na Vila Pehuenia ou se seguia.
-O vento me fez seguir até um local que vi no iOverlander, ao lado do rio Aluminé.
+O vento me convenceu a seguir até um local que vi no iOverlander, ao lado do rio Aluminé.
 
 #### Dia 59
 
 Segui até o município de Aluminé.
-O camping municipal era caro, então fui até a praça descansar e decidir o que fazer.
-Aproveitei para carregar o power bank (bateria externa), cozinhar, e usar a wi-fi.
+O camping municipal era caro, então fui até a praça, descansar e decidir o que fazer.
+Aproveitei para carregar o *power bank* (bateria externa), cozinhar, e usar a wi-fi.
 
 Acabei perdendo, em algum lugar, o meu kit de eletrônicos que tinha o termômetro, o chip de celular brasileiro, o fone de ouvido e a lanterna de cabeça.
 Fiquei triste e decepcionado pois tinha pago caro a lanterna de cabeça.
@@ -103,24 +105,22 @@ Mas depois lembrei que podia continuar a viagem tranquilamente sem estas coisas.
 Refletindo sobre essa lanterna, percebi que as vezes é melhor não ficar dependente do melhor equipamento, mas sim se acostumar com o mais comum e que seja fácil de repor.
 
 Segui até encontrar um local perto do rio Aluminé.
-O primeiro já estava ocupado por uma família, então segui até encontrar o próximo.
+O primeiro já estava ocupado por uma família, então segui até o próximo.
 Sempre tento evitar chegar perto da noite, mas dessa vez não consegui e cheguei bem cansado.
 Me virei com a luz do celular para cozinhar.
 
 #### Dia 60
 
-Estava mais uma vez no lado desértico  sem cercas na estrada.
+Desde Mendoza, pedalo entre os Andes e o deserto argentino.
+Passei novamente por deserto, em uma região onde não há cercas separando a estrada das terras.
+Às vezes, nessas paisagens agrestes, algo que não entendia muito bem acontecia comigo.
+O fato de estar em um lugar muito diferente, fazendo algo incomum, fazia meus pensamentos resgatarem memórias ou sentimentos mais remotos.
+A mente começa a devanear, quase como num sonho, no qual a criatividade floresce.
+Depois de ter retornado da viagem, vi que Saint-Exupéry, em um de seus livros, relata uma experiência semelhante no deserto do Saara.
+Ele ainda constata que o nosso lar acumula "[...] no fundo do coração, uma massa escura da qual brotam como nascentes, os sonhos".
+Nesse dia, portanto, ainda não estava começando a ficar louco como imaginei.
+Era só mais um curioso sintoma de viajar.
 
-nestes ambientes, Algo acontecia comigo que
-
-Estar fazendo algo muito diferente fez acessar memórias do subconciente. A mente começa a devanear quase como num sonho, a gente é mais inteligente.
-Pag 66 terra dos homens referência
-
-mais tarde, lendo um livro de saint exuperrie, vi que ele relatou em sua viagem algo parecido 
-
-ainda nao estava ficando louco
-
-A estrada de chão do dia anterior me cansou.
 Passei por Junin de los Andes e o camping estava mais caro do que costumava pagar.
 Fui seguindo até algum local para acampar perto da estrada, mas acabei andando demais até encontrar.
 Fiquei próximo de uma ponte ao lado de um rio muito bonito de água cristalina.

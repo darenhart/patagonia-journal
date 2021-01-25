@@ -103,9 +103,38 @@
         height: 75vh;
       }
     }
+    .summary-link {
+      position: fixed;
+      bottom: 12px;
+      right: 12px;
+      border-radius: 19px;
+      background-color: white;
+      background-image: url("assets/icons/summary.svg");
+      background-position: center;
+      background-size: 24px;
+      background-repeat: no-repeat;
+      font-family: 'Belwe', serif;
+      font-weight: bold;
+      text-decoration: none;
+      font-size: 25px;
+      color: #9f896b;
+      box-shadow: rgba(0,0,0,0.2) -2px 2px 8px;
+      opacity: 0.3;
+      -webkit-tap-highlight-color: transparent;
+      width: 45px;
+      height: 40px;
+    }
+    .summary-link:hover {
+      opacity: 0.7;
+    }
+    .summary-link:focus {
+      box-shadow: 0 0 3pt 2pt rgba(0,0,0,0.5);
+      outline: none;
+    }
     </style>
   </head>
   <body>
+    <a class="summary-link" href="#sumário"></a>
     <div class="cover"></div>
     <div class="markdown-body">
 <h1 id="viagem-de-bicicleta-à-patagônia">Viagem de bicicleta à Patagônia</h1>
@@ -124,18 +153,20 @@
 <li><a href="#a-viagem">A viagem</a><ul>
 <li><a href="#rio-grande-do-sul">Rio Grande do Sul</a></li>
 <li><a href="#uruguai">Uruguai</a></li>
-<li><a href="#argentina---entre-rios">Argentina</a><ul>
-<li><a href="#argentina---entre-rios">Entre Rios</a></li>
+<li><a href="#argentina---entre-rios">Argentina - Entre Rios</a></li>
 <li><a href="#argentina---santa-f%C3%A9-e-laguna-miramar">Santa Fé e Laguna Miramar</a></li>
 <li><a href="#argentina---sierras-chicas-de-c%C3%B3rdoba">Sierras Chicas de Cordoba</a></li>
 <li><a href="#argentina---los-gigantes-e-los-tuneles">Los Gigantes e Los Tuneles</a></li>
 <li><a href="#argentina---san-luis">San Luis</a></li>
 <li><a href="#argentina---provincia-mendoza">Provincia Mendoza</a></li>
-<li><span style="opacity: .3">Neuquén, norte da Patagônia</span></li>
-</ul>
-</li>
-<li><span style="opacity: .3">Chile</span></li>
-<li><span style="opacity: .3">em breve...</span></li>
+<li><a href="#argentina---neuqu%C3%A9n-in%C3%ADcio-da-patag%C3%B4nia">Neuquén, início da Patagônia</a></li>
+<li><a href="#argentina---7-lagos-e-bariloche">7 lagos e Bariloche</a></li>
+<li><span style="opacity: .3">Parque dos Alerces e Carretera Austral no Chile</span></li>
+<li><span style="opacity: .3">Puerto Ibanez e Chile Chico</span></li>
+<li><span style="opacity: .3">Argentina - El Chalten e El Calafate</span></li>
+<li><span style="opacity: .3">Calafate à Rio Gallegos</span></li>
+<li><span style="opacity: .3">Costa da Argentina</span></li>
+<li><span style="opacity: .3">Uruguai - Últimos dias</span></li>
 </ul>
 </li>
 </ul>
@@ -154,16 +185,19 @@
 <blockquote>
 <p>“Quando a gente tá contente, Tanto faz o quente, Tanto faz o frio” Gal Costa</p>
 </blockquote>
-<blockquote>
-<p>“Escrachar os outros é fácil, escrachar a si mesmo é difícil, mas escrachar a si antes que os outros o façam é uma arte”  <a href="http://odois.org/100104#outr-1">odois</a>. A Arte do Autoescracho </p>
-</blockquote>
+<!--
+
+> “Escrachar os outros é fácil, escrachar a si mesmo é difícil, mas escrachar a si antes que os outros o façam é uma arte”  [odois](http://odois.org/100104#outr-1). A Arte do Autoescracho 
+
+-->
+
 <h3 id="quando-e-onde">Quando e onde?</h3>
 <p>Depois dos primeiros experimentos com cicloturismo, fazer uma longa viagem de bicicleta começou a me parecer algo mais simples do que imaginava.
 Foi quando percebi que poderia botar em prática.
 Escolhi o destino Patagônia e a medida que a ideia foi amadurecendo, fui conversando com as pessoas sobre o assunto.
 Sabia que esfriava bastante no sul, portanto o objetivo era sair antes do início do verão seguinte. 
 A saída se deu por volta de um ano e meio depois da concepção da ideia.
-Não estava preso a uma <a href="https://darenhart.github.io/patagonia-trip">rota</a>, mas a que fazia mais sentido era seguir a sul próximo a cordilheira dos Andes e depois talvez voltar de carona.
+Não estava preso a uma <a href="https://darenhart.github.io/patagonia-trip">rota</a>, mas a que fazia mais sentido era seguir a sul, próximo a cordilheira dos Andes e depois talvez voltar de carona.
 Ainda não sabia quanto tempo levaria, mas seria menos de um ano.
 A viagem ocorreu em quatro meses, de outubro de 2017 à Fevereiro de 2018. </p>
 <h3 id="equipamentos">Equipamentos</h3>
@@ -255,13 +289,13 @@ Me sinto cheio de energia para viver o que vier pela frente.</p>
 Essas mudanças são observadas muito lentamente ao longo de vários dias.
 Este para-lama transparente que emendei na roda dianteira não resistiu mais muitos dias.</p>
 <p>O dia estava ótimo para pedalar: clima bom, estrada pouco movimentada, acostamento bom e nuvens bonitas.
-Vejo os cata-ventos e não perco a oportunidade de interpretar Dom Quixote.</p>
-<p><img realsrc="./assets/images/dom-quixote.jpg" alt="Dom quixote, placa rs-uruguai"></p>
+Vi os cata-ventos de energia eólica e me senti como um Dom Quixote moderno.</p>
 <p>Apanhei no chão um pedaço de placa de carro &quot;RS - Uruguaiana&quot; casualmente perto de cruzar a fronteira.</p>
 <p>Fiz acampamento selvagem.</p>
+<p><img realsrc="./assets/images/dom-quixote.jpg" alt="Dom quixote, placa rs-uruguai"></p>
 <p><a href="https://photos.app.goo.gl/VEyPE5sNytQAnLxJ3">Mais fotos do trecho no Rio Grande do Sul</a></p>
 <h3 id="uruguai">Uruguai</h3>
-<h4 id="dia-11">Dia 11</h4>
+<h4 id="dia-11---23102017">Dia 11 - 23/10/2017</h4>
 <p>Dia bom. Cheguei cedo na cidade de Artigas.
 Uma senhora bem querida me recebeu no centro de informações turísticas.
 Disse que o camping aberto da praça era perigoso portanto fui para um camping no final da cidade.
@@ -323,7 +357,7 @@ Conversei sobre a rota e sugeriram conhecer o município de San Marcos Sierras.
 Lizandro tocou umas músicas com seu violão e seu amigo fazia segunda voz. 
 Uma das coisas que buscava na viagem era ouvir a música local, mas não imaginava que seria no primeiro dia na Argentina, nem que ela viria até mim.
 Que coisa boa ouvir uma canção castelhana de alguém com idioma nativo.
-A música ¿Qué Pasó? - Bersuit Vergarabat acabou se tornando trilha sonora no <a href="https://youtu.be/MPgr4FjIZF8">video</a> que produzi.</p>
+A música <em>¿Qué Pasó?</em> da banda Bersuit Vergarabat acabou se tornando trilha sonora no <a href="https://youtu.be/MPgr4FjIZF8">vídeo</a> que produzi.</p>
 <h4 id="dia-17">Dia 17</h4>
 <p>Domingo.
 Na mesma praça, fui convidado para um assado num aniversário! Era um grupo de amigos motociclistas.
@@ -345,7 +379,7 @@ Este parque se encontra dentro do Parque Nacional San Martin, um terreno que foi
 <p><img realsrc="./assets/images/parque-berduc.jpg" alt="Parque Rural Enrique Berduc"></p>
 <p><a href="https://photos.app.goo.gl/hvm4Ddi8JfN1K9oa2">Mais fotos na província Entre Rios</a></p>
 <h3 id="argentina---santa-fé-e-laguna-miramar">Argentina - Santa Fé e Laguna Miramar</h3>
-<h4 id="dia-19">Dia 19</h4>
+<h4 id="dia-19---31102017">Dia 19 - 31/10/2017</h4>
 <p>Fui até o município de Paraná na entrada do túnel onde um supervisor me levou numa caminhonete até o outro lado.
 Acabei perdendo pela segunda vez os óculos EPI de sol, então dei umas voltas pela cidade até arranjar um novo.
 Queria também trocar uns reais por pesos.
@@ -385,13 +419,13 @@ No centro do continente acabo então me deparando com um mar.
 É a Laguna Mar Chiquita, tão grande que não se vê o fim no horizonte.
 Vejo flamingos de longe.
 Passo pelo hotel abandonado Vienna e fico num camping próximo.</p>
-<p><img realsrc="./assets/images/20171104_151600.jpg" alt="Laguna mar Chiquita"></p>
 <h4 id="dia-24">Dia 24</h4>
 <p>Pedalo uns 40km até outro ponto próximo da laguna em um camping.
 Como é domingo, acabo me juntando a um grupo de homens argentinos que estão fazendo um assado.</p>
+<p><img realsrc="./assets/images/20171104_151600.jpg" alt="Laguna mar Chiquita"></p>
 <p><a href="https://photos.app.goo.gl/e0Ee62FGLjaVAHd53">Mais fotos do trecho Santa Fé e Laguna Miramar</a></p>
 <h3 id="argentina---sierras-chicas-de-córdoba">Argentina - Sierras Chicas de Córdoba</h3>
-<h4 id="dia-25">Dia 25</h4>
+<h4 id="dia-25---06112017">Dia 25 - 06/11/2017</h4>
 <p>Com vento a favor na tarde, acabo pedalando bastante e passando por quatro povoados, porém senti leves dores no joelho e no punho.
 Sinto que devo fazer um dia de descanso.
 Em um dos vilarejos, uma criançada ainda com uniforme da escola pára pra conversar.
@@ -428,14 +462,14 @@ Queria ficar em algum camping pelo caminho, mas estavam fechados, então segui a
 As placas que nomeiam as ruas usam uma fonte cursiva.
 Ao chegar no camping eu já estava seco.
 Lá havia um violonista compondo uma música.</p>
-<p><img realsrc="./assets/images/sierras-chicas.jpg" alt="Sierras chicas"></p>
 <h4 id="dia-29">Dia 29</h4>
 <p>Pedalei somente 20km até Capilla del Monte, mas tinha muito morro para atravessar e peguei bastante sol.
 O turismo lá é baseado em ovnis e alienígenas e existem lendas relacionadas ao cerro Uritorco que se vê da cidade.
 Fiquei no camping municipal onde aproveitei para combinar uma hospedagem solidária do <em>Warmshower</em> na cidade de Tanti.</p>
+<p><img realsrc="./assets/images/sierras-chicas.jpg" alt="Sierras chicas"></p>
 <p><a href="https://photos.app.goo.gl/ib1TcnAuwt5wkDQj1">Mais fotos do trecho nas Sierras Chicas de Córdoba</a></p>
 <h3 id="argentina---los-gigantes-e-los-tuneles">Argentina - Los Gigantes e Los Tuneles</h3>
-<h4 id="dia-30">Dia 30</h4>
+<h4 id="dia-30---11112017">Dia 30 - 11/11/2017</h4>
 <p>Passei por várias cidades, numa delas vi desfiles de grupos tradicioinais.
 Pousei num camping de Cosquín.</p>
 <h4 id="dia-31">Dia 31</h4>
@@ -479,7 +513,7 @@ Passei na <em>despensa</em> (mercadinho) e a dona acabou ligando para a cuidador
 <p><img realsrc="./assets/images/gigantes-tuneles.jpg" alt="Sierras chicas"></p>
 <p><a href="https://photos.app.goo.gl/ulJhCRtg7yLOMdqE2">Mais fotos do trecho Los Gigantes e Los Tuneles</a></p>
 <h3 id="argentina---san-luis">Argentina - San Luis</h3>
-<h4 id="dia-35">Dia 35</h4>
+<h4 id="dia-35---15112017">Dia 35 - 15/11/2017</h4>
 <p>A estrada continuava de rípo.
 Encontrei o policial de Pocho no caminho.
 Na cidade de Cura Brochero tem um rio muito bonito que passa entre rochas.
@@ -547,7 +581,7 @@ O rastro dele se estendeu por quase todo céu, e ao final se dividiu em partes m
 Sem dúvida o maior que já vi.</p>
 <p><a href="https://photos.app.goo.gl/vyKhBGIpazr7HDX43">Mais fotos do trecho em San Luis</a></p>
 <h3 id="argentina---provincia-mendoza">Argentina - Provincia Mendoza</h3>
-<h4 id="dia-42-1">Dia 42</h4>
+<h4 id="dia-43---24112017">Dia 43 - 24/11/2017</h4>
 <p>O acampamento bivaque me adiantou bastante.
 Comecei o dia pedalando com uma bela vista do sol nascendo e uma reta infinita pela frente.
 Passei praticamente o dia todo em cima da bike, pois estar em movimento refrescava mais do que ficar ao sol.
@@ -557,7 +591,7 @@ Foi ali que cozinhei uma refeição e descansei um pouco.</p>
 <p>Percebi que o horizonte, em uma estrada plana, não é tão longe quanto parece ser, pois observando pontos de referência, vi que cheguei até o ponto visível mais distante várias vezes.</p>
 <p>Apesar de ter comida e água para mais um dia, um leve vento a favor me ajudou a vencer os 140km até a cidade.
 Maior distância que percorri em um dia até o momento.</p>
-<p>Cheguei perto de escurecer, mas com tempo suficiente para encontrar um local para pernoite.
+<p>Cheguei no povoado de Monte Comán, perto de escurecer, mas com tempo suficiente para encontrar um local para pernoite.
 O policial da cidade não sabia onde eu poderia ficar.
 Sem muita disposição apontou com o dedo um local, mas não me parecia muito interessante.
 No <em>kiosko</em> (mercadinho), todos estavam curiosos e vinham conversar.
@@ -567,14 +601,14 @@ Eu estava bem cansado, e poderia ficar esgotado se fosse atrás de camping ou do
 Então a alternativa mais sensata foi ficar no primeiro terreno baldio que vi.
 Um local bem tranquilo, sem visibilidade da rua, foi uma boa escolha.</p>
 <p><img realsrc="./assets/images/mendoza-reta.jpg" alt="mendoza reta infinita"></p>
-<h4 id="dia-43">Dia 43</h4>
+<h4 id="dia-44">Dia 44</h4>
 <p>Havia uma leve subida que me exigiu bastante esforço, pois ainda estava cansado do dia anterior.</p>
 <p>Fiquei em dúvida entre almoçar quando chegasse em San Rafael ou no meio do caminho.
 Esse dilema foi muito comum em outros dias da viagem.
 Fazer uma pausa para cozinhar pode me dar bastante energia, mas acaba sendo custoso fazer a digestão e retomar o ritmo da pedalada.
 Por outro lado, se deixo para cozinhar no destino final, consigo chegar cedo, mas preciso ter muitos lanches disponíveis.</p>
 <p>Escolhi fazer o almoço na praça de um povoado no caminho. Depois fiquei num camping em San Rafael.</p>
-<h4 id="dia-44">Dia 44</h4>
+<h4 id="dia-45">Dia 45</h4>
 <p>Tirei o dia para descanso. 
 Aproveitei para sacar dinheiro e fazer uma manutenção básica na bicicleta.</p>
 <p>A cidade está cheia de pequenos canais que transportam água dos Andes.
@@ -582,26 +616,251 @@ Vi até um passando por cima do outro, algo que poderia chamar de um &quot;viadu
 <p>Vizinhos de camping me convidaram para ir de carro até um dique (represa), que ficava há uns 40km da cidade.
 No caminho tinham vistas incríveis para uns cânions enormes.
 Eu estava perto deles e mal sabia que eles existiam.</p>
-<h4 id="dia-45">Dia 45</h4>
+<p><img realsrc="./assets/images/canyons-mendoza.jpg" alt="canions de mendoza"></p>
+<h4 id="dia-46">Dia 46</h4>
 <p>Passei por grandes campos de oliveiras e por um salar.
-No horizonte vejo algo que suspeito ser a Cordilheira dos Andes.
+No horizonte avisto algo que suspeito ser a Cordilheira dos Andes.
 Levei mais água do que o necessário pois não esperava encontrar um parador.
 Antes de escurecer, meu corpo pedia para parar, mas o vento a favor estava bom demais para desperdiçar.
 Fiz acampamento selvagem perto da estrada onde não me veriam da rua.</p>
-<h4 id="dia-46">Dia 46</h4>
+<h4 id="dia-47">Dia 47</h4>
 <p>De fato estou vendo os Andes.
 Primeira vez que vejo neve também. 
-Inicialmente apenas surgem manchas brancas dos picos nevados &quot;voando&quot;, pois o forte reflexo do sol na neve ultrapassa o ar da atmosfera, enquanto que o resto da montanha não, ficando da mesma cor do céu.</p>
+Inicialmente apenas surgem manchas brancas &quot;voando&quot; dos picos nevados, pois o forte reflexo do sol na neve ultrapassa o ar da atmosfera, enquanto que o resto da montanha não.</p>
 <p>Depois de umas leves subidas cansativas, cheguei em El Sosneado e na famosa <em>Ruta 40</em>.
 Na cidade, o moço do parador me ofereceu um abrigo para a noite.
 Tive uma tarde sobrando finalmente.</p>
-<h4 id="dia-47">Dia 47</h4>
+<h4 id="dia-48">Dia 48</h4>
 <p>Chego no camping municipal bom e barato de Malargue.
-Foi ali que me animei ao encontrar os primeiros cicloturistas, desde o início da viagem.
-Acho que estava precisando me sentir um pouco mais comum.</p>
+Foi ali que encontrei os primeiros cicloturistas, desde o início da viagem.
+É um alívio ver seres da mesma espécie e se sentir um pouco menos excêntrico.</p>
 <p>Um casal de Buenos Aires me dá umas dicas do percurso, pois eles vinham do sul.
 Conheço o Rafael, um mexicano que também está indo para o sul.
-Pensava em ficar mais um dia no camping, mas queria acompanhar o Rafael, então saímos no dia seguinte.</p>
+Pensava em ficar mais um dia no camping, mas queria acompanhar o Rafael.</p>
+<h4 id="dia-49">Dia 49</h4>
+<p>Seguimos eu e o Rafael em uma rota que se aproximava mais da cordilheira.
+Avistamos muitas montanhas de diferentes formas e cores.
+A ausência de vegetação expõe linhas que demarcam eras muito longínquas, porém com um pouco de imaginação, parecem se movimentar como uma onda.</p>
+<p>Passamos a noite em um camping na localidade de Bardas Blancas.</p>
+<h4 id="dia-50">Dia 50</h4>
+<p>Seguimos em um trecho de rípio um pouco mais difícil na ruta 40, porém com um cenário formidável e selvagem.
+A estrada acompanha o curso do Rio Grande, com a cordilheira de um lado e o deserto do outro.</p>
+<p>Estes ermos eram novidade para mim, mas o Rafael parecia estar mais acostumado, pois vinha de uma longa jornada desde o México.
+Diante da vasta possibilidade de locais para montar acampamento, deixei que ele escolhesse.</p>
+<p><img realsrc="./assets/images/mendoza-rafael.jpg" alt="Mendoza montanhas e o Rafael"></p>
+<p><a href="https://photos.app.goo.gl/yRDItg28sKcZe5kB3">Mais fotos do trecho na Provincia Mendoza</a></p>
+<h3 id="argentina---neuquén-início-da-patagônia">Argentina - Neuquén, início da Patagônia</h3>
+<h4 id="dia-51---02122017">Dia 51 - 02/12/2017</h4>
+<p>Levantamos acampamento com paisagens incríveis em todos lados.
+Passamos por uma cansativa subida em estrada de rípio, que adentrava um pouco em direção à cordilheira.</p>
+<p>Observei um grande rebanho, no topo de um morro, de algum animal que não consegui identificar.
+O Rafael parou também, e percebemos que os animais desciam correndo em nossa direção.
+Eram centenas de cabras bebês, de várias cores, berrando &quot;bééé&quot;.
+Elas pulavam e corriam até que pararam todas na estrada olhando para a gente, provavelmente esperando que fossemos alimentá-las.</p>
+<p>A altitude elevada nos proporcionou um horizonte distante, apesar de não estar nem perto dos pontos mais altos da cordilheira.
+Começamos a descer em curvas num asfalto intacto, olhando rapidamente para todos os lados para aproveitar cada segundo.
+Majestosas nuvens escuras e alguns raios de sol tornaram o visual único.
+Foi mais impressionante que qualquer foto ou filme que já tenha visto.</p>
+<p>Vimos um totem indicando o início da região da Patagônia!
+É motivador pensar que já passei por tanta coisa, e ainda tenho a Patagônia pela frente.</p>
+<p>Começou a esfriar um pouco, então pela primeira vez, precisei usar mais roupas. 
+Já estava na hora, pois fazia dias que pedalava para o sul.
+Presenciamos o desmoronamento de um pedaço da estrada, o que nos fez perceber que algo incomum havia com o clima.
+Chegando na vila de Barrancas, vimos montes de granizo por todo lado.
+Pessoas varriam o granizo para liberar passagem.
+Moradores disseram que faziam anos que não caía uma chuva tão forte, mas nós só pegamos um leve chuvisco durante o dia.</p>
+<p><img realsrc="./assets/images/neuquen1.jpg" alt="Rafael na paisagem em neuquen"></p>
+<h4 id="dia-52">Dia 52</h4>
+<p>Em Buta Ranquil, estávamos em dúvida entre ficar ou seguir.
+Não achamos camping, então o Rafael me apresentou o iOverlander, um aplicativo colaborativo no qual as pessoas informam locais onde acamparam.
+Seguimos até um ponto interessante para acampamento selvagem, ao lado de umas ruínas.
+Vimos uma chuva muito forte caindo distante, e novamente nos safamos.</p>
+<h4 id="dia-53">Dia 53</h4>
+<p>Paramos em uma paisagem tão interessante que até o Rafael tirou foto.
+Foi a primeira vez que o vi pegar sua câmera.
+Eram montanhas cujas camadas geológicas estavam bem visíveis.
+Montamos acampamento no camping municipal de Chos Malal, depois passamos na praça para usar wi-fi.</p>
+<h4 id="dia-54">Dia 54</h4>
+<p>Fomos até Chorriaca, uma pequena vila.
+Na polícia, perguntamos onde poderíamos pernoitar e sugeriram ficar ali mesmo, no próprio jardim da sede da polícia.</p>
+<p>O Rafael e eu conversamos em inglês, já que meu espanhol ainda não estava bom.
+Depois de um tempo comecei a compreender o ritmo dele.
+Pedalar um pouco mais devagar, aproveitar as descidas para descansar e só fazer paradas se necessário.
+Passei a adotar esse ritmo também.
+Outra dica muito valiosa foi de cagar sempre de manhã, para não precisar durante o dia.
+Uma vantagem de pedalar acompanhado é poder aparecer nas fotos.</p>
+<p><img realsrc="./assets/images/neuquen2.jpg" alt="Eu em neuquén"></p>
+<h4 id="dia-55">Dia 55</h4>
+<p>Começamos o dia com uma longa decida de 40km.
+Para compensar, antes de chegar no camping de Las Lajas, pegamos um vento contra forte.</p>
+<h4 id="dia-56">Dia 56</h4>
+<p>Os próximos dias teriam bastante subida e poucos pontos de apoio, então decidimos descansar mais um dia em Las Lajas.
+Fui trocar o punho do guidão, o cabo de marcha e a roldana do cambio que estava quebrando.</p>
+<p>A partir daqui, a ruta 40 segue mais no lado do deserto argentino, por isso sairíamos dela e seguiríamos em uma ruta mais próxima dos Andes. </p>
+<h4 id="dia-57">Dia 57</h4>
+<p>Realmente, a subida era interminável, e para dificultar, tinha vento contra.
+Mas agora, podia ver a neve na montanha mais de perto.</p>
+<p>Achamos um local incrível para acampar.
+Tinha um aconchegante gramado colorido com tons amarelos das flores.
+No meio deste grande carpete verde e amarelo passava um córrego de água cristalina.
+Em volta tinham imponentes araucárias, de uma espécie local, com galhos mais longos e espinhos maiores comparado com as do Brasil.</p>
+<p>Durante o dia surgiram nuvens de vários formatos.
+Como se as paisagens não bastassem, o céu nos presenteia com lindas surpresas.</p>
+<p><img realsrc="./assets/images/nuvens.jpg" alt="nuvem"></p>
+<h4 id="dia-58">Dia 58</h4>
+<p>Me despedi do Rafael, pois ele já tinha vôo comprado em Ushuaia e precisava apressar um pouco a viagem.
+Foi muito boa a experiência de viajar junto.
+Pude conhecer a perspectiva de alguém que está viajando há mais tempo.
+As vezes é um pouco mais difícil tomar todas decisões com alguém do que sozinho, porém nos entendemos bem.
+Esquecemos de tirar uma foto nossa, mas talvez porque realmente aproveitamos o momento.</p>
+<p>Estava na dúvida se ia conhecer a lagoa na Vila Pehuenia ou se seguia.
+O vento me convenceu a seguir até um local que vi no iOverlander, ao lado do rio Aluminé.</p>
+<h4 id="dia-59">Dia 59</h4>
+<p>Segui até o município de Aluminé.
+O camping municipal era caro, então fui até a praça, descansar e decidir o que fazer.
+Aproveitei para carregar o <em>power bank</em> (bateria externa), cozinhar, e usar a wi-fi.</p>
+<p>Acabei perdendo, em algum lugar, o meu kit de eletrônicos que tinha o termômetro, o chip de celular brasileiro, o fone de ouvido e a lanterna de cabeça.
+Fiquei triste e decepcionado pois tinha pago caro a lanterna de cabeça.
+Mas depois lembrei que podia continuar a viagem tranquilamente sem estas coisas.
+Refletindo sobre essa lanterna, percebi que as vezes é melhor não ficar dependente do melhor equipamento, mas sim se acostumar com o mais comum e que seja fácil de repor.</p>
+<p>Segui até encontrar um local perto do rio Aluminé.
+O primeiro já estava ocupado por uma família, então segui até o próximo.
+Sempre tento evitar chegar perto da noite, mas dessa vez não consegui e cheguei bem cansado.
+Me virei com a luz do celular para cozinhar.</p>
+<h4 id="dia-60">Dia 60</h4>
+<p>Desde Mendoza, pedalo entre os Andes e o deserto argentino.
+Passei novamente por deserto, em uma região onde não há cercas separando a estrada das terras.
+Às vezes, nessas paisagens agrestes, algo que não entendia muito bem acontecia comigo.
+O fato de estar em um lugar muito diferente, fazendo algo incomum, fazia meus pensamentos resgatarem memórias ou sentimentos mais remotos.
+A mente começa a devanear, quase como num sonho, no qual a criatividade floresce.
+Depois de ter retornado da viagem, vi que Saint-Exupéry, em um de seus livros, relata uma experiência semelhante no deserto do Saara.
+Ele ainda constata que o nosso lar acumula &quot;[...] no fundo do coração, uma massa escura da qual brotam como nascentes, os sonhos&quot;.
+Nesse dia, portanto, ainda não estava começando a ficar louco como imaginei.
+Era só mais um curioso sintoma de viajar.</p>
+<p>Passei por Junin de los Andes e o camping estava mais caro do que costumava pagar.
+Fui seguindo até algum local para acampar perto da estrada, mas acabei andando demais até encontrar.
+Fiquei próximo de uma ponte ao lado de um rio muito bonito de água cristalina.
+Dessa vez tentei cozinhar antes de escurecer.</p>
+<h4 id="dia-61">Dia 61</h4>
+<p>Levantei acampamento cedo e cheguei antes do meio dia na cidade de San Martin de los Andes.
+O Camping também era mais caro, mas acabei ficando pois tinha que me preparar para os próximos dias, na rota dos 7 lagos.
+Comprei uma lanterna de cabeça comum, um gorro e uma chave allen 3mm que poderia precisar para ajustar o manete de freio.
+Peguei mantimentos no mercado e numa feira.</p>
+<p><img realsrc="./assets/images/neuquen-geral.jpg" alt="cabras, eu na paisagem, acampamento"></p>
+<p><a href="https://photos.app.goo.gl/s9jRi59zQtJuw4Pk2">Mais fotos do trecho em Neuquén</a></p>
+<h3 id="argentina---7-lagos-e-bariloche">Argentina - 7 lagos e Bariloche</h3>
+<h4 id="dia-62---13122017">Dia 62 - 13/12/2017</h4>
+<p>Levantei antes de amanhecer.
+Na saída da cidade, dois cachorros me acompanharam.
+Nesse dia vi mais cicloviajantes do que todos os dias somados desde o início da viagem.
+Encontrei um casal de israelenses e paramos para lanchar e conversar.</p>
+<p>Já tinha me informado de que em alguns lagos há <em>campings libres</em>, que são locais onde se pode acampar, porém normalmente não há estrutura.
+Cheguei no Lago Villariano a tempo de fazer um almoço.
+Passei a tarde tocando ukelele, observando pássaros, passeando na floresta, filmando patos na lagoa e escrevendo o diário.</p>
+<h4 id="dia-63">Dia 63</h4>
+<p>Completei dois meses de viagem.</p>
+<p>Próximo destino era o Lago Espejo, também com <em>camping libre</em>.
+Descansei quando cheguei pois havia muitas subidas e descidas.
+Cozinhei uma massa para comer no almoço e durante a tarde.</p>
+<p>Conheci um motoviajante e o Martin, mochileiro viajando <em>a dedo</em> (de carona) desde Mar del Plata.
+Saímos para pescar em um outro lago, eu fiz umas tentativas, mas não pegamos nada.
+Me contaram sobre uma erupção que deixou cinzas por todo lado.
+Realmente, podia se ver uma espessa camada de cinzas no solo.
+Quando voltamos, minha barraca estava cheia de cinzas por fora e por dentro, por causa do vento.</p>
+<p><img realsrc="./assets/images/lagoa.jpg" alt="acampando na lagoa"></p>
+<h4 id="dia-64">Dia 64</h4>
+<p>Acordei tarde e reservei o dia para relaxar.
+Assim como os dois últimos dias, o clima estava nublado e chuviscando.</p>
+<p>Tomei um mate com o Martin.
+Ele foi na rua esperar alguma carona, e eu me apossei do lugar onde ele estava pois não pegava vento e tinha uma fogueira ativa.
+Fiz um almoço e duas jantas no fogo.</p>
+<p>Perto de escurecer, chegaram uns jovens que viajavam <em>a dedo</em>.
+Um alemão, uma chilena, um portugês, um chileno e um francês. 
+Vieram na minha fogueira, já que estava tudo frio e molhado.</p>
+<p>Não me impressionei tanto com as paisagens das lagoas.
+Talvez tinha aumentado minha expectativa com o que me contavam e talvez pelo clima.</p>
+<h4 id="dia-65">Dia 65</h4>
+<p>Estava chovendo um pouco, mas precisava seguir pois não tinha mais muita comida.
+Foi difícil levantar.
+A terra era composta por uma areia escura misturada com partes orgânicas.
+No fim, esse composto estava colado em tudo.
+Minhas mãos, além de geladas, também tinham essa terra, e não adiantava lavar, pois estava pegando nos equipamentos que estavam sujos.
+A barraca depois de empacotada, ficou bem maior e quase não consegui prender na bicicleta.</p>
+<p>Cheguei cedo na Villa la Angostura, e assim que parei, comecei a sentir o frio.
+Passei no mercado, então preparei um arroz e uma carne de <em>cedro</em> (porco) na praça onde tinha wi-fi.
+Achei que comer algo quente iria ajudar, mas tinha muito vento e meus pés estavam molhados e frios.</p>
+<p>Segui na estrada até encontrar um camping.</p>
+<h4 id="dia-66">Dia 66</h4>
+<p>O dia nasceu bonito e com muito sol.
+O lago estava azulão finalmente.
+Cheguei em Dina Huapi cedo e fiquei o resto do dia num local muito bom para acampar.
+Ao lado do lago, com muito espaço e com uma vista para Bariloche e as montanhas nevadas ao fundo.
+Lavei tudo e estendi ao sol até secar.
+Nunca teria dado tanto valor a um simples dia de sol, se não fosse antecedido de um dia frio e chuvoso.</p>
+<p><img realsrc="./assets/images/vista-bariloche.jpg" alt="vista para montanhas e bariloche"></p>
+<h4 id="dia-67">Dia 67</h4>
+<p>Cheguei em Bariloche de manhã e não sabia o que fazer.
+Não tinha planejado nada e não conhecia Bariloche.
+Dei umas voltas na cidade e me deparei com uma manifestação.</p>
+<p>Busquei informações no centro de turismo e no wi-fi de uma padaria.
+Decidi conhecer um tal de cerro Catedral no dia seguinte.</p>
+<p>Com o sol se pondo mais tarde, deu tempo de encontrar um lugar perfeito para passar a noite de graça em Bariloche.
+Era uma praia quase deserta com um visual incrível.</p>
+<h4 id="dia-68">Dia 68</h4>
+<p>Saí em direção ao Catedral e subi o cerro de teleférico.
+Só levei carteira, documentos, comida e água.
+A bicicleta, prendi em uma grade.</p>
+<p>A vista lá de cima é fantástica.
+As montanhas nevadas e o verde no vale.
+A trilha passa por um lado da montanha que é cheio de pedras empilhadas.
+Alguns pontos vermelhos pintados nas pedras indicam o caminho.
+Depois, a trilha continua na neve, e foi onde pude tocar nela pela primeira vez.
+Era muito divertido descer os morros escorregando de bunda.
+A neve estava derretendo e criando formas muito interessantes.</p>
+<p>Lanchei sanduíche de sardinha.
+Cheguei no refúgio onde as pessoas passam a noite, porém eu me programei para voltar.
+Lembrei que o teleférico desligaria às 17h, então apressei o passo.
+Logo percebi que estava muito atrasado.
+Passei o resto do caminho todo correndo, inclusive nas pedras.
+Me senti naquelas cenas de filmes de ação, onde o personagem passa por uma paisagem incrível mas não dá a mínima.</p>
+<p>Tarde demais.
+Tinham passados 15min das 17h e já conseguia ver o teleférico parado.
+A estrada para descer era muito longa e eu não tinha quase nada de água e comida.
+Provavelmente chegaria de noite mesmo com o sol se pondo mais tarde.
+Devia ter lembrado que sou amador no <em>trekking</em>.
+Fiquei tão distraído com as paisagens com a neve que esqueci de estimar o tempo da volta. 
+Mas vi bem de longe, um carro saindo dos teleféricos, então corri abandando com as mãos na esperança de que me vissem.
+Por minha sorte alguém do carro deve ter olhado para trás e pararam.
+Foi por muito pouco.
+De carro, demoramos bastante para descer, fiquei imaginando como seria à pé.</p>
+<p>Minha bicicleta estava lá com meus alforges e tudo.
+Minhas pernas estavam muito exaustas.
+Ainda andei uns 19km e acampei em um local bem bonito ao lado da lagoa.</p>
+<h4 id="dia-69">Dia 69</h4>
+<p>Cheguei cedo em Rio Villegas e comprei comida.
+Fui no camping de melhor preço, mas a água do chuveiro não era muito quente.</p>
+<p>Peguei o costume de deixar uma garrafa pet aquecendo próxima da fogueira, depois trazer para dentro do saco de dormir.
+Mas dessa vez não consegui acender o fogo, pois tinha chovido um pouco.</p>
+<p><img realsrc="./assets/images/lago-catedral.jpg" alt="Lago e Cerro Catedral"></p>
+<p><a href="https://photos.app.goo.gl/XNWxm945LxK59tDk2">Mais fotos do trecho ruta dos 7 lagos e Bariloche</a></p>
+<!--
+
+### Parque dos Alerces e Carretera Austral no Chile
+
+#### Dia 70 - 21/12/2017
+
+Foi a noite mais fria, usei tudo que tinha.
+
+
+
+[Mais fotos do trecho Parque dos Alerces e Carretera Austral no Chile](https://photos.app.goo.gl/owQ46KX4YtjemQ5h1)
+
+-->
+
+
+
+
+
 <br>
 
 <p>+ em breve</p>

@@ -4,14 +4,14 @@
 
 Com vento a favor na tarde, acabo pedalando bastante e passando por quatro povoados, porém senti leves dores no joelho e no punho.
 Sinto que devo fazer um dia de descanso.
-Em um dos vilarejos, uma criançada ainda com uniforme da escola pára pra conversar.
-Disseram que já passaram viajeiros de vários outros países.
+Em um dos vilarejos, uma criançada ainda com uniforme da escola, se aproxima para conversar.
+Disseram que já passaram *viajeiros* de vários outros países.
 Um garoto me levou até sua casa para buscar água e fez questão de ir junto me orientar para a saída da cidade.
 
 Decido ficar em Cañada de Luque, então passo na polícia, mas não tinha ninguém.
 Pessoas passando na rua apontam para uma loja onde dizem ter alguém que pode ajudar.
-Na loja indicam ir acampar atrás do museu.
-Em pouco tempo e com pouco esforço já tenho um local para pernoite graças à pré-disposição das pessoas.
+Na loja indicam à mim ir acampar atrás do museu.
+Em pouco tempo e com pouco esforço já tenho um local para pernoitar graças à pré-disposição das pessoas.
 Mas não um é local que me sinto confortável para passar um dia de descanso.
 
 #### Dia 26

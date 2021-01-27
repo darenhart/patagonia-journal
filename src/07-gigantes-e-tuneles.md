@@ -9,7 +9,7 @@ Pousei num camping de Cosquín.
 
 Cheguei cedo em Tanti e descansei numa sombra na beira do rio.
 Muitos rios que passei tem a borda com pouca vegetação permitindo fazer caminhada ou acampar.
-Fiquei no Franco que conheci no *Warmshowers*, ele me deu umas dicas sobre o caminho para visitar Los Gigantes.
+Fiquei na casa do Franco que conheci no *Warmshowers*, ele me deu umas dicas sobre o caminho para visitar Los Gigantes.
 Sugeriu ir conhecer a Sierra Grande de Cordoba.
 Ele fazia questão de dormir numa maca de fisioterapia e me ceder seu quarto e sua cama.
 
@@ -23,10 +23,10 @@ Nenhuma marca de humanos até o horizonte exceto a estrada.
 Apesar de não ter sombra não lembro de ter ficado com muito calor.
 Vou cada vez chegando mais perto de Los Gigantes.
 São montanhas praticamente sem vegetação, com bastante rocha aparente.
-Impressionante, muito diferente do que estou acostumado.
+Impressionante, muito diferente do que estou acostumado a ver.
 
 Havia um camping perto da montanha, mas estava mais afim de fazer acampamento selvagem.
-O Franco havia sugerido um lugar perto do rio, achei pefreito.
+O Franco havia sugerido um lugar perto do rio, achei perfeito.
 
 #### Dia 33
 
@@ -46,12 +46,12 @@ Descer pelos túneis e seguir nessa imensa planície em uma estrada de chão que
 Ou desviar ao sul para passar pela Sierra Grande.
 Acabei optando pela segunda opção, conforme sugeriu o Franco, mas antes fui visitar pelo menos os dois primeiros túneis.
 
-Ao meio dia parei num restaurante na beira da estrada porém os preços não estávam razoáveis.
+Ao meio dia parei num restaurante na beira da estrada, porém os preços não estávam nada razoáveis.
 Ao sair, umas pessoas de uma mesa me chamam para sentar junto.
 Um casal, uma filhinha e uma vovó.
 O Max contou sua experiência acampando somente com saco de dormir ao ar livre num deserto em Mendoza.
 
-Parei em Pocho, conversei com um policial, mas não sabia onde podia ficar.
+Parei em Pocho, conversei com um policial, mas ele não sabia onde podia ficar.
 Sugeriu falar com a cuidadora da igreja.
 Passei na *despensa* (mercadinho) e a dona acabou ligando para a cuidadora e ela deixou acampar ao lado.
 

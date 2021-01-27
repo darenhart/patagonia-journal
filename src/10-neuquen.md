@@ -50,7 +50,7 @@ O Rafael e eu conversamos em inglês, já que meu espanhol ainda não estava bom
 Depois de um tempo comecei a compreender o ritmo dele.
 Pedalar um pouco mais devagar, aproveitar as descidas para descansar e só fazer paradas se necessário.
 Passei a adotar esse ritmo também.
-Outra dica muito valiosa foi de cagar sempre de manhã, para não precisar durante o dia.
+Outra dica muito valiosa foi de fazer cocô sempre de manhã, para não precisar durante o dia.
 Uma vantagem de pedalar acompanhado é poder aparecer nas fotos.
 
 ![Eu em neuquén](./assets/images/neuquen2.jpg)
@@ -63,9 +63,9 @@ Para compensar, antes de chegar no camping de Las Lajas, pegamos um vento contra
 #### Dia 56
 
 Os próximos dias teriam bastante subida e poucos pontos de apoio, então decidimos descansar mais um dia em Las Lajas.
-Fui trocar o punho do guidão, o cabo de marcha e a roldana do cambio que estava quebrando.
+Fui trocar o punho do guidão, o cabo de marcha e a roldana do câmbio que estava quebrando.
 
-A partir daqui, a ruta 40 segue mais no lado do deserto argentino, por isso sairíamos dela e seguiríamos em uma ruta mais próxima dos Andes. 
+A partir daqui, a ruta 40 segue mais pelo lado do deserto argentino, por isso sairíamos dela e seguiríamos em uma ruta mais próxima dos Andes. 
 
 #### Dia 57
 
@@ -122,7 +122,7 @@ Nesse dia, portanto, ainda não estava começando a ficar louco como imaginei.
 Era só mais um curioso sintoma de viajar.
 
 Passei por Junin de los Andes e o camping estava mais caro do que costumava pagar.
-Fui seguindo até algum local para acampar perto da estrada, mas acabei andando demais até encontrar.
+Fui seguindo peladalando até algum local para acampar perto da estrada, mas acabei andando demais até encontrar um.
 Fiquei próximo de uma ponte ao lado de um rio muito bonito de água cristalina.
 Dessa vez tentei cozinhar antes de escurecer.
 

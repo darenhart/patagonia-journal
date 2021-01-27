@@ -16,7 +16,7 @@ Fiquei no camping municipal que também não tinha ninguém.
 
 #### Dia 37
 
-Continuei indo a sul com com uma bela vista para a serra na minha esquerda.
+Continuei indo a sul com uma bela vista para a serra na minha esquerda.
 Estava precisando de um banho quente e descansar pois nos últimos campings não tinha chuveiro.
 Cheguei cedo num camping pago em Carpinteria, lavei roupas e dei um banho de sol no saco de dormir.
 
@@ -59,7 +59,7 @@ Ele ligou para o dono de um camping que deixou ficar de graça.
 O lago é rodeado por montanhas e um circuito de corrida.
 Tive um pouco de dificuldade para achar o camping.
 
-Casualmente encontrei um casal de velinhos viajando em trailer, que também havia visto no dia anteriror.
+Casualmente encontrei um casal de velinhos viajando em trailer, que também já havia visto no dia anterior.
 Conversamos um pouco em espanhol e inglês, me mostraram o trailer e me deram um chocolate.
 
 #### Dia 41

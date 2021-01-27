@@ -74,7 +74,7 @@ Nunca teria dado tanto valor a um simples dia de sol, se não fosse antecedido d
 #### Dia 67
 
 Cheguei em Bariloche de manhã e não sabia o que fazer.
-Não tinha planejado nada e não conhecia Bariloche.
+Não tinha planejado nada e nem conhecia a cidade.
 Dei umas voltas na cidade e me deparei com uma manifestação.
 
 Busquei informações no centro de turismo e no wi-fi de uma padaria.

@@ -88,7 +88,7 @@ Busquei roupas adequadas para o frio seguindo o princípio das [quatro camadas](
 Para cozinhar usei um fogareiro à álcool/etanol e utensílios básicos de cozinha.
 No lugar dos alforges, para carregar as coisas na bicicleta, usei [baldes](https://youtu.be/DzK4ufcDylo). 
 No melhor estilo "faça você mesmo" ou "mulambiker", com pouca sofisticação, os baldes são facilmente fixados na bicicleta apenas com corda, promovendo durabilidade, confiabilidade e fácil reposição.
-Além de serem completamente impermeáveis, servem como acento e mesa em acampamento selvagem, podem ser usados para lavar roupas e diminuem as chances de furto.
+Além de serem completamente impermeáveis, servem como assento e mesa em acampamento selvagem, podem ser usados para lavar roupas e diminuem as chances de furto.
 
  [Veja mais](https://darenhart.github.io/patagonia-trip/#/gear)
 

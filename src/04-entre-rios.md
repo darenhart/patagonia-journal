@@ -36,7 +36,7 @@ Conversei sobre a rota e sugeriram conhecer o município de San Marcos Sierras.
 Lizandro tocou umas músicas com seu violão e seu amigo fazia segunda voz. 
 Uma das coisas que buscava na viagem era ouvir a música local, mas não imaginava que seria no primeiro dia na Argentina, nem que ela viria até mim.
 Que coisa boa ouvir uma canção castelhana de alguém com idioma nativo.
-A música *¿Qué Pasó?* da banda Bersuit Vergarabat acabou se tornando trilha sonora no [vídeo](https://youtu.be/MPgr4FjIZF8) que produzi.
+A música *¿Qué Pasó?* da banda Bersuit Vergarabat acabou se tornando trilha sonora no [vídeo](https://youtu.be/MPgr4FjIZF8) que fiz.
 
 #### Dia 17
 

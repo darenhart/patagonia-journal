@@ -119,6 +119,10 @@ Minha bicicleta estava lá com meus alforges e tudo.
 Minhas pernas estavam muito exaustas.
 Ainda andei uns 19km e acampei em um local bem bonito ao lado da lagoa.
 
+
+
+<!--
+
 #### Dia 69
 
 Cheguei cedo em Rio Villegas e comprei comida.
@@ -127,7 +131,11 @@ Fui no camping de melhor preço, mas a água do chuveiro não era muito quente.
 Peguei o costume de deixar uma garrafa pet aquecendo próxima da fogueira, depois trazer para dentro do saco de dormir.
 Mas dessa vez não consegui acender o fogo, pois tinha chovido um pouco.
 
+
+
 ![Lago e Cerro Catedral](./assets/images/lago-catedral.jpg)
+
+-->
 
 [Mais fotos do trecho ruta dos 7 lagos e Bariloche](https://photos.app.goo.gl/XNWxm945LxK59tDk2)
 

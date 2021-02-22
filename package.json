@@ -6,12 +6,15 @@
   "scripts": {
     "start": "typora src/ &",
     "dev": "npm run build && http-server dist/",
+    "dev-mac": "npm run build-mac && http-server dist/",
     "jpegoptim": "jpegoptim -m 80",
-    "copy-assets": "rm dist/assets -rf && cp src/assets/ dist/ -r",
+    "copy-assets": "cp -r src/assets dist/assets/",
     "markdown-to-html": "cat src/template.html > dist/index.html && cat src/*.md | marked >> dist/index.html && cat src/footer.html >> dist/index.html",
     "add-lazy-loading": "sed -i 's/img src/img realsrc/g' dist/index.html",
+    "add-lazy-loading-mac": "sed -i '' 's/img src/img realsrc/g' dist/index.html",
     "add-markdown-css": "cp node_modules/github-markdown-css/github-markdown.css dist/",
     "build": "npm run markdown-to-html && npm run add-lazy-loading && npm run add-markdown-css && npm run copy-assets",
+    "build-mac": "npm run markdown-to-html && npm run add-lazy-loading-mac && npm run add-markdown-css && npm run copy-assets",
     "deploy": "git add dist && git commit -m 'deploy' && git subtree push --prefix dist origin gh-pages"
   },
   "repository": {

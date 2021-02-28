@@ -6,7 +6,8 @@
 
 <br>
 
-\+ em breve
+A viagem continua...
+Em breve será publicado o restante. 
 
 <br>
 

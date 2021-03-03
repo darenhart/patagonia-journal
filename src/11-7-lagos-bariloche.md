@@ -109,7 +109,7 @@ Tinham passados 15min das 17h e já conseguia ver o teleférico parado.
 A estrada para descer era muito longa e eu não tinha quase nada de água e comida.
 Provavelmente chegaria de noite mesmo com o sol se pondo mais tarde.
 Devia ter lembrado que sou amador no *trekking*.
-Fiquei tão distraído com as paisagens e com a neve que esqueci de estimar o tempo da volta. 
+Fiquei tão distraído com as paisagens e com a neve, que esqueci de estimar o tempo da volta. 
 Mas vi bem de longe, um carro saindo dos teleféricos, então corri abandando com as mãos na esperança de que me vissem.
 Por minha sorte alguém do carro deve ter olhado para trás e pararam.
 Foi por muito pouco.
@@ -117,7 +117,7 @@ De carro, demoramos bastante para descer, fiquei imaginando como seria à pé.
 
 Minha bicicleta estava lá com meus alforges e tudo.
 Minhas pernas estavam muito exaustas.
-Ainda andei uns 19km e acampei em um local bem bonito ao lado da lagoa.
+Ainda andei uns 19km e acampei em um local bem bonito ao lado de uma lagoa.
 
 
 

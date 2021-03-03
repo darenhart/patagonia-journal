@@ -28,8 +28,8 @@ Parei em uma pequena cidade chamada Colonia Cello cuja praça é quase maior que
 Como de costume, fui na polícia, mas não tinha ninguém.
 Havia uma missa terminando na igreja ao lado, provavelmente toda população estava lá, inclusive os policiais.
 Um morador começou a conversar comigo e em poucos segundos já estava oferecendo pouso em sua casa.
-Gaston, Sofia e a filha Anita são muito queridos.
-Sofia toca violão e canta muito bem.
+Gaston, Sofía e a filha Anita são muito queridos.
+Sofía toca violão e canta muito bem.
 Ela me apresentou vários gêneros de músicas argentinas como zamba carpera, chamamé, carnavalito, gato e chacarera.
 Sou muito agradecido por essa imersão de cultura através da música que tive.
 

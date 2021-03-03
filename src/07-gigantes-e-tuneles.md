@@ -8,7 +8,7 @@ Pousei num camping de Cosquín.
 #### Dia 31
 
 Cheguei cedo em Tanti e descansei numa sombra na beira do rio.
-Muitos rios que passei tem a borda com pouca vegetação permitindo fazer caminhada ou acampar.
+Muitos rios que passei tem a borda com pouca vegetação, permitindo fazer caminhada ou acampar.
 Fiquei na casa do Franco que conheci no *Warmshowers*, ele me deu umas dicas sobre o caminho para visitar Los Gigantes.
 Sugeriu ir conhecer a Sierra Grande de Cordoba.
 Ele fazia questão de dormir numa maca de fisioterapia e me ceder seu quarto e sua cama.
@@ -20,7 +20,7 @@ Subi os 1000m de estrada de chão.
 Incrível como a paisagem fica mais bonita quando não tem cercas na divisa das estradas com os terrenos.
 Esse era um tipo de local que desejava passar.
 Nenhuma marca de humanos até o horizonte exceto a estrada.
-Apesar de não ter sombra não lembro de ter ficado com muito calor.
+Apesar de não ter sombra, não lembro de ter ficado com muito calor.
 Vou cada vez chegando mais perto de Los Gigantes.
 São montanhas praticamente sem vegetação, com bastante rocha aparente.
 Impressionante, muito diferente do que estou acostumado a ver.

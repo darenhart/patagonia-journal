@@ -13,7 +13,7 @@ Fui para o camping municipal de São Tomé, cidade vizinha.
 
 #### Dia 20
 
-Voltei até Santa Fé sem a bagagem para trocar reais no câmbio porém pediram o passaporte, então tive que voltar para pegar.
+Voltei até Santa Fé sem a bagagem para trocar reais no câmbio, porém pediram o passaporte, então tive que voltar para pegar.
 Comecei o dia pedalando 15km em vão.
 Segui até Sá Pereira.
 Lá fiquei nos bombeiros onde fui muito bem recebido. 

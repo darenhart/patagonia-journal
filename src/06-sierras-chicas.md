@@ -54,8 +54,8 @@ Lá havia um violonista compondo uma música.
 #### Dia 29
 
 Pedalei somente 20km até Capilla del Monte, mas tinha muito morro para atravessar e peguei bastante sol.
-O turismo lá é baseado em ovnis e alienígenas e existem lendas relacionadas ao cerro Uritorco que se vê da cidade.
-Fiquei no camping municipal onde aproveitei para combinar uma hospedagem solidária do *Warmshower* na cidade de Tanti.
+O turismo lá é baseado em ovnis e alienígenas, e existem lendas relacionadas ao cerro Uritorco que se vê da cidade.
+Fiquei no camping municipal, onde aproveitei para combinar uma hospedagem solidária do *Warmshower* na cidade de Tanti.
 
 
 

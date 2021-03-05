@@ -27,7 +27,7 @@ Na praça da vila havia umas bandas se apresentando, portanto sem dúvidas fique
 Assisti à três bandas de *chacarera*, cada uma muito particular.
 Usavam violão, violino, bateria e o *bombo legüero*.
 
-As pessoas começavam a coreografia tradicional ao ovirem o chamado *¡Adentro!*.
+As pessoas, ao ovirem o chamado *¡Adentro!*, começavam a coreografia tradicional. 
 Davam giros com os braços estendidos acima da cabeça e estalando os dedos.
 Outros demonstravam suas habilidades com sapateados complexos.
 

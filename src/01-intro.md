@@ -83,7 +83,7 @@ Mochilas ou bolsas penduradas no bagageiro e cobertores em vez de saco de dormir
 Ao descobrir que existe o termo cicloturismo, acabei encontrando pessoas que são referências no assunto, como por exemplo o [Olinto e a Rafaela](https://www.olinto.com.br/), os [Pedarilhos](https://www.pedarilhos.com.br/), entre [outros](https://docs.google.com/document/d/1hLK3I_bJJoF_bFf3JQtNA1iDGUlSgUr7-HwD5bygilg/edit?usp=sharing).
 Escolhi e montei peça por peça da bicicleta para entender bem a mecânica, mas mal eu sabia que na viagem não precisaria nada mais além de passar óleo na correia, remendar câmara e trocar cabos.
 Para começar a viajar de bicicleta não é preciso se preparar muito, mas aproveitei que estava no conforto de casa para revisar se todo equipamento atendia às minhas necessidades, e então evitar ter que resolver algo na estrada.
-Me diverti escolhendo estrategicamente cada um dos itens que levaria buscando leveza, simplicidade, conforto e independência.
+Me diverti escolhendo estrategicamente cada um dos itens que levaria buscando leveza, simplicidade, conforto e autossuficiência.
 
 Busquei roupas adequadas para o frio seguindo o princípio das [quatro camadas](https://www.olinto.com.br/dicas-cicloturismo/vestimenta/).
 Para cozinhar usei um fogareiro à álcool/etanol e utensílios básicos de cozinha.

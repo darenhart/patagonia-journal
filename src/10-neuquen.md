@@ -118,7 +118,7 @@ O fato de estar em um lugar muito diferente, fazendo algo incomum, fazia meus pe
 A mente começa a devanear, quase como num sonho, no qual a criatividade floresce.
 Depois de ter retornado da viagem, vi que Saint-Exupéry, em um de seus livros, relata uma experiência semelhante no deserto do Saara.
 Ele ainda constata que o nosso lar acumula "[...] no fundo do coração, uma massa escura da qual brotam como nascentes, os sonhos".
-Nesse dia, portanto, ainda não estava começando a ficar louco como imaginei.
+Nesse dia, portanto, não estava delirando como imaginei.
 Era só mais um curioso sintoma de viajar.
 
 Passei por Junin de los Andes e o camping estava mais caro do que costumava pagar.

@@ -1,11 +1,10 @@
-<!--
+
 
 ### Parque dos Alerces e Carretera Austral no Chile
 
 #### Dia 70 - 21/12/2017
 
-Foi a noite mais fria até agora.
-Usei tudo que tinha.
+Foi a noite mais fria até agora, pois tive que usar quase todas roupas dentro do saco de dormir.
 Parece que por aqui esfria bastante depois da chuva.
 
 Cheguei cedo em um camping na cidade de El Bolson.
@@ -15,34 +14,30 @@ Dei umas voltas em uma grande feira de artesanato que estava acontecendo.
 Meu pneu traseiro vinha apresentando um defeito que causava um leve solavanco.
 Estava usando pneus Shwalbe importados.
 Achei muito estranho, pois qualquer pneu comum dificilmente teria algum problema com a quilometragem fiz.
-Mais um motivo para não usar equipamentos mais sofisticados.
+Mais um motivo para não usar equipamentos muito sofisticados.
 Fui na loja de bicicleta comprar um pneu comum.
 
 O Rafael mexicano veio me avisar pelo Facebook que tinha acontecido um grande [*aluvión* em Santa Lucía](https://es.wikipedia.org/wiki/Aluvi%C3%B3n_de_Villa_Santa_Luc%C3%ADa) no Chile.
 As chuvas intensas causaram o desprendimento de um glaciar, que por sua vez derrubou uma grande quantidade de terra.
 Ainda não tinha mais detalhes, mas ele me disse que iria voltar até Puerto Montt e pegar uma balsa para cortar caminho.
-Alguma estrada poderia estar bloqueada.
-Decidi 
-
-Não consegui descobrir se alguma estrada havia sido bloqueada, mas resolvi seguir, na esperança de que até lá 
+Alguma estrada poderia estar bloqueada, mas não consegui descobrir.
+Por enquanto resolvi seguir até descobrir algo.
 
 #### Dia 71
 
-Depois de Epuyen
+Ao levantar percebi que tinha algo diferente nas montanhas.
+Elas eram verdes e agora estavam com o topo levemente esbranquiçado.
+Devia ser neve.
+O vento a favor ajudou, por outro lado ficou intercalando entre chuva e sol, ou seja, ficar colocando e tirando roupas.
 
-no dia seguinte tinha neve no topo
+Fiquei um tempo ao lado do centro de informações em Epuyen, usando wifi e cozinhando.
+Segui até um local do app iOverlander, estava bem agradável.
+Na beira da estrada mas escondido atrás de árvores, arroio vindo da montanha, fogueirinha para se distrair.
+Não sei por que, mas vários motoristas businavam quando passavam.
+Suspeitei de que estavam de alguma forma me vendo, mas não era possível pois eu nem tinha visão da estrada.
+Ali tinha mais um desses santuários da Difunta Correa, então no outro dia me dei conta que provavelmente era por causa disso.
 
-Dia de chuva e sol. ficar trocando de roupa
-
-vento a favor
-
-fiquei um tempo ao lado do centro de infos, pegando wifi e fazendo porco.
-
-segui até um ponto do iover.
-
-beira da estrada escondido, riosinho de montanha, fogueirinha, 
-
-não sei pq mais varios carros businavam quando passavam
+<!--
 
 #### Dia 72
 

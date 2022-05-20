@@ -26,7 +26,7 @@ São relatos de uma viagem de bicicleta saindo de Estrela/RS - Brasil até a Pat
     - [Provincia Mendoza](#argentina---provincia-mendoza)
     - [Neuquén, início da Patagônia](#argentina---neuquén-início-da-patagônia)
     - [7 lagos e Bariloche](#argentina---7-lagos-e-bariloche)
-    - <span style="opacity: .3">Chubut, Parque dos Alerces</span>
+    - [Parque dos Alerces e Carretera Austral no Chile](#parque-dos-alerces-e-carretera-austral-no-chile)
     - <span style="opacity: .3">Chile - Carretera Austral</span>
     - <span style="opacity: .3">Puerto Ibanez e Chile Chico</span>
     - <span style="opacity: .3">Argentina - El Chalten e El Calafate</span>

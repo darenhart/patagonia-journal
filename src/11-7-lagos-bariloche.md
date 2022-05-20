@@ -38,7 +38,7 @@ Tomei um mate com o Martin.
 Ele foi na rua esperar alguma carona, e eu me apossei do lugar onde ele estava pois não pegava vento e tinha uma fogueira ativa.
 Fiz um almoço e duas jantas no fogo.
 
-Perto de escurecer, chegaram uns jovens que viajavam *a dedo*.
+Ao escurecer, chegaram uns jovens que viajavam *a dedo*.
 Um alemão, uma chilena, um portugês, um chileno e um francês. 
 Vieram na minha fogueira, já que estava tudo frio e molhado.
 
@@ -51,7 +51,7 @@ Estava chovendo um pouco, mas precisava seguir pois não tinha mais muita comida
 Foi difícil levantar.
 A terra era composta por uma areia escura misturada com partes orgânicas.
 No fim, esse composto estava colado em tudo.
-Minhas mãos, além de geladas, também tinham essa terra, e não adiantava lavar, pois estava pegando nos equipamentos que estavam sujos.
+Minhas mãos, além de geladas, também tinham essa terra, e não adiantava lavar, pois precisava pegar nos equipamentos que estavam sujos.
 A barraca depois de empacotada, ficou bem maior e quase não consegui prender na bicicleta.
 
 Cheguei cedo na Villa la Angostura, e assim que parei, comecei a sentir o frio.
@@ -91,8 +91,7 @@ A bicicleta, prendi em uma grade.
 
 A vista lá de cima é fantástica.
 As montanhas nevadas e o verde no vale.
-A trilha passa por um lado da montanha que é cheio de pedras empilhadas.
-Alguns pontos vermelhos pintados nas pedras indicam o caminho.
+A trilha passa por um lado da montanha que é formado apenas por pedras grandes, onde alguns pontos pontados em vermelho indicam o caminho.
 Depois, a trilha continua na neve, e foi onde pude tocar nela pela primeira vez.
 Era muito divertido descer os morros escorregando de bunda.
 A neve estava derretendo e criando formas muito interessantes.
@@ -121,8 +120,6 @@ Ainda andei uns 19km e acampei em um local bem bonito ao lado de uma lagoa.
 
 
 
-<!--
-
 #### Dia 69
 
 Cheguei cedo em Rio Villegas e comprei comida.
@@ -135,7 +132,7 @@ Mas dessa vez não consegui acender o fogo, pois tinha chovido um pouco.
 
 ![Lago e Cerro Catedral](./assets/images/lago-catedral.jpg)
 
--->
+
 
 [Mais fotos do trecho ruta dos 7 lagos e Bariloche](https://photos.app.goo.gl/XNWxm945LxK59tDk2)
 

@@ -138,39 +138,27 @@ O espanhol, com um pedaço de corda, resolvendo um problema no pedivela da bicic
 A [solução provisória](https://photos.app.goo.gl/4xLKBnSVr5cXj4md9) ficou bem estranha mas funcionou.
 
 Alguns saíram antes pois iriam para o norte, então éramos 5 brasileiros e 2 casais de franceses pedalando junto sentido sul.
+Tinhamos rítmos diferentes, então alguns acabaram se separando.
+Mas depois nos encontramos em Puyuhuapi, em um pergolado coberto de uma praça onde alguns fizeram uma pausa para descansar e cozinhar.
+Um trecho da rua ao lado de uma lagoa estava interditada, mas uma balsa estava fazendo a conexão gratuitamente.
 
-
-ritmo de cada um -- vai se encontrar?
-
-nos encontramos na cidade de PU...
-
-
-
-todos seguem. Nós brasileiros ficamos num wild campo com a intenção de passar o ano novo junto numa casa abandonada.
-
-conheço um canadense pedalando mesmo, mas não se junta ao grupo
-
-
+No caminho conheço um canadense pedalando no mesmo sentido, e conversamos um tempo sem mesmo parar de pedalar.
+No fim do dia ficamos só nós brasileiros e combinamos de comemorar o réveillon juntos no dia seguinte.
+A princípio poderia ser em uma tal de casa abandonada que teria mais adiante.
 
 #### Dia 80
 
-Casualmente todos acabam sem encontrando.
+Ao viajar no frio, para interromper a pedalada e esfriar o corpo só com um bom motivo.
+Mas vimos da rua algo que parecia ser uma cafeteria, então um de nós foi até lá checar se valeria a pena fazer uma parada,
+Decidimos parar, já que ainda estávamos distantes da cidade.
+O local, onde vivem um casal e uma filha pequena, além de ser um café, é um refugio, e se chama Refugio Río Cisnes.
+Eles nos convidaram para passar a noite lá.
+Para o quarto de hospedes combravam uma diária, mas o camping não tinha preço, apenas pediam uma contribuição pelo banho.
+Abandonamos na hora a ideia da casa abandonada, pois aquele lugar estava muito quentinho e confortável para recusar.
 
-antes de chegar na casa abandonada uns param num café/camping
-
-o dono José oferece uns abrigos, e camping free.
-
-apenas cobra o banho
-
-o lugar está muito quentinho e confortável para recusar.
-
-chega um casal de australianos
-
-fizemos lentilha e comemos no ano novo juntos. 
-
-José veio com pizzas.
-
-<!--
+Depois ainda chegaram os franceses, um casal de australianos, entre outros.
+A casa estava cheia e comemoramos o ano novo juntos.
+Fizemos lentilha no fogão a lenha e os anfitriões serviram pizzas.
 
 #### Dia 81 
 
@@ -187,6 +175,8 @@ mas acabam ficando
 o José faz um tour pelo terreno e o rio.
 
 comemos todos macarrão.
+
+peixe pescado pelo frances
 
 chegam um casal de + idade de ingleses
 
@@ -207,6 +197,8 @@ ficamos eu e o nilton no el camping
 tinham mais uns cicloviajeros lá.
 
 vou no mecado fazer compras mas tem muita fila.
+
+<!--
 
 #### Dia 83
 

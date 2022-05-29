@@ -149,42 +149,34 @@ A princípio poderia ser em uma tal de casa abandonada que teria mais adiante.
 #### Dia 80
 
 Ao viajar no frio, para interromper a pedalada e esfriar o corpo só com um bom motivo.
-Mas vimos da rua algo que parecia ser uma cafeteria, então um de nós foi até lá checar se valeria a pena fazer uma parada,
-Decidimos parar, já que ainda estávamos distantes da cidade.
-O local, onde vivem um casal e uma filha pequena, além de ser um café, é um refugio, e se chama Refugio Río Cisnes.
-Eles nos convidaram para passar a noite lá.
+Mas vimos da rua algo que parecia ser uma cafeteria, então um de nós foi até lá checar se valeria a pena fazer uma parada.
+Como ainda estávamos distantes da cidade, decidimos parar alí.
+No Refugio Río Cisnes, como chamam o local, vivem a pouco tempo, o casal José e Dayana e a filha pequena Sami.
+Além de ser um café, é um refugio para quem visita a carretera austral, então nos convidaram para passar a noite lá.
 Para o quarto de hospedes combravam uma diária, mas o camping não tinha preço, apenas pediam uma contribuição pelo banho.
 Abandonamos na hora a ideia da casa abandonada, pois aquele lugar estava muito quentinho e confortável para recusar.
 
 Depois ainda chegaram os franceses, um casal de australianos, entre outros.
 A casa estava cheia e comemoramos o ano novo juntos.
-Fizemos lentilha no fogão a lenha e os anfitriões serviram pizzas.
+Cozinhamos lentilha no fogão a lenha e o José e a Dayana serviram pizzas caseiras de cortesia.
 
-#### Dia 81 
+#### Dia 81
 
 Ano novo!
 
-Todos acordam mais tarde,
+Como não é normal cicloturista dormir depois da meia noite, o pessoal acordou um pouco mais tarde.
+Decidimos ficar mais uma noite, exceto o casal de australianos que seguiram viagem.
+O José fez um tour pelo terreno e mostrou o rio Cisnes.
 
-os australianos já se vão
+Almoçamos macarrão.
+Um dos franceses pescou e preparou um peixe que todos acabaram provando um pouco.
 
-uns ainda em duvida se ficam mais um dia.
+Depois chegou um casal de ingleses aposentados.
+E para minha surpresa, de repente surge o Rafael, o mexicano que pedalou comigo em Mendoza!
+Cada um tinha seguido um caminho diferente mas nos encontramos de novo!
 
-mas acabam ficando 
-
-o José faz um tour pelo terreno e o rio.
-
-comemos todos macarrão.
-
-peixe pescado pelo frances
-
-chegam um casal de + idade de ingleses
-
-Chega o Rafael Mexicano --- nos encontramos de novo hhaha
-
-à noite chega um cara de camionete que inicialmente penso que não tem nada a ver com as pessoas dali,
-
-mas ele traz um violão e tocamos uns mpbs calminhos e tocamos umas junto e acabo simpatizando muito com ele
+Ao escurecer, chega um cara em uma camionete 4x4 e eu acabo o julgando como alguém que não corresponde com as pessoas dali.
+Ele traz um violão e humildemente me mostra uns mpbs calminhos e tocamos umas junto e acabo me dando muito com ele.
 
 #### Dia 82
 

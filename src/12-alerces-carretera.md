@@ -141,6 +141,7 @@ Alguns saíram antes pois iriam para o norte, então éramos 5 brasileiros e 2 c
 Tinhamos rítmos diferentes, então alguns acabaram se separando.
 Mas depois nos encontramos em Puyuhuapi, em um pergolado coberto de uma praça onde alguns fizeram uma pausa para descansar e cozinhar.
 Um trecho da rua ao lado de uma lagoa estava interditada, mas uma balsa estava fazendo a conexão gratuitamente.
+Depois percebemos que na verdade não era uma lagoa, mas sim o oceano pacífico!
 
 No caminho conheço um canadense pedalando no mesmo sentido, e conversamos um tempo sem mesmo parar de pedalar.
 No fim do dia ficamos só nós brasileiros e combinamos de comemorar o réveillon juntos no dia seguinte.

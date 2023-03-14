@@ -32,7 +32,7 @@ O vento a favor ajudou, por outro lado ficou intercalando entre chuva e sol, ou 
 
 Fiquei um tempo ao lado do centro de informações em Epuyen, usando wi-fi e cozinhando.
 Segui até um local do app iOverlander, estava bem agradável.
-Na beira da estrada mas escondido atrás de árvores, arroio vindo da montanha, fogueirinha para se distrair.
+Na beira da estrada mas escondido atrás de árvores, com um arroio vindo da montanha, e fiz uma fogueirinha para me distrair.
 Não sei por que, mas vários motoristas businavam quando passavam.
 Suspeitei de que estavam de alguma forma me vendo, mas não era possível pois eu nem tinha visão da estrada.
 Ali tinha mais um desses santuários da Difunta Correa, então no outro dia me dei conta que provavelmente era por causa disso.

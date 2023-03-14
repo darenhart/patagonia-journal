@@ -101,6 +101,6 @@ Roubo: Não é um risco vital, não dei muita importância, mas evitar capitais 
 
 Ficar sem água: Sempre levei água extra para cozinhar, lavar louça e cuidar da higiene portanto caso faltasse, usaria apenas para beber. Além disso houve poucos trajetos longos onde não houvesse motoristas para quem poderia pedir ajuda. 
 
-Ser atropelado: Evitar capitais e estradas mais movimentadas. A Argentina e Chile no geral tem menos trânsito que no Brasil.
+Acidentes de trânsito: Evitar capitais e estradas mais movimentadas. A Argentina e Chile no geral tem menos trânsito que no Brasil.
 
 Perder carteira e dinheiro: Levei junto cópias dos documentos e dinheiro separados da carteira.

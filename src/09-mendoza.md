@@ -24,7 +24,7 @@ Eu estava bem cansado, e poderia ficar esgotado se fosse atrás de camping ou do
 Então a alternativa mais sensata foi ficar no primeiro terreno baldio que vi.
 Um local bem tranquilo, sem visibilidade da rua, foi uma boa escolha.
 
-![mendoza reta infinita](./assets/images/mendoza-reta.jpg)
+![mendoza reta infinita e minha bike ao centro](./assets/images/mendoza-reta.jpg)
 
 #### Dia 44
 

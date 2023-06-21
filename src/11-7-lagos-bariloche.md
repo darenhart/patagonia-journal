@@ -27,7 +27,7 @@ Me contaram sobre uma erupção que deixou cinzas por todo lado.
 Realmente, podia se ver uma espessa camada de cinzas no solo.
 Quando voltamos, minha barraca estava cheia de cinzas por fora e por dentro, por causa do vento.
 
-![acampando na lagoa](./assets/images/lagoa.jpg)
+![acampando ao lado da lagoa](./assets/images/lagoa.jpg)
 
 #### Dia 64
 

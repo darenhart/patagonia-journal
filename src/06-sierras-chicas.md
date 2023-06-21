@@ -59,10 +59,9 @@ Fiquei no camping municipal, onde aproveitei para combinar uma hospedagem solid�
 
 
 
-![Sierras chicas](./assets/images/sierras-chicas.jpg)
+![Três fotos das Sierras chicas](./assets/images/sierras-chicas.jpg)
 
 [Mais fotos do trecho nas Sierras Chicas de Córdoba](https://photos.app.goo.gl/ib1TcnAuwt5wkDQj1)
-
 
 
 

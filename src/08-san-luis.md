@@ -34,7 +34,7 @@ Outros demonstravam suas habilidades com sapateados complexos.
 Fui para o camping municipal.
 Tinha bastante vento então acabei cozinhando de baixo de uma *parrilla*.
 
-![sierra grande e chacarera em Papagayos](./assets/images/san-luis.jpg)
+![Duas fotos: sierra grande e Coreografia de chacarera com banda ao fundo em Papagayos](./assets/images/san-luis.jpg)
 
 #### Dia 39
 

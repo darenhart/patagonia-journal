@@ -55,7 +55,7 @@ Parei em Pocho, conversei com um policial, mas ele não sabia onde podia ficar.
 Sugeriu falar com a cuidadora da igreja.
 Passei na *despensa* (mercadinho) e a dona acabou ligando para a cuidadora e ela deixou acampar ao lado.
 
-![Sierras chicas](./assets/images/gigantes-tuneles.jpg)
+![Três fotos: O Franco e eu, as Sierras chicas e a vista lá de cima de Los Tuneles](./assets/images/gigantes-tuneles.jpg)
 
 
 

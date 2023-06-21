@@ -35,7 +35,7 @@ Sou muito agradecido por essa imersão de cultura através da música que tive.
 
 
 
-![A familia que me recebeu em Colonia Cello](./assets/images/FB_IMG_15097999207876126.jpg)
+![Duas fotos da familia que me recebeu em Colonia Cello](./assets/images/FB_IMG_15097999207876126.jpg)
 
 #### Dia 22
 
@@ -62,7 +62,7 @@ Passo pelo hotel abandonado Vienna e fico num camping próximo.
 Pedalo uns 40km até outro ponto próximo da laguna, onde paro num camping.
 Como é domingo, acabo me juntando a um grupo de homens argentinos que estão fazendo um assado.
 
-![Laguna mar Chiquita](./assets/images/20171104_151600.jpg)
+![Laguna mar Chiquita e a minha bicicleta ao centro](./assets/images/20171104_151600.jpg)
 
 [Mais fotos do trecho Santa Fé e Laguna Miramar](https://photos.app.goo.gl/e0Ee62FGLjaVAHd53)
 

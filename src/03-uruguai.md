@@ -43,7 +43,7 @@ Acompanhei eles até o local onde confeccionam móveis artesanais.
 A casa foi construída com madeira e isopor por eles, e não usam a rede elétrica, apenas placas solares.
 Eles falam polonês, e o Gianfranco um pouco de português também.
 
-![Selfie do casal e foto minha andando no pampa](./assets/images/salto.jpg)
+![Duas fotos: Selfie do casal e foto minha andando no pampa](./assets/images/salto.jpg)
 
 [Mais fotos do trecho no Uruguai](https://photos.app.goo.gl/2usGhXWPM3wV8BEh1)
 

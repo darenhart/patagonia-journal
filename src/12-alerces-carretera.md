@@ -37,8 +37,6 @@ Não sei por que, mas vários motoristas businavam quando passavam.
 Suspeitei de que estavam de alguma forma me vendo, mas não era possível pois eu nem tinha visão da estrada.
 Ali tinha mais um desses santuários da Difunta Correa, então no outro dia me dei conta que provavelmente era por causa disso.
 
--- CEREJAS
-
 #### Dia 72
 
 Encontrei no meio da estrada um cicloturista que vinha de Ushuaia.
@@ -50,8 +48,6 @@ Fui até a praça da cidade e conheci um casal que, assim como eu, vinha do nort
 Comentei sobre a possibilidade de pernoitar nos bombeiros e fomos juntos até lá.
 Dessa vez até colchões nos ofereceram.
 
-Nuvens formatos ---
-
 #### Dia 73
 
 Estava indeciso se ficaria mais um dia.
@@ -59,7 +55,7 @@ Era véspera de Natal e imaginei que os bombeiros talvez me convidassem para alg
 Não podia esperar muito tempo para saber e também fiquei sem jeito de pedir, então acabei seguindo.
 
 Entrei na área do Parque Nacional Los Alerces e fiquei em um camping *libre*.
-Acabei passando o Natal sozinho, mas não tinha muita esperança de que fosse diferente.
+Acabei passando o Natal sozinho, mas não tinha muita esperança de que fosse diferente. Lidar com isolamento faz parte de uma grande jornada e afinal eu estou onde quero, fazendo o que quero.
 
 #### Dia 74
 
@@ -69,7 +65,7 @@ O Alerce é uma árvore conífera, normalmente bem robusta com uma casca grossa.
 
 Fui para o próximo camping *libre* que tinha no parque.
 Foram poucos 31 quilômetros no dia, mas cheguei cansado.
-Estrada de chão com morros e clima variando entre chuvisco, vento e sol o dia inteiro.
+Estrada de chão com morros e clima variando o dia inteiro entre chuvisco, vento e sol.
 
 Antes de escurecer já entrei na barraca para me proteger do frio.
 Meu vizinho de camping que estava em um trailer, veio até a minha barraca e me deu um pedaço de frango assado quentinho!
@@ -90,7 +86,7 @@ Na aduana tinham restrições sobre passar com certos alimentos, então tive que
 
 Encontros entre cicloturistas no meio da estrada são sempre muito inusitados, mas dessa vez foi ainda mais.
 Me encontrei com um alemão e logo em seguida também apareceu uma mulher, ambos de uns 40 ou 50 anos de idade.
-Todos sorridentes e bem humorados, ainda mais com essa coincidência.
+Todos nós estávamos sorridentes e bem humorados, ainda mais com essa coincidência.
 O alemão era muito engraçado, queria explicar tudo sobre detalhes técnicos dos pneus de cada um.
 
 No povoado de Futaleufu, já no Chile, me informei de que o *aluvión* que ocorreu em Santa Lucia tinha bloqueado uma estrada para o norte, mas para o sul estava liberado. 
@@ -176,8 +172,12 @@ Depois chegou um casal de ingleses aposentados.
 E para minha surpresa, de repente surge o Rafael, o mexicano que pedalou comigo em Mendoza!
 Cada um tinha seguido um caminho diferente mas nos encontramos de novo!
 
-Ao escurecer, chega um cara em uma camionete 4x4 e eu acabo o julgando como alguém que não corresponde com as pessoas dali.
-Ele traz um violão e humildemente me mostra uns mpbs calminhos e tocamos umas junto e acabo me dando muito com ele.
+Ao escurecer, chega um cara em uma camionete 4x4 e à primeira vista eu acabo o julgando como alguém que não se encaixava com as pessoas dali.
+Ele traz um violão e humildemente me mostra uns MPB's calminhos e tocamos umas junto e acabo me dando muito bem com ele.
+
+Ao escurecer, chegou um brasileiro numa caminhonete 4x4 grande. De primeira, achei que ele não combinava com a gente ali. Mas ele trouxe um violão e, de um jeito simples e humilde, me mostrou algumas músicas calmas de MPB. Tocamos juntos e acabei me dando bem com ele.
+
+
 
 #### Dia 82
 
@@ -189,7 +189,11 @@ ficamos eu e o nilton no el camping
 
 tinham mais uns cicloviajeros lá.
 
-vou no mecado fazer compras mas tem muita fila.
+fui no mecado fazer compras mas tem muita fila.
+
+...
+
+Continua...
 
 <!--
 
@@ -211,10 +215,10 @@ eu fico num wild camping e o milton/nilton num camping
 
 [Mais fotos do trecho Parque dos Alerces e Carretera Austral no Chile](https://photos.app.goo.gl/owQ46KX4YtjemQ5h1)
 
+--- Carreteira austral -- achei a parte da argentina/neuquen muito mais legal, menos chuva
 -->
 
 
 
 
 
---- Carreteira austral -- achei a parte da argentina/neuquen muito mais legal, menos chuva
